@@ -1,0 +1,2001 @@
+Restaurant_ID,Restaurant_Name,Cuisine,City,State,Rating,Delivery_Time_Min,Menu_Item,Category,Price,Calories,Is_Veg
+R0185,BBQ Nation,American,Dallas,TX,5.0,28,Butter Chicken,Starter,$13.99,575,No
+R0129,Pizza Palace,Italian,Chicago,IL,3.7,60,Taco,Main Course,$4.99,127,No
+R0253,BBQ Nation,American,Los Angeles,CA,3.9,44,Taco,Dessert,$4.99,485,Yes
+R0043,BBQ Nation,American,Chicago,IL,4.6,38,Sushi Roll,Dessert,$11.99,972,Yes
+R0028,Dragon Wok,Chinese,Dallas,TX,3.7,56,Coffee,Dessert,$3.99,1179,No
+R0173,Dragon Wok,Chinese,Seattle,WA,3.6,34,Burger,Snack,$8.99,970,No
+R0140,Cafe Delight,Cafe,Boston,MA,4.1,39,Sushi Roll,Snack,$11.99,778,Yes
+R0100,Burger Haven,American,Seattle,WA,4.0,43,Salad,Dessert,$7.49,179,No
+R0214,Pizza Palace,Italian,Phoenix,AZ,3.8,48,Pizza,Main Course,$12.99,463,No
+R0289,Mediterraneo,Mediterranean,Los Angeles,CA,4.7,51,Butter Chicken,Beverage,$13.99,672,No
+R0086,Burger Haven,American,Seattle,WA,4.7,17,Sushi Roll,Starter,$11.99,119,No
+R0208,Taco Fiesta,Mexican,New York,NY,4.3,26,Noodles,Dessert,$9.49,536,No
+R0051,Spice Route,Indian,Dallas,TX,3.6,26,Pizza,Beverage,$12.99,837,Yes
+R0070,Cafe Delight,Cafe,New York,NY,4.3,56,Sushi Roll,Main Course,$11.99,843,No
+R0144,Sushi Express,Japanese,Dallas,TX,4.1,49,Salad,Starter,$7.49,519,Yes
+R0163,Dragon Wok,Chinese,Phoenix,AZ,4.7,43,Pizza,Starter,$12.99,93,Yes
+R0261,Taco Fiesta,Mexican,Los Angeles,CA,3.7,23,Taco,Dessert,$4.99,919,Yes
+R0102,Healthy Bowl,Healthy,Chicago,IL,4.2,34,Butter Chicken,Dessert,$13.99,960,Yes
+R0253,Dragon Wok,Chinese,Houston,TX,4.0,22,Salad,Main Course,$7.49,554,No
+R0186,BBQ Nation,American,Houston,TX,4.4,41,Taco,Dessert,$4.99,668,No
+R0215,BBQ Nation,American,Houston,TX,3.6,17,Burger,Beverage,$8.99,1026,Yes
+R0282,Mediterraneo,Mediterranean,Los Angeles,CA,4.4,43,Salad,Starter,$7.49,404,No
+R0212,Dragon Wok,Chinese,Houston,TX,4.2,22,Pasta,Starter,$10.49,811,No
+R0170,Burger Haven,American,Dallas,TX,4.0,15,Pasta,Main Course,$10.49,1005,No
+R0202,Taco Fiesta,Mexican,Boston,MA,4.1,53,Noodles,Main Course,$9.49,206,Yes
+R0180,Pizza Palace,Italian,Los Angeles,CA,4.1,32,Coffee,Main Course,$3.99,916,No
+R0300,Sushi Express,Japanese,Boston,MA,4.1,18,Taco,Dessert,$4.99,195,Yes
+R0124,Taco Fiesta,Mexican,Phoenix,AZ,3.8,56,Burger,Starter,$8.99,605,No
+R0016,Spice Route,Indian,Phoenix,AZ,3.6,55,Pizza,Dessert,$12.99,456,Yes
+R0163,Taco Fiesta,Mexican,Seattle,WA,4.9,28,Butter Chicken,Beverage,$13.99,128,Yes
+R0124,Sushi Express,Japanese,Chicago,IL,3.9,30,Pizza,Beverage,$12.99,264,Yes
+R0035,Healthy Bowl,Healthy,Seattle,WA,4.3,39,Pizza,Starter,$12.99,319,Yes
+R0237,Sushi Express,Japanese,Boston,MA,4.2,49,Pizza,Dessert,$12.99,622,No
+R0231,Pizza Palace,Italian,New York,NY,4.8,51,Paneer Tikka,Starter,$10.99,1068,Yes
+R0136,Taco Fiesta,Mexican,Boston,MA,4.9,57,Sushi Roll,Starter,$11.99,461,No
+R0103,Taco Fiesta,Mexican,Houston,TX,4.6,53,Burger,Snack,$8.99,151,Yes
+R0150,Dragon Wok,Chinese,Chicago,IL,4.6,59,Taco,Snack,$4.99,329,Yes
+R0191,Cafe Delight,Cafe,Los Angeles,CA,3.5,32,Noodles,Dessert,$9.49,593,No
+R0232,Mediterraneo,Mediterranean,Houston,TX,4.4,19,Coffee,Dessert,$3.99,1174,No
+R0262,Burger Haven,American,Seattle,WA,4.1,50,Pizza,Dessert,$12.99,981,No
+R0233,Mediterraneo,Mediterranean,Houston,TX,4.3,19,Coffee,Dessert,$3.99,1140,No
+R0097,Mediterraneo,Mediterranean,Los Angeles,CA,4.4,20,Pizza,Main Course,$12.99,926,Yes
+R0150,Pizza Palace,Italian,Houston,TX,3.6,30,Sushi Roll,Starter,$11.99,731,No
+R0282,Burger Haven,American,Chicago,IL,3.9,25,Butter Chicken,Starter,$13.99,431,No
+R0111,BBQ Nation,American,Houston,TX,4.2,20,Taco,Dessert,$4.99,1177,Yes
+R0247,Taco Fiesta,Mexican,Houston,TX,4.2,42,Paneer Tikka,Beverage,$10.99,252,No
+R0078,Pizza Palace,Italian,Los Angeles,CA,4.3,49,Butter Chicken,Main Course,$13.99,178,No
+R0146,Sushi Express,Japanese,Phoenix,AZ,5.0,60,Butter Chicken,Snack,$13.99,789,Yes
+R0284,Cafe Delight,Cafe,Boston,MA,3.5,56,Paneer Tikka,Starter,$10.99,897,Yes
+R0253,Cafe Delight,Cafe,Los Angeles,CA,4.8,17,Salad,Beverage,$7.49,313,No
+R0094,Pizza Palace,Italian,Chicago,IL,4.4,39,Noodles,Starter,$9.49,1134,Yes
+R0203,Cafe Delight,Cafe,Houston,TX,4.4,39,Pizza,Dessert,$12.99,358,Yes
+R0061,Cafe Delight,Cafe,Phoenix,AZ,3.9,24,Sushi Roll,Starter,$11.99,361,Yes
+R0077,Taco Fiesta,Mexican,Dallas,TX,3.7,29,Burger,Dessert,$8.99,861,Yes
+R0184,BBQ Nation,American,Los Angeles,CA,4.8,54,Butter Chicken,Snack,$13.99,938,Yes
+R0215,Pizza Palace,Italian,Seattle,WA,4.9,50,Butter Chicken,Snack,$13.99,592,Yes
+R0040,BBQ Nation,American,Dallas,TX,3.7,53,Coffee,Dessert,$3.99,262,No
+R0114,Sushi Express,Japanese,Houston,TX,5.0,23,Burger,Main Course,$8.99,293,Yes
+R0169,Pizza Palace,Italian,Phoenix,AZ,4.8,17,Taco,Main Course,$4.99,1015,No
+R0202,Spice Route,Indian,Dallas,TX,4.9,50,Pizza,Starter,$12.99,138,No
+R0053,Burger Haven,American,Seattle,WA,4.4,59,Noodles,Starter,$9.49,976,Yes
+R0210,Dragon Wok,Chinese,Seattle,WA,4.1,57,Coffee,Main Course,$3.99,775,No
+R0134,Burger Haven,American,Los Angeles,CA,3.6,34,Pasta,Starter,$10.49,363,No
+R0064,Cafe Delight,Cafe,Los Angeles,CA,4.8,49,Coffee,Dessert,$3.99,616,No
+R0106,Healthy Bowl,Healthy,Los Angeles,CA,4.2,28,Sushi Roll,Snack,$11.99,264,Yes
+R0202,Sushi Express,Japanese,New York,NY,4.1,46,Coffee,Snack,$3.99,341,Yes
+R0172,BBQ Nation,American,Dallas,TX,4.0,28,Noodles,Beverage,$9.49,131,No
+R0162,Pizza Palace,Italian,Phoenix,AZ,4.8,34,Noodles,Starter,$9.49,669,No
+R0142,Healthy Bowl,Healthy,Phoenix,AZ,4.6,22,Coffee,Dessert,$3.99,307,No
+R0033,Spice Route,Indian,New York,NY,3.6,23,Butter Chicken,Dessert,$13.99,267,Yes
+R0079,Spice Route,Indian,Phoenix,AZ,4.4,26,Butter Chicken,Starter,$13.99,163,No
+R0134,BBQ Nation,American,New York,NY,3.7,31,Taco,Beverage,$4.99,698,No
+R0271,Healthy Bowl,Healthy,Dallas,TX,3.5,24,Butter Chicken,Starter,$13.99,877,No
+R0209,BBQ Nation,American,Boston,MA,4.1,19,Noodles,Beverage,$9.49,691,Yes
+R0071,BBQ Nation,American,Los Angeles,CA,3.7,45,Pasta,Beverage,$10.49,1045,No
+R0167,Sushi Express,Japanese,New York,NY,4.6,48,Pasta,Main Course,$10.49,686,No
+R0081,Healthy Bowl,Healthy,New York,NY,4.3,42,Pasta,Beverage,$10.49,915,Yes
+R0206,BBQ Nation,American,Houston,TX,4.5,55,Salad,Dessert,$7.49,584,Yes
+R0001,Taco Fiesta,Mexican,New York,NY,4.1,23,Butter Chicken,Main Course,$13.99,813,No
+R0293,Sushi Express,Japanese,Houston,TX,4.9,40,Coffee,Snack,$3.99,695,No
+R0004,Taco Fiesta,Mexican,Dallas,TX,4.9,43,Pizza,Snack,$12.99,612,Yes
+R0155,Burger Haven,American,New York,NY,4.3,42,Sushi Roll,Dessert,$11.99,326,No
+R0091,Cafe Delight,Cafe,Seattle,WA,3.7,22,Salad,Beverage,$7.49,905,No
+R0276,Sushi Express,Japanese,Seattle,WA,4.8,31,Coffee,Snack,$3.99,924,Yes
+R0253,Sushi Express,Japanese,Chicago,IL,3.8,26,Pizza,Starter,$12.99,479,No
+R0035,Spice Route,Indian,New York,NY,5.0,15,Butter Chicken,Starter,$13.99,712,No
+R0046,Spice Route,Indian,Chicago,IL,4.4,40,Coffee,Main Course,$3.99,506,No
+R0144,Cafe Delight,Cafe,New York,NY,4.3,53,Paneer Tikka,Starter,$10.99,1138,No
+R0104,Burger Haven,American,Seattle,WA,3.6,28,Pasta,Beverage,$10.49,760,No
+R0039,Taco Fiesta,Mexican,New York,NY,4.6,43,Taco,Starter,$4.99,96,Yes
+R0053,BBQ Nation,American,Seattle,WA,4.0,15,Noodles,Dessert,$9.49,379,Yes
+R0222,Healthy Bowl,Healthy,Seattle,WA,4.2,18,Pasta,Dessert,$10.49,309,No
+R0202,BBQ Nation,American,Houston,TX,3.7,58,Taco,Beverage,$4.99,699,Yes
+R0237,Healthy Bowl,Healthy,Boston,MA,4.6,24,Burger,Beverage,$8.99,187,Yes
+R0289,Spice Route,Indian,New York,NY,3.5,16,Paneer Tikka,Starter,$10.99,704,No
+R0128,Dragon Wok,Chinese,Boston,MA,4.6,24,Taco,Main Course,$4.99,475,Yes
+R0109,Dragon Wok,Chinese,Chicago,IL,4.7,31,Paneer Tikka,Beverage,$10.99,1111,No
+R0065,BBQ Nation,American,Chicago,IL,4.9,36,Noodles,Dessert,$9.49,1101,No
+R0224,Mediterraneo,Mediterranean,Dallas,TX,4.7,50,Butter Chicken,Dessert,$13.99,270,Yes
+R0110,Pizza Palace,Italian,Chicago,IL,4.1,40,Pasta,Starter,$10.49,888,No
+R0213,Healthy Bowl,Healthy,Seattle,WA,5.0,31,Pizza,Starter,$12.99,646,No
+R0180,Pizza Palace,Italian,Boston,MA,3.9,31,Coffee,Dessert,$3.99,539,Yes
+R0289,Pizza Palace,Italian,Dallas,TX,4.3,36,Salad,Beverage,$7.49,1037,Yes
+R0175,Healthy Bowl,Healthy,Chicago,IL,4.8,28,Burger,Main Course,$8.99,782,No
+R0006,Pizza Palace,Italian,Houston,TX,4.7,57,Noodles,Main Course,$9.49,319,Yes
+R0132,Dragon Wok,Chinese,Los Angeles,CA,4.4,42,Noodles,Main Course,$9.49,124,No
+R0032,Spice Route,Indian,Seattle,WA,3.9,15,Taco,Starter,$4.99,269,Yes
+R0175,Burger Haven,American,New York,NY,4.6,35,Taco,Starter,$4.99,667,Yes
+R0123,Pizza Palace,Italian,Dallas,TX,4.0,53,Pizza,Beverage,$12.99,890,No
+R0278,Dragon Wok,Chinese,Phoenix,AZ,4.1,45,Salad,Starter,$7.49,1176,No
+R0172,Pizza Palace,Italian,Boston,MA,4.1,44,Paneer Tikka,Snack,$10.99,756,No
+R0182,BBQ Nation,American,Seattle,WA,4.4,15,Coffee,Main Course,$3.99,966,Yes
+R0198,Burger Haven,American,Seattle,WA,5.0,19,Taco,Beverage,$4.99,386,No
+R0172,Spice Route,Indian,Phoenix,AZ,4.8,35,Paneer Tikka,Starter,$10.99,634,Yes
+R0173,BBQ Nation,American,Boston,MA,4.0,42,Noodles,Main Course,$9.49,129,Yes
+R0027,Healthy Bowl,Healthy,New York,NY,3.9,22,Coffee,Dessert,$3.99,818,No
+R0242,Sushi Express,Japanese,Seattle,WA,4.9,60,Paneer Tikka,Beverage,$10.99,734,Yes
+R0222,Mediterraneo,Mediterranean,Dallas,TX,3.6,60,Burger,Snack,$8.99,885,No
+R0049,Cafe Delight,Cafe,Chicago,IL,4.2,46,Butter Chicken,Main Course,$13.99,582,Yes
+R0255,Burger Haven,American,Phoenix,AZ,4.8,15,Paneer Tikka,Beverage,$10.99,410,No
+R0228,BBQ Nation,American,Dallas,TX,4.8,35,Salad,Snack,$7.49,1188,Yes
+R0059,Dragon Wok,Chinese,Seattle,WA,4.2,20,Coffee,Main Course,$3.99,872,Yes
+R0079,Pizza Palace,Italian,Dallas,TX,3.8,15,Paneer Tikka,Dessert,$10.99,1070,Yes
+R0122,Taco Fiesta,Mexican,Phoenix,AZ,4.5,58,Butter Chicken,Beverage,$13.99,525,No
+R0055,Sushi Express,Japanese,Houston,TX,4.8,37,Coffee,Snack,$3.99,325,Yes
+R0142,Mediterraneo,Mediterranean,Dallas,TX,3.6,53,Pasta,Main Course,$10.49,101,Yes
+R0250,Healthy Bowl,Healthy,New York,NY,4.7,59,Sushi Roll,Snack,$11.99,277,Yes
+R0048,BBQ Nation,American,Phoenix,AZ,4.2,48,Pizza,Starter,$12.99,328,No
+R0117,BBQ Nation,American,Chicago,IL,3.9,15,Pizza,Main Course,$12.99,724,Yes
+R0066,Sushi Express,Japanese,New York,NY,4.6,43,Noodles,Starter,$9.49,981,No
+R0283,Mediterraneo,Mediterranean,Boston,MA,3.5,57,Sushi Roll,Beverage,$11.99,976,No
+R0119,Burger Haven,American,New York,NY,3.6,29,Noodles,Snack,$9.49,195,Yes
+R0103,BBQ Nation,American,Phoenix,AZ,3.7,31,Salad,Main Course,$7.49,602,No
+R0114,Spice Route,Indian,Chicago,IL,3.7,17,Paneer Tikka,Dessert,$10.99,727,No
+R0232,Burger Haven,American,Chicago,IL,4.7,36,Butter Chicken,Main Course,$13.99,945,Yes
+R0060,Sushi Express,Japanese,Chicago,IL,3.7,39,Sushi Roll,Main Course,$11.99,647,Yes
+R0121,Burger Haven,American,Dallas,TX,4.2,39,Butter Chicken,Main Course,$13.99,498,No
+R0166,Dragon Wok,Chinese,Dallas,TX,4.2,17,Pizza,Dessert,$12.99,1120,No
+R0297,Taco Fiesta,Mexican,Seattle,WA,5.0,49,Taco,Dessert,$4.99,402,Yes
+R0197,Taco Fiesta,Mexican,Los Angeles,CA,3.6,56,Pasta,Beverage,$10.49,636,No
+R0070,Cafe Delight,Cafe,Houston,TX,5.0,55,Taco,Snack,$4.99,912,No
+R0044,Spice Route,Indian,Dallas,TX,4.1,29,Noodles,Main Course,$9.49,315,No
+R0134,Dragon Wok,Chinese,Boston,MA,4.0,23,Butter Chicken,Main Course,$13.99,996,Yes
+R0296,Cafe Delight,Cafe,Phoenix,AZ,4.3,52,Salad,Snack,$7.49,512,No
+R0201,Pizza Palace,Italian,Seattle,WA,4.2,39,Pizza,Beverage,$12.99,816,Yes
+R0227,Dragon Wok,Chinese,Boston,MA,3.8,59,Butter Chicken,Snack,$13.99,357,No
+R0249,Taco Fiesta,Mexican,Chicago,IL,3.7,54,Sushi Roll,Beverage,$11.99,1002,No
+R0194,Mediterraneo,Mediterranean,Chicago,IL,4.7,31,Burger,Beverage,$8.99,431,No
+R0293,Healthy Bowl,Healthy,Dallas,TX,3.8,58,Salad,Snack,$7.49,1050,No
+R0244,Taco Fiesta,Mexican,New York,NY,3.7,27,Sushi Roll,Beverage,$11.99,791,Yes
+R0275,Spice Route,Indian,Houston,TX,3.6,48,Pasta,Starter,$10.49,1157,Yes
+R0097,Spice Route,Indian,Boston,MA,4.1,48,Paneer Tikka,Dessert,$10.99,869,Yes
+R0217,Cafe Delight,Cafe,Boston,MA,4.7,37,Taco,Starter,$4.99,683,Yes
+R0080,Cafe Delight,Cafe,Boston,MA,4.0,38,Butter Chicken,Beverage,$13.99,280,No
+R0040,Healthy Bowl,Healthy,Chicago,IL,4.4,33,Butter Chicken,Main Course,$13.99,867,Yes
+R0227,Cafe Delight,Cafe,Chicago,IL,3.9,22,Sushi Roll,Dessert,$11.99,974,No
+R0140,BBQ Nation,American,Phoenix,AZ,4.0,50,Pizza,Beverage,$12.99,1112,No
+R0262,BBQ Nation,American,Los Angeles,CA,4.2,36,Salad,Dessert,$7.49,1070,Yes
+R0033,Healthy Bowl,Healthy,Houston,TX,4.5,39,Coffee,Beverage,$3.99,609,Yes
+R0179,Burger Haven,American,Chicago,IL,3.5,45,Butter Chicken,Dessert,$13.99,855,Yes
+R0239,Dragon Wok,Chinese,Seattle,WA,4.7,38,Burger,Snack,$8.99,853,Yes
+R0253,Spice Route,Indian,Seattle,WA,3.9,36,Pasta,Snack,$10.49,101,No
+R0143,Taco Fiesta,Mexican,Boston,MA,3.8,32,Pizza,Main Course,$12.99,629,No
+R0217,Sushi Express,Japanese,Chicago,IL,4.6,29,Noodles,Starter,$9.49,608,No
+R0010,Sushi Express,Japanese,Seattle,WA,4.5,32,Coffee,Starter,$3.99,584,No
+R0261,Taco Fiesta,Mexican,Chicago,IL,3.7,27,Butter Chicken,Beverage,$13.99,674,No
+R0186,Healthy Bowl,Healthy,Dallas,TX,4.1,37,Coffee,Main Course,$3.99,1051,No
+R0222,Cafe Delight,Cafe,Seattle,WA,4.3,39,Pasta,Dessert,$10.49,509,Yes
+R0211,Healthy Bowl,Healthy,Chicago,IL,3.5,23,Salad,Main Course,$7.49,542,No
+R0146,Dragon Wok,Chinese,Boston,MA,4.0,34,Pizza,Snack,$12.99,206,No
+R0079,Cafe Delight,Cafe,Los Angeles,CA,3.7,15,Burger,Starter,$8.99,582,No
+R0071,Burger Haven,American,Los Angeles,CA,4.2,29,Butter Chicken,Snack,$13.99,286,Yes
+R0129,BBQ Nation,American,Phoenix,AZ,4.4,15,Paneer Tikka,Snack,$10.99,337,No
+R0054,Mediterraneo,Mediterranean,Los Angeles,CA,4.0,39,Taco,Main Course,$4.99,468,Yes
+R0009,Dragon Wok,Chinese,Houston,TX,4.1,32,Burger,Dessert,$8.99,328,Yes
+R0250,Pizza Palace,Italian,Phoenix,AZ,4.0,48,Salad,Dessert,$7.49,1066,No
+R0064,Dragon Wok,Chinese,Houston,TX,4.2,41,Paneer Tikka,Snack,$10.99,608,Yes
+R0232,Healthy Bowl,Healthy,New York,NY,3.9,38,Pizza,Starter,$12.99,988,Yes
+R0175,Cafe Delight,Cafe,New York,NY,3.7,43,Salad,Starter,$7.49,419,Yes
+R0053,Taco Fiesta,Mexican,Seattle,WA,3.5,23,Taco,Main Course,$4.99,1068,Yes
+R0184,Cafe Delight,Cafe,Los Angeles,CA,4.5,38,Noodles,Starter,$9.49,1036,No
+R0100,Taco Fiesta,Mexican,Chicago,IL,4.9,33,Pasta,Beverage,$10.49,448,No
+R0228,Healthy Bowl,Healthy,New York,NY,4.3,60,Salad,Main Course,$7.49,1044,No
+R0204,Healthy Bowl,Healthy,Chicago,IL,3.8,54,Sushi Roll,Beverage,$11.99,216,No
+R0259,Spice Route,Indian,Chicago,IL,4.0,42,Noodles,Dessert,$9.49,853,No
+R0149,Spice Route,Indian,Seattle,WA,4.2,60,Salad,Beverage,$7.49,288,No
+R0289,Pizza Palace,Italian,Boston,MA,3.6,29,Butter Chicken,Starter,$13.99,706,No
+R0027,Sushi Express,Japanese,Phoenix,AZ,4.6,46,Coffee,Starter,$3.99,152,No
+R0148,BBQ Nation,American,Houston,TX,5.0,52,Noodles,Starter,$9.49,1064,Yes
+R0112,Healthy Bowl,Healthy,Seattle,WA,4.4,48,Pasta,Starter,$10.49,851,Yes
+R0180,Dragon Wok,Chinese,Houston,TX,4.9,52,Taco,Starter,$4.99,396,Yes
+R0123,Spice Route,Indian,Seattle,WA,4.3,55,Taco,Starter,$4.99,1169,Yes
+R0085,Sushi Express,Japanese,Houston,TX,3.9,25,Burger,Beverage,$8.99,792,No
+R0159,Dragon Wok,Chinese,Seattle,WA,4.7,22,Coffee,Snack,$3.99,919,No
+R0278,Mediterraneo,Mediterranean,Houston,TX,3.8,35,Paneer Tikka,Snack,$10.99,348,No
+R0085,Sushi Express,Japanese,Houston,TX,4.8,23,Coffee,Beverage,$3.99,1019,Yes
+R0028,Dragon Wok,Chinese,New York,NY,4.2,24,Pasta,Beverage,$10.49,556,Yes
+R0199,Healthy Bowl,Healthy,Chicago,IL,4.9,29,Noodles,Starter,$9.49,283,Yes
+R0237,Taco Fiesta,Mexican,Chicago,IL,4.1,16,Pizza,Starter,$12.99,333,No
+R0219,Dragon Wok,Chinese,Chicago,IL,4.4,58,Paneer Tikka,Main Course,$10.99,140,Yes
+R0165,Healthy Bowl,Healthy,Boston,MA,4.4,27,Pasta,Main Course,$10.49,1010,Yes
+R0110,Healthy Bowl,Healthy,Seattle,WA,4.3,17,Salad,Snack,$7.49,110,No
+R0036,Healthy Bowl,Healthy,New York,NY,4.2,53,Butter Chicken,Snack,$13.99,953,Yes
+R0112,Pizza Palace,Italian,Seattle,WA,4.2,19,Taco,Snack,$4.99,106,Yes
+R0050,Healthy Bowl,Healthy,Dallas,TX,3.5,49,Coffee,Starter,$3.99,894,Yes
+R0053,Mediterraneo,Mediterranean,New York,NY,3.5,21,Coffee,Starter,$3.99,432,No
+R0282,Sushi Express,Japanese,Chicago,IL,4.6,16,Butter Chicken,Snack,$13.99,951,No
+R0207,Burger Haven,American,Dallas,TX,4.0,47,Coffee,Starter,$3.99,778,No
+R0097,BBQ Nation,American,Houston,TX,3.6,33,Sushi Roll,Beverage,$11.99,1045,Yes
+R0194,Burger Haven,American,Los Angeles,CA,3.6,20,Pizza,Dessert,$12.99,1177,Yes
+R0104,Mediterraneo,Mediterranean,Dallas,TX,3.9,48,Sushi Roll,Starter,$11.99,800,No
+R0016,Healthy Bowl,Healthy,Houston,TX,3.6,52,Salad,Beverage,$7.49,170,No
+R0003,Taco Fiesta,Mexican,Houston,TX,4.0,60,Sushi Roll,Snack,$11.99,504,Yes
+R0090,BBQ Nation,American,Chicago,IL,3.6,27,Sushi Roll,Beverage,$11.99,255,Yes
+R0163,Cafe Delight,Cafe,Dallas,TX,4.2,49,Paneer Tikka,Main Course,$10.99,550,Yes
+R0242,Spice Route,Indian,Phoenix,AZ,4.3,19,Burger,Dessert,$8.99,1152,No
+R0173,Sushi Express,Japanese,Chicago,IL,4.9,53,Butter Chicken,Dessert,$13.99,1031,Yes
+R0229,BBQ Nation,American,Los Angeles,CA,4.1,49,Paneer Tikka,Snack,$10.99,1026,No
+R0189,Cafe Delight,Cafe,Phoenix,AZ,3.7,58,Burger,Starter,$8.99,287,Yes
+R0198,Dragon Wok,Chinese,Boston,MA,3.8,25,Burger,Snack,$8.99,464,Yes
+R0210,Burger Haven,American,Boston,MA,4.0,44,Salad,Main Course,$7.49,425,No
+R0122,Cafe Delight,Cafe,Houston,TX,3.5,50,Salad,Snack,$7.49,862,No
+R0013,Burger Haven,American,Boston,MA,3.6,36,Coffee,Dessert,$3.99,533,Yes
+R0251,Taco Fiesta,Mexican,New York,NY,3.7,24,Coffee,Main Course,$3.99,645,Yes
+R0104,Taco Fiesta,Mexican,Boston,MA,4.3,33,Pasta,Starter,$10.49,809,Yes
+R0194,Taco Fiesta,Mexican,Phoenix,AZ,3.7,42,Taco,Snack,$4.99,861,No
+R0226,Cafe Delight,Cafe,Seattle,WA,4.7,20,Sushi Roll,Dessert,$11.99,712,No
+R0064,Burger Haven,American,Los Angeles,CA,4.8,45,Salad,Dessert,$7.49,280,No
+R0239,Mediterraneo,Mediterranean,Houston,TX,4.9,46,Butter Chicken,Dessert,$13.99,816,No
+R0035,BBQ Nation,American,Chicago,IL,4.9,51,Coffee,Starter,$3.99,372,No
+R0166,Mediterraneo,Mediterranean,Chicago,IL,3.6,58,Noodles,Main Course,$9.49,129,Yes
+R0040,Sushi Express,Japanese,Boston,MA,4.0,56,Taco,Beverage,$4.99,389,No
+R0226,Healthy Bowl,Healthy,Chicago,IL,4.5,16,Pizza,Main Course,$12.99,1184,No
+R0160,Dragon Wok,Chinese,Seattle,WA,3.8,54,Paneer Tikka,Snack,$10.99,1125,No
+R0070,Mediterraneo,Mediterranean,Phoenix,AZ,4.7,34,Noodles,Starter,$9.49,909,Yes
+R0050,Dragon Wok,Chinese,New York,NY,4.1,58,Taco,Dessert,$4.99,237,Yes
+R0089,Cafe Delight,Cafe,Phoenix,AZ,4.0,19,Pasta,Main Course,$10.49,201,Yes
+R0100,Healthy Bowl,Healthy,Boston,MA,4.8,38,Salad,Starter,$7.49,1009,Yes
+R0016,Healthy Bowl,Healthy,Phoenix,AZ,3.6,36,Paneer Tikka,Snack,$10.99,411,Yes
+R0226,Spice Route,Indian,Seattle,WA,4.7,50,Salad,Dessert,$7.49,584,Yes
+R0082,Taco Fiesta,Mexican,Chicago,IL,3.7,22,Butter Chicken,Beverage,$13.99,860,Yes
+R0274,Healthy Bowl,Healthy,Boston,MA,4.8,40,Pasta,Dessert,$10.49,569,No
+R0106,Mediterraneo,Mediterranean,Dallas,TX,4.3,15,Pasta,Snack,$10.49,596,Yes
+R0245,Healthy Bowl,Healthy,Los Angeles,CA,4.1,34,Taco,Snack,$4.99,681,No
+R0149,Burger Haven,American,Phoenix,AZ,4.9,24,Pasta,Beverage,$10.49,975,No
+R0102,Taco Fiesta,Mexican,New York,NY,5.0,47,Pizza,Main Course,$12.99,684,No
+R0199,Burger Haven,American,Phoenix,AZ,4.9,26,Paneer Tikka,Dessert,$10.99,555,No
+R0175,Pizza Palace,Italian,Phoenix,AZ,4.4,15,Coffee,Snack,$3.99,785,No
+R0151,Dragon Wok,Chinese,Los Angeles,CA,5.0,57,Butter Chicken,Snack,$13.99,1088,Yes
+R0297,Taco Fiesta,Mexican,Chicago,IL,4.9,52,Sushi Roll,Starter,$11.99,1007,No
+R0177,Cafe Delight,Cafe,Seattle,WA,4.0,43,Paneer Tikka,Main Course,$10.99,504,No
+R0174,Healthy Bowl,Healthy,Los Angeles,CA,4.6,40,Burger,Main Course,$8.99,548,Yes
+R0025,Mediterraneo,Mediterranean,Seattle,WA,4.2,42,Paneer Tikka,Dessert,$10.99,951,No
+R0133,Dragon Wok,Chinese,Phoenix,AZ,4.6,48,Pasta,Snack,$10.49,186,Yes
+R0255,Cafe Delight,Cafe,Dallas,TX,4.8,15,Pasta,Starter,$10.49,160,No
+R0146,Healthy Bowl,Healthy,Houston,TX,3.8,51,Taco,Beverage,$4.99,993,No
+R0093,Burger Haven,American,Seattle,WA,4.6,45,Sushi Roll,Starter,$11.99,693,No
+R0228,Sushi Express,Japanese,Los Angeles,CA,4.5,32,Paneer Tikka,Starter,$10.99,310,No
+R0119,Dragon Wok,Chinese,Phoenix,AZ,4.4,30,Burger,Beverage,$8.99,214,No
+R0255,Cafe Delight,Cafe,Los Angeles,CA,3.7,22,Noodles,Snack,$9.49,746,Yes
+R0139,Pizza Palace,Italian,New York,NY,4.4,38,Burger,Starter,$8.99,1090,No
+R0229,Dragon Wok,Chinese,Phoenix,AZ,4.6,60,Sushi Roll,Beverage,$11.99,1138,Yes
+R0131,Healthy Bowl,Healthy,Seattle,WA,4.0,60,Butter Chicken,Starter,$13.99,171,Yes
+R0143,Sushi Express,Japanese,Dallas,TX,4.2,17,Butter Chicken,Starter,$13.99,103,Yes
+R0082,Cafe Delight,Cafe,Dallas,TX,4.7,25,Burger,Snack,$8.99,324,No
+R0137,Taco Fiesta,Mexican,New York,NY,4.6,17,Sushi Roll,Beverage,$11.99,956,No
+R0246,Sushi Express,Japanese,Houston,TX,3.7,27,Pasta,Dessert,$10.49,517,Yes
+R0162,Mediterraneo,Mediterranean,Boston,MA,3.8,52,Paneer Tikka,Starter,$10.99,595,No
+R0206,Pizza Palace,Italian,Chicago,IL,4.6,37,Pizza,Beverage,$12.99,932,Yes
+R0171,Mediterraneo,Mediterranean,Phoenix,AZ,3.5,23,Pasta,Snack,$10.49,1146,Yes
+R0300,Dragon Wok,Chinese,Houston,TX,4.0,33,Noodles,Beverage,$9.49,647,No
+R0149,Spice Route,Indian,Seattle,WA,4.5,32,Salad,Starter,$7.49,507,No
+R0277,Mediterraneo,Mediterranean,Seattle,WA,4.7,45,Salad,Dessert,$7.49,1035,Yes
+R0187,Dragon Wok,Chinese,Phoenix,AZ,3.5,36,Taco,Beverage,$4.99,108,No
+R0084,Sushi Express,Japanese,Los Angeles,CA,4.4,15,Coffee,Dessert,$3.99,1178,No
+R0289,Dragon Wok,Chinese,Phoenix,AZ,3.7,36,Coffee,Starter,$3.99,542,No
+R0084,Burger Haven,American,Houston,TX,3.8,56,Noodles,Dessert,$9.49,295,Yes
+R0236,Mediterraneo,Mediterranean,Houston,TX,4.1,42,Paneer Tikka,Dessert,$10.99,769,No
+R0095,Taco Fiesta,Mexican,New York,NY,4.0,32,Pasta,Dessert,$10.49,594,No
+R0084,Mediterraneo,Mediterranean,Seattle,WA,4.3,20,Paneer Tikka,Dessert,$10.99,386,Yes
+R0017,Spice Route,Indian,Houston,TX,3.6,52,Coffee,Beverage,$3.99,695,No
+R0076,Dragon Wok,Chinese,Houston,TX,3.9,18,Pizza,Dessert,$12.99,176,Yes
+R0003,Sushi Express,Japanese,New York,NY,3.7,25,Noodles,Main Course,$9.49,968,No
+R0100,Mediterraneo,Mediterranean,Los Angeles,CA,4.3,31,Taco,Main Course,$4.99,438,No
+R0182,Taco Fiesta,Mexican,Dallas,TX,4.4,47,Sushi Roll,Beverage,$11.99,922,Yes
+R0125,Healthy Bowl,Healthy,Boston,MA,4.9,40,Burger,Main Course,$8.99,1158,No
+R0092,Burger Haven,American,Chicago,IL,4.8,47,Butter Chicken,Snack,$13.99,184,Yes
+R0235,Pizza Palace,Italian,Los Angeles,CA,4.1,48,Taco,Starter,$4.99,830,No
+R0183,Taco Fiesta,Mexican,Phoenix,AZ,4.8,43,Pasta,Snack,$10.49,430,Yes
+R0203,Dragon Wok,Chinese,Chicago,IL,4.9,39,Sushi Roll,Snack,$11.99,1178,No
+R0280,Taco Fiesta,Mexican,Boston,MA,4.3,36,Sushi Roll,Starter,$11.99,884,No
+R0139,Sushi Express,Japanese,Los Angeles,CA,4.5,31,Pasta,Starter,$10.49,517,Yes
+R0010,Pizza Palace,Italian,Houston,TX,3.5,24,Sushi Roll,Snack,$11.99,253,Yes
+R0115,Healthy Bowl,Healthy,Houston,TX,4.1,38,Burger,Starter,$8.99,345,Yes
+R0012,Spice Route,Indian,Phoenix,AZ,4.8,27,Butter Chicken,Snack,$13.99,300,No
+R0259,Healthy Bowl,Healthy,Boston,MA,4.4,48,Pasta,Beverage,$10.49,1050,Yes
+R0043,Healthy Bowl,Healthy,Houston,TX,3.8,17,Burger,Dessert,$8.99,486,No
+R0238,Sushi Express,Japanese,Los Angeles,CA,4.7,50,Salad,Starter,$7.49,1079,No
+R0136,Burger Haven,American,Houston,TX,4.0,55,Pizza,Snack,$12.99,1170,Yes
+R0182,Mediterraneo,Mediterranean,Houston,TX,4.7,51,Pasta,Starter,$10.49,833,No
+R0163,Burger Haven,American,Boston,MA,4.1,56,Noodles,Snack,$9.49,541,No
+R0233,Burger Haven,American,Chicago,IL,4.1,19,Noodles,Dessert,$9.49,956,Yes
+R0040,Dragon Wok,Chinese,Houston,TX,3.5,58,Pizza,Dessert,$12.99,684,Yes
+R0243,Pizza Palace,Italian,Seattle,WA,4.0,21,Pizza,Starter,$12.99,250,No
+R0043,Sushi Express,Japanese,Los Angeles,CA,3.9,22,Burger,Starter,$8.99,367,Yes
+R0222,Burger Haven,American,Houston,TX,4.7,21,Noodles,Main Course,$9.49,243,Yes
+R0286,Burger Haven,American,Phoenix,AZ,3.6,24,Pizza,Dessert,$12.99,1011,Yes
+R0244,Mediterraneo,Mediterranean,Seattle,WA,4.4,18,Noodles,Main Course,$9.49,324,No
+R0107,Healthy Bowl,Healthy,Houston,TX,3.9,27,Salad,Main Course,$7.49,529,No
+R0233,Taco Fiesta,Mexican,Seattle,WA,4.7,57,Salad,Starter,$7.49,955,No
+R0295,Taco Fiesta,Mexican,Los Angeles,CA,5.0,44,Salad,Beverage,$7.49,422,Yes
+R0077,Healthy Bowl,Healthy,Los Angeles,CA,4.7,45,Butter Chicken,Snack,$13.99,558,No
+R0047,Mediterraneo,Mediterranean,New York,NY,4.8,48,Taco,Snack,$4.99,619,No
+R0167,Taco Fiesta,Mexican,New York,NY,4.7,35,Salad,Beverage,$7.49,1072,No
+R0252,Sushi Express,Japanese,Phoenix,AZ,4.0,54,Salad,Starter,$7.49,1074,No
+R0053,Sushi Express,Japanese,Los Angeles,CA,5.0,49,Butter Chicken,Main Course,$13.99,1125,Yes
+R0149,Spice Route,Indian,Boston,MA,4.8,47,Butter Chicken,Snack,$13.99,1077,No
+R0201,Sushi Express,Japanese,Los Angeles,CA,4.0,31,Noodles,Beverage,$9.49,598,No
+R0158,Mediterraneo,Mediterranean,Boston,MA,3.8,35,Butter Chicken,Main Course,$13.99,480,No
+R0235,Burger Haven,American,Seattle,WA,4.2,38,Pizza,Main Course,$12.99,702,No
+R0103,Taco Fiesta,Mexican,Boston,MA,3.8,20,Sushi Roll,Main Course,$11.99,92,No
+R0221,Cafe Delight,Cafe,New York,NY,4.7,25,Sushi Roll,Starter,$11.99,996,No
+R0056,Cafe Delight,Cafe,Phoenix,AZ,4.2,45,Burger,Beverage,$8.99,1018,No
+R0260,Healthy Bowl,Healthy,Los Angeles,CA,3.8,31,Salad,Dessert,$7.49,303,Yes
+R0143,Healthy Bowl,Healthy,Houston,TX,4.1,59,Salad,Starter,$7.49,707,No
+R0139,Healthy Bowl,Healthy,Phoenix,AZ,3.6,18,Paneer Tikka,Starter,$10.99,450,Yes
+R0138,Taco Fiesta,Mexican,New York,NY,4.6,31,Coffee,Beverage,$3.99,1167,No
+R0294,Pizza Palace,Italian,Houston,TX,4.9,35,Butter Chicken,Snack,$13.99,326,Yes
+R0284,Mediterraneo,Mediterranean,Houston,TX,3.7,55,Coffee,Snack,$3.99,764,No
+R0206,Taco Fiesta,Mexican,New York,NY,4.1,35,Butter Chicken,Beverage,$13.99,279,Yes
+R0049,Sushi Express,Japanese,Los Angeles,CA,4.7,43,Pizza,Dessert,$12.99,445,No
+R0025,Taco Fiesta,Mexican,Seattle,WA,3.8,50,Paneer Tikka,Starter,$10.99,804,No
+R0069,Spice Route,Indian,Houston,TX,4.0,15,Burger,Beverage,$8.99,258,Yes
+R0032,Taco Fiesta,Mexican,Phoenix,AZ,4.8,34,Pizza,Starter,$12.99,272,No
+R0100,Mediterraneo,Mediterranean,Chicago,IL,4.7,20,Coffee,Starter,$3.99,466,Yes
+R0076,Pizza Palace,Italian,Phoenix,AZ,3.7,44,Sushi Roll,Main Course,$11.99,441,No
+R0286,Healthy Bowl,Healthy,Houston,TX,3.9,47,Pasta,Beverage,$10.49,426,No
+R0216,Cafe Delight,Cafe,Phoenix,AZ,4.3,49,Noodles,Beverage,$9.49,1112,Yes
+R0118,Cafe Delight,Cafe,New York,NY,4.4,38,Pizza,Starter,$12.99,1072,Yes
+R0028,Sushi Express,Japanese,Chicago,IL,3.6,46,Sushi Roll,Beverage,$11.99,743,Yes
+R0116,Burger Haven,American,Seattle,WA,3.9,58,Butter Chicken,Main Course,$13.99,1093,Yes
+R0182,Pizza Palace,Italian,Dallas,TX,4.0,43,Noodles,Dessert,$9.49,92,Yes
+R0184,Pizza Palace,Italian,Seattle,WA,4.2,52,Pizza,Main Course,$12.99,1159,Yes
+R0013,Sushi Express,Japanese,New York,NY,4.0,41,Noodles,Main Course,$9.49,770,Yes
+R0015,Taco Fiesta,Mexican,Phoenix,AZ,4.4,47,Coffee,Snack,$3.99,1135,No
+R0112,Spice Route,Indian,Boston,MA,5.0,55,Taco,Beverage,$4.99,885,Yes
+R0163,Burger Haven,American,Houston,TX,4.4,35,Pasta,Starter,$10.49,179,No
+R0117,Burger Haven,American,Chicago,IL,4.8,18,Burger,Snack,$8.99,665,No
+R0117,Sushi Express,Japanese,Boston,MA,4.2,41,Butter Chicken,Dessert,$13.99,1028,No
+R0193,Dragon Wok,Chinese,New York,NY,4.0,21,Pizza,Snack,$12.99,349,No
+R0233,Mediterraneo,Mediterranean,Phoenix,AZ,4.6,44,Pizza,Starter,$12.99,645,Yes
+R0077,BBQ Nation,American,Los Angeles,CA,3.6,31,Coffee,Main Course,$3.99,192,Yes
+R0294,BBQ Nation,American,Seattle,WA,4.9,50,Pasta,Starter,$10.49,243,No
+R0148,Dragon Wok,Chinese,Seattle,WA,4.6,35,Pizza,Dessert,$12.99,524,No
+R0205,Burger Haven,American,Seattle,WA,4.4,58,Sushi Roll,Snack,$11.99,956,Yes
+R0293,Burger Haven,American,Chicago,IL,4.3,34,Paneer Tikka,Main Course,$10.99,923,No
+R0252,Healthy Bowl,Healthy,Los Angeles,CA,4.6,18,Burger,Snack,$8.99,990,No
+R0056,Dragon Wok,Chinese,Seattle,WA,4.5,22,Pizza,Main Course,$12.99,446,No
+R0050,Taco Fiesta,Mexican,Boston,MA,4.4,20,Sushi Roll,Dessert,$11.99,654,Yes
+R0236,BBQ Nation,American,Phoenix,AZ,4.0,34,Sushi Roll,Snack,$11.99,91,Yes
+R0228,Cafe Delight,Cafe,Boston,MA,5.0,38,Burger,Dessert,$8.99,229,Yes
+R0214,BBQ Nation,American,Los Angeles,CA,3.9,22,Salad,Starter,$7.49,876,No
+R0099,Cafe Delight,Cafe,Houston,TX,3.7,25,Burger,Main Course,$8.99,793,No
+R0005,Healthy Bowl,Healthy,Los Angeles,CA,3.6,58,Pasta,Snack,$10.49,924,No
+R0200,Sushi Express,Japanese,Los Angeles,CA,4.4,51,Taco,Starter,$4.99,417,No
+R0112,Pizza Palace,Italian,Boston,MA,4.4,44,Noodles,Dessert,$9.49,863,Yes
+R0054,Spice Route,Indian,Houston,TX,4.2,22,Coffee,Snack,$3.99,543,Yes
+R0173,Burger Haven,American,Los Angeles,CA,4.8,26,Pasta,Dessert,$10.49,849,No
+R0094,Sushi Express,Japanese,Phoenix,AZ,4.4,23,Pizza,Beverage,$12.99,684,No
+R0093,Mediterraneo,Mediterranean,New York,NY,4.6,26,Butter Chicken,Snack,$13.99,379,Yes
+R0177,Sushi Express,Japanese,Los Angeles,CA,3.9,37,Taco,Starter,$4.99,445,No
+R0280,Healthy Bowl,Healthy,Phoenix,AZ,4.4,45,Noodles,Snack,$9.49,88,No
+R0250,BBQ Nation,American,Dallas,TX,4.8,24,Taco,Beverage,$4.99,381,No
+R0244,Healthy Bowl,Healthy,Los Angeles,CA,4.8,48,Noodles,Dessert,$9.49,874,No
+R0117,Sushi Express,Japanese,Houston,TX,4.2,17,Noodles,Dessert,$9.49,631,No
+R0286,Taco Fiesta,Mexican,Phoenix,AZ,4.4,53,Sushi Roll,Dessert,$11.99,439,Yes
+R0219,Dragon Wok,Chinese,Boston,MA,3.9,29,Burger,Beverage,$8.99,725,Yes
+R0125,Sushi Express,Japanese,Boston,MA,4.9,43,Noodles,Beverage,$9.49,847,Yes
+R0192,Mediterraneo,Mediterranean,Chicago,IL,3.5,55,Butter Chicken,Snack,$13.99,190,No
+R0201,Healthy Bowl,Healthy,Dallas,TX,4.5,37,Sushi Roll,Beverage,$11.99,386,No
+R0096,Healthy Bowl,Healthy,Chicago,IL,4.3,18,Burger,Dessert,$8.99,925,Yes
+R0100,Sushi Express,Japanese,Dallas,TX,4.0,27,Salad,Snack,$7.49,757,No
+R0300,Mediterraneo,Mediterranean,Seattle,WA,4.4,57,Butter Chicken,Snack,$13.99,885,Yes
+R0286,Taco Fiesta,Mexican,New York,NY,4.2,36,Coffee,Starter,$3.99,117,No
+R0227,Dragon Wok,Chinese,Boston,MA,4.2,21,Sushi Roll,Beverage,$11.99,1076,No
+R0007,BBQ Nation,American,Phoenix,AZ,4.6,47,Taco,Snack,$4.99,1068,No
+R0088,Pizza Palace,Italian,Boston,MA,3.7,57,Taco,Snack,$4.99,821,No
+R0114,Pizza Palace,Italian,Boston,MA,3.8,24,Sushi Roll,Dessert,$11.99,925,Yes
+R0291,Healthy Bowl,Healthy,Dallas,TX,4.8,34,Paneer Tikka,Main Course,$10.99,1054,No
+R0195,Pizza Palace,Italian,Houston,TX,4.6,29,Sushi Roll,Dessert,$11.99,700,No
+R0263,Cafe Delight,Cafe,New York,NY,3.9,48,Salad,Starter,$7.49,844,No
+R0231,Dragon Wok,Chinese,Chicago,IL,3.8,43,Taco,Snack,$4.99,169,Yes
+R0201,Taco Fiesta,Mexican,New York,NY,3.7,52,Paneer Tikka,Snack,$10.99,936,No
+R0179,BBQ Nation,American,Houston,TX,3.7,26,Butter Chicken,Dessert,$13.99,352,No
+R0091,Sushi Express,Japanese,Los Angeles,CA,3.7,38,Salad,Beverage,$7.49,816,No
+R0222,Burger Haven,American,New York,NY,4.0,51,Noodles,Starter,$9.49,427,Yes
+R0169,Pizza Palace,Italian,Dallas,TX,4.6,43,Pasta,Snack,$10.49,996,Yes
+R0243,Spice Route,Indian,Houston,TX,3.8,39,Sushi Roll,Beverage,$11.99,752,No
+R0230,Spice Route,Indian,Boston,MA,3.7,55,Paneer Tikka,Main Course,$10.99,1136,No
+R0149,Cafe Delight,Cafe,Los Angeles,CA,5.0,27,Coffee,Main Course,$3.99,167,Yes
+R0195,Cafe Delight,Cafe,Seattle,WA,4.2,18,Burger,Starter,$8.99,843,Yes
+R0063,Mediterraneo,Mediterranean,Boston,MA,3.6,23,Pasta,Snack,$10.49,178,Yes
+R0200,Sushi Express,Japanese,New York,NY,3.8,56,Coffee,Main Course,$3.99,1097,No
+R0296,Burger Haven,American,Dallas,TX,4.4,17,Salad,Main Course,$7.49,100,Yes
+R0165,Dragon Wok,Chinese,Seattle,WA,4.1,45,Coffee,Starter,$3.99,642,No
+R0284,Healthy Bowl,Healthy,New York,NY,4.9,36,Coffee,Beverage,$3.99,642,Yes
+R0107,Healthy Bowl,Healthy,Houston,TX,4.2,15,Pizza,Main Course,$12.99,236,Yes
+R0253,Burger Haven,American,Chicago,IL,4.0,59,Paneer Tikka,Dessert,$10.99,379,Yes
+R0210,Sushi Express,Japanese,Boston,MA,4.3,50,Salad,Snack,$7.49,588,No
+R0242,Dragon Wok,Chinese,Dallas,TX,4.2,37,Butter Chicken,Main Course,$13.99,703,Yes
+R0115,Healthy Bowl,Healthy,New York,NY,4.0,44,Pizza,Starter,$12.99,199,No
+R0247,Sushi Express,Japanese,New York,NY,4.1,23,Sushi Roll,Main Course,$11.99,400,Yes
+R0219,Dragon Wok,Chinese,New York,NY,4.3,21,Taco,Dessert,$4.99,760,No
+R0291,Taco Fiesta,Mexican,Houston,TX,4.3,46,Paneer Tikka,Starter,$10.99,1014,Yes
+R0133,Taco Fiesta,Mexican,Boston,MA,4.7,15,Pasta,Beverage,$10.49,1085,Yes
+R0154,Healthy Bowl,Healthy,Seattle,WA,3.7,22,Coffee,Dessert,$3.99,425,No
+R0244,Healthy Bowl,Healthy,New York,NY,4.1,58,Pasta,Snack,$10.49,174,No
+R0186,Spice Route,Indian,Seattle,WA,4.3,26,Burger,Beverage,$8.99,1198,No
+R0043,Burger Haven,American,Houston,TX,4.9,44,Sushi Roll,Snack,$11.99,778,No
+R0225,Healthy Bowl,Healthy,New York,NY,3.9,48,Paneer Tikka,Starter,$10.99,261,No
+R0253,Taco Fiesta,Mexican,Phoenix,AZ,5.0,46,Taco,Main Course,$4.99,1129,No
+R0130,Sushi Express,Japanese,New York,NY,4.7,35,Burger,Snack,$8.99,445,Yes
+R0228,Burger Haven,American,Houston,TX,4.0,35,Paneer Tikka,Starter,$10.99,425,No
+R0153,Dragon Wok,Chinese,New York,NY,3.7,19,Coffee,Snack,$3.99,135,Yes
+R0194,Mediterraneo,Mediterranean,Los Angeles,CA,4.5,51,Coffee,Snack,$3.99,1005,Yes
+R0094,Spice Route,Indian,Phoenix,AZ,4.4,31,Salad,Snack,$7.49,544,No
+R0084,Burger Haven,American,Seattle,WA,4.1,43,Butter Chicken,Dessert,$13.99,777,No
+R0227,Healthy Bowl,Healthy,New York,NY,4.1,45,Butter Chicken,Main Course,$13.99,86,Yes
+R0057,Taco Fiesta,Mexican,Los Angeles,CA,4.4,40,Pizza,Dessert,$12.99,288,Yes
+R0206,Healthy Bowl,Healthy,Boston,MA,4.3,40,Pizza,Starter,$12.99,689,No
+R0198,BBQ Nation,American,Los Angeles,CA,4.6,32,Coffee,Snack,$3.99,751,Yes
+R0266,Burger Haven,American,Phoenix,AZ,3.5,29,Pasta,Starter,$10.49,1137,No
+R0092,Burger Haven,American,Phoenix,AZ,4.2,32,Paneer Tikka,Starter,$10.99,222,No
+R0258,Healthy Bowl,Healthy,Seattle,WA,5.0,46,Butter Chicken,Dessert,$13.99,491,Yes
+R0276,BBQ Nation,American,Los Angeles,CA,4.6,19,Butter Chicken,Starter,$13.99,182,Yes
+R0027,Burger Haven,American,New York,NY,4.4,16,Taco,Beverage,$4.99,826,Yes
+R0130,BBQ Nation,American,Houston,TX,3.8,23,Pasta,Dessert,$10.49,619,Yes
+R0214,Taco Fiesta,Mexican,Los Angeles,CA,4.4,15,Salad,Main Course,$7.49,874,Yes
+R0094,Cafe Delight,Cafe,Dallas,TX,4.1,27,Pasta,Starter,$10.49,868,Yes
+R0143,Sushi Express,Japanese,Chicago,IL,3.8,43,Pasta,Beverage,$10.49,887,Yes
+R0237,Spice Route,Indian,Seattle,WA,4.9,57,Pizza,Starter,$12.99,873,Yes
+R0042,Healthy Bowl,Healthy,Seattle,WA,4.1,28,Pasta,Snack,$10.49,535,Yes
+R0101,Cafe Delight,Cafe,Seattle,WA,4.2,18,Pasta,Starter,$10.49,797,No
+R0064,Cafe Delight,Cafe,Chicago,IL,4.0,35,Butter Chicken,Snack,$13.99,83,No
+R0243,Pizza Palace,Italian,Dallas,TX,3.8,16,Noodles,Starter,$9.49,170,No
+R0063,Pizza Palace,Italian,New York,NY,3.6,27,Taco,Dessert,$4.99,336,Yes
+R0224,Burger Haven,American,Los Angeles,CA,4.7,35,Noodles,Beverage,$9.49,241,Yes
+R0056,Taco Fiesta,Mexican,Boston,MA,4.7,16,Butter Chicken,Snack,$13.99,579,Yes
+R0133,Taco Fiesta,Mexican,Boston,MA,3.8,49,Paneer Tikka,Beverage,$10.99,771,Yes
+R0289,Dragon Wok,Chinese,Boston,MA,3.7,38,Salad,Dessert,$7.49,528,No
+R0229,Spice Route,Indian,Boston,MA,4.8,52,Pasta,Starter,$10.49,411,Yes
+R0161,Mediterraneo,Mediterranean,Dallas,TX,4.3,53,Coffee,Starter,$3.99,212,No
+R0282,Healthy Bowl,Healthy,New York,NY,4.8,32,Noodles,Starter,$9.49,406,Yes
+R0060,Mediterraneo,Mediterranean,Los Angeles,CA,3.7,50,Noodles,Dessert,$9.49,491,No
+R0203,Burger Haven,American,New York,NY,3.9,18,Taco,Snack,$4.99,1086,No
+R0221,BBQ Nation,American,Phoenix,AZ,4.1,40,Butter Chicken,Beverage,$13.99,970,Yes
+R0180,Cafe Delight,Cafe,Chicago,IL,4.1,34,Salad,Beverage,$7.49,563,No
+R0075,Dragon Wok,Chinese,Chicago,IL,3.7,33,Pizza,Main Course,$12.99,102,No
+R0231,Mediterraneo,Mediterranean,Phoenix,AZ,4.0,27,Pizza,Beverage,$12.99,735,No
+R0065,Taco Fiesta,Mexican,Los Angeles,CA,3.9,38,Coffee,Snack,$3.99,780,No
+R0128,Spice Route,Indian,Phoenix,AZ,4.9,21,Noodles,Beverage,$9.49,182,Yes
+R0024,Healthy Bowl,Healthy,Seattle,WA,4.9,46,Salad,Starter,$7.49,326,Yes
+R0152,BBQ Nation,American,Dallas,TX,4.0,18,Pasta,Starter,$10.49,160,Yes
+R0136,Spice Route,Indian,Los Angeles,CA,3.8,27,Pizza,Snack,$12.99,562,No
+R0274,Pizza Palace,Italian,Phoenix,AZ,4.2,54,Pasta,Main Course,$10.49,576,Yes
+R0139,BBQ Nation,American,Houston,TX,4.3,34,Coffee,Starter,$3.99,227,No
+R0040,Pizza Palace,Italian,Boston,MA,4.5,25,Pasta,Starter,$10.49,734,Yes
+R0070,Cafe Delight,Cafe,Houston,TX,3.9,54,Butter Chicken,Beverage,$13.99,576,No
+R0096,BBQ Nation,American,New York,NY,4.9,31,Burger,Beverage,$8.99,205,Yes
+R0204,Burger Haven,American,Seattle,WA,3.8,30,Pizza,Starter,$12.99,847,No
+R0096,Healthy Bowl,Healthy,Boston,MA,3.7,25,Taco,Starter,$4.99,414,Yes
+R0280,Burger Haven,American,New York,NY,4.4,30,Burger,Snack,$8.99,534,Yes
+R0276,Pizza Palace,Italian,Los Angeles,CA,4.4,41,Pasta,Main Course,$10.49,96,Yes
+R0059,Burger Haven,American,Boston,MA,4.0,55,Coffee,Dessert,$3.99,1169,Yes
+R0195,Healthy Bowl,Healthy,Phoenix,AZ,3.9,31,Butter Chicken,Snack,$13.99,956,No
+R0122,Taco Fiesta,Mexican,Houston,TX,3.9,33,Salad,Starter,$7.49,968,No
+R0066,Pizza Palace,Italian,Los Angeles,CA,4.2,25,Taco,Main Course,$4.99,951,No
+R0045,Taco Fiesta,Mexican,Boston,MA,4.1,42,Coffee,Dessert,$3.99,1162,Yes
+R0265,Pizza Palace,Italian,Houston,TX,4.7,40,Sushi Roll,Dessert,$11.99,203,Yes
+R0282,Sushi Express,Japanese,Chicago,IL,4.8,59,Coffee,Starter,$3.99,727,No
+R0144,BBQ Nation,American,Houston,TX,4.2,33,Sushi Roll,Beverage,$11.99,753,No
+R0025,BBQ Nation,American,Phoenix,AZ,5.0,25,Pasta,Snack,$10.49,103,Yes
+R0120,Pizza Palace,Italian,Houston,TX,4.1,40,Butter Chicken,Starter,$13.99,1025,No
+R0140,Spice Route,Indian,Houston,TX,3.7,53,Coffee,Starter,$3.99,859,No
+R0166,Sushi Express,Japanese,Houston,TX,4.9,52,Butter Chicken,Dessert,$13.99,524,Yes
+R0029,Mediterraneo,Mediterranean,New York,NY,4.9,28,Pizza,Dessert,$12.99,913,No
+R0205,Burger Haven,American,Chicago,IL,4.6,50,Sushi Roll,Main Course,$11.99,575,No
+R0184,Mediterraneo,Mediterranean,Houston,TX,4.7,58,Sushi Roll,Beverage,$11.99,155,Yes
+R0142,Taco Fiesta,Mexican,Dallas,TX,4.7,32,Noodles,Beverage,$9.49,1164,Yes
+R0044,Sushi Express,Japanese,Dallas,TX,4.2,18,Noodles,Dessert,$9.49,145,Yes
+R0078,Healthy Bowl,Healthy,New York,NY,4.4,33,Pasta,Beverage,$10.49,717,No
+R0283,Cafe Delight,Cafe,Boston,MA,4.4,19,Sushi Roll,Dessert,$11.99,495,No
+R0173,Dragon Wok,Chinese,Chicago,IL,4.1,22,Taco,Main Course,$4.99,100,No
+R0048,BBQ Nation,American,Boston,MA,4.5,26,Butter Chicken,Dessert,$13.99,455,Yes
+R0008,Burger Haven,American,New York,NY,3.6,57,Paneer Tikka,Main Course,$10.99,838,No
+R0074,Healthy Bowl,Healthy,Seattle,WA,3.7,16,Butter Chicken,Dessert,$13.99,129,No
+R0087,Mediterraneo,Mediterranean,Dallas,TX,4.8,38,Butter Chicken,Main Course,$13.99,449,Yes
+R0130,Pizza Palace,Italian,Dallas,TX,3.5,16,Taco,Snack,$4.99,1053,No
+R0090,Healthy Bowl,Healthy,Chicago,IL,3.6,58,Paneer Tikka,Snack,$10.99,488,No
+R0297,Burger Haven,American,Phoenix,AZ,4.9,19,Salad,Beverage,$7.49,616,No
+R0194,Spice Route,Indian,Los Angeles,CA,4.9,36,Noodles,Dessert,$9.49,167,Yes
+R0114,Pizza Palace,Italian,Los Angeles,CA,4.3,49,Pasta,Main Course,$10.49,287,Yes
+R0048,Cafe Delight,Cafe,Boston,MA,4.5,41,Burger,Main Course,$8.99,199,No
+R0168,Taco Fiesta,Mexican,Los Angeles,CA,4.6,48,Noodles,Dessert,$9.49,672,No
+R0260,Dragon Wok,Chinese,Seattle,WA,4.4,52,Butter Chicken,Dessert,$13.99,991,Yes
+R0115,Spice Route,Indian,Boston,MA,4.4,35,Coffee,Dessert,$3.99,799,No
+R0165,Cafe Delight,Cafe,Los Angeles,CA,4.0,59,Pizza,Beverage,$12.99,294,Yes
+R0031,Mediterraneo,Mediterranean,Chicago,IL,3.7,43,Burger,Dessert,$8.99,342,Yes
+R0280,Dragon Wok,Chinese,Los Angeles,CA,4.6,59,Sushi Roll,Starter,$11.99,1063,No
+R0068,Healthy Bowl,Healthy,Seattle,WA,4.6,18,Butter Chicken,Beverage,$13.99,185,No
+R0033,Taco Fiesta,Mexican,Los Angeles,CA,4.5,20,Taco,Dessert,$4.99,472,Yes
+R0171,Mediterraneo,Mediterranean,Houston,TX,4.4,30,Pasta,Beverage,$10.49,969,Yes
+R0282,Healthy Bowl,Healthy,Houston,TX,4.5,51,Taco,Main Course,$4.99,939,No
+R0200,Sushi Express,Japanese,Los Angeles,CA,4.0,24,Pizza,Beverage,$12.99,130,No
+R0119,Cafe Delight,Cafe,Boston,MA,4.3,50,Salad,Dessert,$7.49,1080,Yes
+R0254,Taco Fiesta,Mexican,New York,NY,3.5,48,Sushi Roll,Dessert,$11.99,644,Yes
+R0231,BBQ Nation,American,Seattle,WA,5.0,50,Taco,Dessert,$4.99,644,No
+R0152,Cafe Delight,Cafe,Phoenix,AZ,3.8,42,Sushi Roll,Starter,$11.99,938,Yes
+R0216,Taco Fiesta,Mexican,Los Angeles,CA,3.7,37,Noodles,Snack,$9.49,905,Yes
+R0271,Burger Haven,American,Phoenix,AZ,3.6,20,Salad,Starter,$7.49,358,No
+R0018,Pizza Palace,Italian,Dallas,TX,3.6,19,Butter Chicken,Beverage,$13.99,307,Yes
+R0110,Dragon Wok,Chinese,Chicago,IL,4.8,58,Pizza,Starter,$12.99,665,Yes
+R0241,Spice Route,Indian,Seattle,WA,3.6,31,Paneer Tikka,Snack,$10.99,984,Yes
+R0008,Taco Fiesta,Mexican,Seattle,WA,4.4,45,Noodles,Main Course,$9.49,208,Yes
+R0275,Healthy Bowl,Healthy,Dallas,TX,3.9,44,Burger,Starter,$8.99,159,No
+R0067,Pizza Palace,Italian,Los Angeles,CA,4.8,56,Butter Chicken,Beverage,$13.99,1124,Yes
+R0066,Healthy Bowl,Healthy,Boston,MA,4.5,42,Pizza,Starter,$12.99,500,Yes
+R0161,Taco Fiesta,Mexican,Seattle,WA,4.5,38,Butter Chicken,Main Course,$13.99,1101,Yes
+R0073,Cafe Delight,Cafe,Los Angeles,CA,4.6,50,Butter Chicken,Dessert,$13.99,1112,Yes
+R0166,Spice Route,Indian,Chicago,IL,4.2,33,Paneer Tikka,Snack,$10.99,1053,No
+R0246,Mediterraneo,Mediterranean,Seattle,WA,3.9,49,Pasta,Starter,$10.49,694,No
+R0195,Spice Route,Indian,Dallas,TX,3.5,16,Pasta,Starter,$10.49,703,No
+R0103,Mediterraneo,Mediterranean,Dallas,TX,4.5,50,Sushi Roll,Dessert,$11.99,394,Yes
+R0086,BBQ Nation,American,Dallas,TX,4.2,19,Salad,Dessert,$7.49,540,No
+R0006,Healthy Bowl,Healthy,Seattle,WA,4.0,50,Coffee,Main Course,$3.99,471,No
+R0254,Dragon Wok,Chinese,Chicago,IL,4.9,47,Coffee,Snack,$3.99,200,No
+R0183,Taco Fiesta,Mexican,Chicago,IL,4.1,58,Pizza,Beverage,$12.99,358,Yes
+R0153,Sushi Express,Japanese,Seattle,WA,3.8,21,Salad,Dessert,$7.49,120,Yes
+R0273,Sushi Express,Japanese,Phoenix,AZ,4.3,16,Salad,Beverage,$7.49,1011,No
+R0037,Spice Route,Indian,Houston,TX,4.2,22,Pizza,Snack,$12.99,964,No
+R0224,Mediterraneo,Mediterranean,Dallas,TX,4.8,27,Salad,Dessert,$7.49,592,No
+R0234,Healthy Bowl,Healthy,Seattle,WA,4.6,53,Salad,Snack,$7.49,589,Yes
+R0109,BBQ Nation,American,New York,NY,4.3,33,Burger,Dessert,$8.99,830,No
+R0198,BBQ Nation,American,Chicago,IL,4.6,43,Sushi Roll,Dessert,$11.99,229,Yes
+R0072,Sushi Express,Japanese,Chicago,IL,5.0,45,Butter Chicken,Starter,$13.99,172,No
+R0154,Burger Haven,American,Phoenix,AZ,3.9,55,Pasta,Dessert,$10.49,294,Yes
+R0059,Burger Haven,American,Boston,MA,4.3,23,Salad,Starter,$7.49,1092,No
+R0243,Mediterraneo,Mediterranean,Chicago,IL,3.6,34,Coffee,Snack,$3.99,1055,No
+R0118,Mediterraneo,Mediterranean,Phoenix,AZ,4.4,32,Paneer Tikka,Dessert,$10.99,313,Yes
+R0137,Cafe Delight,Cafe,New York,NY,4.2,45,Burger,Beverage,$8.99,153,Yes
+R0243,Mediterraneo,Mediterranean,Houston,TX,3.8,59,Salad,Beverage,$7.49,702,Yes
+R0210,Mediterraneo,Mediterranean,Houston,TX,4.1,45,Sushi Roll,Dessert,$11.99,203,Yes
+R0202,BBQ Nation,American,Chicago,IL,3.7,50,Pizza,Starter,$12.99,382,No
+R0122,Mediterraneo,Mediterranean,Boston,MA,4.8,24,Butter Chicken,Snack,$13.99,1191,No
+R0203,Spice Route,Indian,Phoenix,AZ,3.5,46,Pasta,Starter,$10.49,721,No
+R0015,Sushi Express,Japanese,Dallas,TX,4.3,41,Salad,Dessert,$7.49,231,No
+R0251,Burger Haven,American,Los Angeles,CA,4.2,60,Taco,Beverage,$4.99,569,Yes
+R0156,BBQ Nation,American,Boston,MA,3.7,33,Pizza,Beverage,$12.99,88,Yes
+R0296,Mediterraneo,Mediterranean,Phoenix,AZ,4.5,15,Pizza,Beverage,$12.99,399,No
+R0074,Mediterraneo,Mediterranean,Houston,TX,4.0,20,Salad,Starter,$7.49,127,Yes
+R0251,Sushi Express,Japanese,Los Angeles,CA,4.2,17,Pasta,Dessert,$10.49,392,No
+R0258,Sushi Express,Japanese,Seattle,WA,4.9,31,Salad,Main Course,$7.49,385,Yes
+R0116,Mediterraneo,Mediterranean,Boston,MA,4.8,31,Burger,Dessert,$8.99,434,Yes
+R0136,Spice Route,Indian,New York,NY,3.9,31,Butter Chicken,Starter,$13.99,260,No
+R0245,Burger Haven,American,Phoenix,AZ,3.9,35,Taco,Starter,$4.99,245,No
+R0244,Cafe Delight,Cafe,Seattle,WA,3.9,44,Pizza,Dessert,$12.99,174,Yes
+R0004,Mediterraneo,Mediterranean,Houston,TX,3.5,41,Salad,Snack,$7.49,1009,Yes
+R0123,Spice Route,Indian,Houston,TX,4.9,37,Sushi Roll,Dessert,$11.99,1154,Yes
+R0108,Sushi Express,Japanese,Seattle,WA,4.9,40,Coffee,Main Course,$3.99,810,Yes
+R0182,Taco Fiesta,Mexican,New York,NY,3.7,56,Pasta,Main Course,$10.49,509,Yes
+R0110,Taco Fiesta,Mexican,Boston,MA,3.7,57,Salad,Beverage,$7.49,1083,Yes
+R0189,Burger Haven,American,Chicago,IL,4.9,28,Pasta,Beverage,$10.49,1123,No
+R0108,Cafe Delight,Cafe,Phoenix,AZ,4.2,43,Sushi Roll,Starter,$11.99,749,No
+R0091,BBQ Nation,American,Phoenix,AZ,4.5,55,Butter Chicken,Dessert,$13.99,1059,Yes
+R0084,Mediterraneo,Mediterranean,Boston,MA,3.9,56,Salad,Main Course,$7.49,95,No
+R0104,Mediterraneo,Mediterranean,Seattle,WA,4.0,50,Coffee,Main Course,$3.99,342,No
+R0194,Pizza Palace,Italian,Boston,MA,4.8,29,Pasta,Dessert,$10.49,104,Yes
+R0084,BBQ Nation,American,Chicago,IL,4.2,45,Paneer Tikka,Main Course,$10.99,255,No
+R0052,Spice Route,Indian,Los Angeles,CA,4.8,23,Pizza,Snack,$12.99,997,No
+R0173,BBQ Nation,American,Seattle,WA,4.7,50,Pasta,Snack,$10.49,391,No
+R0037,Spice Route,Indian,Seattle,WA,3.7,58,Salad,Beverage,$7.49,926,Yes
+R0279,Healthy Bowl,Healthy,New York,NY,3.9,23,Pizza,Main Course,$12.99,527,Yes
+R0122,Spice Route,Indian,Chicago,IL,4.5,41,Paneer Tikka,Starter,$10.99,538,Yes
+R0168,Taco Fiesta,Mexican,Boston,MA,4.1,42,Pizza,Dessert,$12.99,433,Yes
+R0161,BBQ Nation,American,Phoenix,AZ,3.6,57,Salad,Main Course,$7.49,841,Yes
+R0256,Mediterraneo,Mediterranean,New York,NY,4.8,48,Pasta,Main Course,$10.49,1100,Yes
+R0028,Cafe Delight,Cafe,Seattle,WA,4.2,57,Pasta,Snack,$10.49,805,Yes
+R0109,BBQ Nation,American,New York,NY,4.2,24,Pizza,Dessert,$12.99,1027,No
+R0295,Taco Fiesta,Mexican,Los Angeles,CA,4.5,19,Paneer Tikka,Starter,$10.99,122,No
+R0201,Sushi Express,Japanese,Los Angeles,CA,4.2,17,Sushi Roll,Main Course,$11.99,714,Yes
+R0163,BBQ Nation,American,Boston,MA,3.5,60,Salad,Starter,$7.49,545,Yes
+R0028,Cafe Delight,Cafe,Chicago,IL,3.8,28,Butter Chicken,Starter,$13.99,883,Yes
+R0196,Burger Haven,American,Houston,TX,4.5,35,Paneer Tikka,Snack,$10.99,929,No
+R0152,Cafe Delight,Cafe,Houston,TX,3.9,49,Burger,Dessert,$8.99,924,Yes
+R0154,Taco Fiesta,Mexican,Los Angeles,CA,3.9,35,Butter Chicken,Beverage,$13.99,556,No
+R0034,Pizza Palace,Italian,Dallas,TX,3.7,45,Pasta,Main Course,$10.49,1021,Yes
+R0237,Burger Haven,American,Dallas,TX,4.5,30,Butter Chicken,Beverage,$13.99,722,Yes
+R0183,Burger Haven,American,Seattle,WA,3.8,41,Butter Chicken,Beverage,$13.99,765,No
+R0295,Pizza Palace,Italian,Chicago,IL,4.7,41,Salad,Starter,$7.49,558,Yes
+R0144,Mediterraneo,Mediterranean,Seattle,WA,3.5,36,Pasta,Snack,$10.49,700,Yes
+R0188,Burger Haven,American,Phoenix,AZ,4.0,24,Coffee,Beverage,$3.99,248,No
+R0281,Healthy Bowl,Healthy,Houston,TX,3.8,21,Pasta,Dessert,$10.49,942,Yes
+R0023,Spice Route,Indian,New York,NY,4.3,53,Paneer Tikka,Starter,$10.99,1059,No
+R0124,Pizza Palace,Italian,Boston,MA,4.6,34,Taco,Dessert,$4.99,742,No
+R0032,Mediterraneo,Mediterranean,Boston,MA,4.6,17,Paneer Tikka,Main Course,$10.99,675,No
+R0225,Burger Haven,American,Boston,MA,3.9,58,Sushi Roll,Main Course,$11.99,974,Yes
+R0053,Cafe Delight,Cafe,Los Angeles,CA,4.1,15,Pasta,Beverage,$10.49,1167,No
+R0257,Healthy Bowl,Healthy,Dallas,TX,4.8,60,Pasta,Beverage,$10.49,423,Yes
+R0042,Burger Haven,American,Dallas,TX,4.2,52,Pizza,Starter,$12.99,1188,No
+R0237,Burger Haven,American,Los Angeles,CA,4.8,48,Sushi Roll,Main Course,$11.99,626,No
+R0186,Healthy Bowl,Healthy,Phoenix,AZ,4.2,55,Pizza,Snack,$12.99,177,Yes
+R0292,BBQ Nation,American,Seattle,WA,3.6,19,Pasta,Snack,$10.49,1168,Yes
+R0202,Pizza Palace,Italian,Boston,MA,3.7,27,Sushi Roll,Snack,$11.99,548,No
+R0236,Pizza Palace,Italian,New York,NY,3.6,42,Paneer Tikka,Main Course,$10.99,784,Yes
+R0112,Dragon Wok,Chinese,Seattle,WA,4.4,31,Butter Chicken,Main Course,$13.99,223,Yes
+R0008,Burger Haven,American,Dallas,TX,3.9,37,Butter Chicken,Starter,$13.99,946,Yes
+R0275,Mediterraneo,Mediterranean,Chicago,IL,4.5,59,Paneer Tikka,Dessert,$10.99,430,No
+R0225,Taco Fiesta,Mexican,Dallas,TX,4.4,19,Pasta,Snack,$10.49,449,No
+R0118,Mediterraneo,Mediterranean,Phoenix,AZ,3.8,59,Taco,Main Course,$4.99,890,No
+R0255,BBQ Nation,American,Seattle,WA,4.9,35,Butter Chicken,Beverage,$13.99,1057,No
+R0146,Burger Haven,American,Dallas,TX,4.3,31,Salad,Beverage,$7.49,644,No
+R0018,Dragon Wok,Chinese,Seattle,WA,3.8,24,Salad,Dessert,$7.49,204,Yes
+R0187,Sushi Express,Japanese,New York,NY,4.8,45,Paneer Tikka,Main Course,$10.99,824,No
+R0125,Taco Fiesta,Mexican,New York,NY,4.5,37,Butter Chicken,Beverage,$13.99,976,Yes
+R0228,Mediterraneo,Mediterranean,Phoenix,AZ,4.4,43,Noodles,Starter,$9.49,268,Yes
+R0189,Taco Fiesta,Mexican,Houston,TX,4.9,34,Salad,Beverage,$7.49,455,No
+R0294,Pizza Palace,Italian,Los Angeles,CA,4.5,43,Salad,Starter,$7.49,265,Yes
+R0003,Pizza Palace,Italian,Boston,MA,4.4,55,Pasta,Beverage,$10.49,992,No
+R0126,BBQ Nation,American,Chicago,IL,4.3,32,Noodles,Starter,$9.49,867,No
+R0286,Pizza Palace,Italian,Boston,MA,3.7,46,Pizza,Starter,$12.99,235,No
+R0037,Healthy Bowl,Healthy,Boston,MA,3.7,24,Taco,Main Course,$4.99,560,No
+R0065,Cafe Delight,Cafe,Dallas,TX,3.7,60,Salad,Beverage,$7.49,1023,No
+R0233,Burger Haven,American,Dallas,TX,3.6,51,Butter Chicken,Snack,$13.99,735,Yes
+R0162,BBQ Nation,American,Houston,TX,4.1,49,Burger,Main Course,$8.99,325,Yes
+R0192,Burger Haven,American,Houston,TX,4.9,39,Pasta,Snack,$10.49,1133,No
+R0073,Healthy Bowl,Healthy,Dallas,TX,4.4,42,Salad,Starter,$7.49,812,Yes
+R0143,Spice Route,Indian,Seattle,WA,4.7,47,Taco,Main Course,$4.99,891,No
+R0044,Dragon Wok,Chinese,Chicago,IL,4.9,33,Burger,Starter,$8.99,157,No
+R0076,BBQ Nation,American,Seattle,WA,4.5,54,Paneer Tikka,Beverage,$10.99,616,Yes
+R0059,Healthy Bowl,Healthy,Houston,TX,4.4,54,Pasta,Starter,$10.49,495,No
+R0062,Burger Haven,American,Seattle,WA,4.2,23,Butter Chicken,Starter,$13.99,864,Yes
+R0269,Dragon Wok,Chinese,Boston,MA,3.6,59,Coffee,Dessert,$3.99,1200,No
+R0271,Healthy Bowl,Healthy,Phoenix,AZ,3.9,22,Noodles,Starter,$9.49,514,No
+R0232,Spice Route,Indian,Phoenix,AZ,4.5,58,Coffee,Main Course,$3.99,344,Yes
+R0217,Taco Fiesta,Mexican,Phoenix,AZ,4.6,40,Pasta,Main Course,$10.49,588,Yes
+R0204,Cafe Delight,Cafe,New York,NY,5.0,43,Butter Chicken,Snack,$13.99,837,No
+R0102,Spice Route,Indian,Seattle,WA,4.2,37,Butter Chicken,Dessert,$13.99,450,No
+R0299,BBQ Nation,American,Los Angeles,CA,4.0,37,Paneer Tikka,Main Course,$10.99,911,Yes
+R0264,Healthy Bowl,Healthy,Chicago,IL,3.7,19,Noodles,Main Course,$9.49,548,Yes
+R0249,Mediterraneo,Mediterranean,Los Angeles,CA,3.7,38,Pasta,Snack,$10.49,704,Yes
+R0290,Dragon Wok,Chinese,Phoenix,AZ,4.9,24,Salad,Main Course,$7.49,358,No
+R0046,Mediterraneo,Mediterranean,New York,NY,4.2,30,Burger,Snack,$8.99,904,No
+R0136,Pizza Palace,Italian,Boston,MA,4.3,26,Butter Chicken,Beverage,$13.99,472,No
+R0129,Mediterraneo,Mediterranean,Seattle,WA,3.9,38,Burger,Starter,$8.99,845,No
+R0014,Dragon Wok,Chinese,Dallas,TX,4.1,57,Butter Chicken,Beverage,$13.99,782,Yes
+R0034,Taco Fiesta,Mexican,Seattle,WA,4.0,32,Butter Chicken,Snack,$13.99,725,No
+R0203,Taco Fiesta,Mexican,Chicago,IL,4.6,25,Pasta,Beverage,$10.49,1069,Yes
+R0223,Sushi Express,Japanese,Houston,TX,4.7,15,Noodles,Beverage,$9.49,403,Yes
+R0106,Spice Route,Indian,Chicago,IL,3.9,32,Noodles,Main Course,$9.49,241,Yes
+R0177,Sushi Express,Japanese,Seattle,WA,4.3,60,Burger,Main Course,$8.99,326,Yes
+R0174,Pizza Palace,Italian,Houston,TX,4.9,17,Salad,Beverage,$7.49,1099,No
+R0164,Taco Fiesta,Mexican,Phoenix,AZ,3.5,56,Noodles,Beverage,$9.49,624,Yes
+R0246,Healthy Bowl,Healthy,Boston,MA,4.6,39,Sushi Roll,Beverage,$11.99,908,No
+R0263,Dragon Wok,Chinese,Los Angeles,CA,4.8,49,Coffee,Starter,$3.99,775,Yes
+R0177,BBQ Nation,American,Seattle,WA,4.9,32,Paneer Tikka,Beverage,$10.99,884,Yes
+R0019,Pizza Palace,Italian,Chicago,IL,4.5,36,Pasta,Dessert,$10.49,416,No
+R0186,Cafe Delight,Cafe,New York,NY,4.3,46,Sushi Roll,Starter,$11.99,827,Yes
+R0007,Taco Fiesta,Mexican,Dallas,TX,3.9,59,Pasta,Starter,$10.49,989,No
+R0209,BBQ Nation,American,Phoenix,AZ,4.9,18,Noodles,Starter,$9.49,1102,No
+R0081,Pizza Palace,Italian,Houston,TX,4.2,32,Noodles,Starter,$9.49,1031,Yes
+R0195,Taco Fiesta,Mexican,Houston,TX,3.7,36,Burger,Beverage,$8.99,225,Yes
+R0231,BBQ Nation,American,New York,NY,4.7,29,Noodles,Starter,$9.49,366,Yes
+R0008,Cafe Delight,Cafe,Houston,TX,4.3,23,Burger,Starter,$8.99,1079,No
+R0091,Sushi Express,Japanese,Boston,MA,4.3,42,Butter Chicken,Beverage,$13.99,869,No
+R0095,Sushi Express,Japanese,Seattle,WA,3.8,25,Coffee,Main Course,$3.99,438,No
+R0291,Dragon Wok,Chinese,Dallas,TX,4.8,15,Salad,Main Course,$7.49,1075,Yes
+R0034,Spice Route,Indian,Houston,TX,4.8,60,Pasta,Dessert,$10.49,1167,No
+R0253,Taco Fiesta,Mexican,Chicago,IL,3.5,34,Burger,Main Course,$8.99,1197,No
+R0144,Mediterraneo,Mediterranean,Los Angeles,CA,4.2,15,Noodles,Beverage,$9.49,680,No
+R0299,Spice Route,Indian,Boston,MA,4.4,50,Noodles,Beverage,$9.49,651,Yes
+R0010,Mediterraneo,Mediterranean,Los Angeles,CA,3.7,22,Sushi Roll,Beverage,$11.99,485,Yes
+R0085,Healthy Bowl,Healthy,New York,NY,4.1,22,Coffee,Starter,$3.99,179,No
+R0205,Mediterraneo,Mediterranean,Chicago,IL,3.9,15,Coffee,Starter,$3.99,1092,No
+R0140,Burger Haven,American,Phoenix,AZ,4.5,42,Sushi Roll,Dessert,$11.99,95,No
+R0248,Burger Haven,American,Seattle,WA,5.0,53,Pizza,Snack,$12.99,470,No
+R0198,Cafe Delight,Cafe,Los Angeles,CA,3.9,40,Salad,Beverage,$7.49,229,Yes
+R0073,Pizza Palace,Italian,Boston,MA,4.3,60,Salad,Beverage,$7.49,735,No
+R0120,BBQ Nation,American,Dallas,TX,4.1,57,Pasta,Beverage,$10.49,1102,Yes
+R0123,Healthy Bowl,Healthy,Dallas,TX,4.7,59,Burger,Beverage,$8.99,1191,Yes
+R0006,Cafe Delight,Cafe,Dallas,TX,4.4,42,Burger,Starter,$8.99,1001,Yes
+R0091,Healthy Bowl,Healthy,Dallas,TX,4.9,56,Taco,Snack,$4.99,965,Yes
+R0080,Mediterraneo,Mediterranean,Seattle,WA,4.4,28,Butter Chicken,Starter,$13.99,421,Yes
+R0010,BBQ Nation,American,Los Angeles,CA,3.5,20,Pizza,Starter,$12.99,653,No
+R0089,Cafe Delight,Cafe,Phoenix,AZ,4.5,41,Burger,Snack,$8.99,1144,Yes
+R0130,Dragon Wok,Chinese,Chicago,IL,4.8,35,Pizza,Snack,$12.99,115,No
+R0045,Cafe Delight,Cafe,Boston,MA,4.6,40,Butter Chicken,Starter,$13.99,86,No
+R0070,Spice Route,Indian,Phoenix,AZ,4.8,36,Salad,Beverage,$7.49,227,Yes
+R0128,Cafe Delight,Cafe,Los Angeles,CA,4.4,29,Burger,Starter,$8.99,509,Yes
+R0259,Spice Route,Indian,Dallas,TX,3.7,58,Taco,Beverage,$4.99,888,No
+R0013,Mediterraneo,Mediterranean,Los Angeles,CA,4.3,18,Pasta,Beverage,$10.49,1183,Yes
+R0065,Sushi Express,Japanese,Boston,MA,4.2,58,Noodles,Main Course,$9.49,566,Yes
+R0253,Spice Route,Indian,Houston,TX,4.1,35,Burger,Dessert,$8.99,766,No
+R0291,Taco Fiesta,Mexican,Dallas,TX,4.8,33,Pasta,Dessert,$10.49,887,Yes
+R0283,Healthy Bowl,Healthy,New York,NY,4.1,48,Coffee,Snack,$3.99,324,No
+R0136,Spice Route,Indian,Los Angeles,CA,4.2,40,Sushi Roll,Main Course,$11.99,744,Yes
+R0144,Pizza Palace,Italian,Seattle,WA,4.1,40,Butter Chicken,Main Course,$13.99,112,Yes
+R0037,Spice Route,Indian,Phoenix,AZ,4.2,18,Burger,Starter,$8.99,690,No
+R0299,Spice Route,Indian,Houston,TX,4.6,34,Noodles,Starter,$9.49,612,No
+R0249,Burger Haven,American,Los Angeles,CA,4.4,45,Coffee,Main Course,$3.99,381,Yes
+R0129,Dragon Wok,Chinese,Seattle,WA,4.1,23,Sushi Roll,Starter,$11.99,1122,Yes
+R0241,Healthy Bowl,Healthy,New York,NY,3.8,36,Coffee,Main Course,$3.99,255,No
+R0260,Mediterraneo,Mediterranean,Boston,MA,4.9,26,Sushi Roll,Dessert,$11.99,167,No
+R0046,BBQ Nation,American,Phoenix,AZ,3.7,50,Salad,Starter,$7.49,263,No
+R0279,Burger Haven,American,Chicago,IL,4.6,38,Butter Chicken,Snack,$13.99,753,No
+R0124,Sushi Express,Japanese,Houston,TX,3.9,16,Taco,Starter,$4.99,144,No
+R0065,Mediterraneo,Mediterranean,Seattle,WA,5.0,58,Butter Chicken,Dessert,$13.99,446,Yes
+R0057,Dragon Wok,Chinese,Los Angeles,CA,4.1,45,Burger,Dessert,$8.99,553,No
+R0129,Mediterraneo,Mediterranean,Los Angeles,CA,3.7,18,Pasta,Dessert,$10.49,1021,Yes
+R0029,Mediterraneo,Mediterranean,Seattle,WA,4.1,45,Butter Chicken,Main Course,$13.99,274,Yes
+R0262,Dragon Wok,Chinese,Boston,MA,4.5,19,Pizza,Starter,$12.99,921,No
+R0044,Sushi Express,Japanese,New York,NY,3.8,28,Pasta,Starter,$10.49,817,No
+R0050,Burger Haven,American,Dallas,TX,4.6,31,Coffee,Snack,$3.99,482,No
+R0200,BBQ Nation,American,Houston,TX,4.8,22,Pizza,Main Course,$12.99,753,No
+R0129,Taco Fiesta,Mexican,Boston,MA,3.7,28,Pasta,Snack,$10.49,704,Yes
+R0286,Pizza Palace,Italian,Boston,MA,3.8,29,Coffee,Snack,$3.99,405,Yes
+R0198,Burger Haven,American,Los Angeles,CA,4.4,37,Pasta,Beverage,$10.49,836,Yes
+R0081,Cafe Delight,Cafe,Seattle,WA,4.0,24,Taco,Starter,$4.99,860,Yes
+R0185,Pizza Palace,Italian,Boston,MA,4.3,23,Coffee,Dessert,$3.99,384,No
+R0139,Dragon Wok,Chinese,Phoenix,AZ,4.5,54,Pizza,Main Course,$12.99,813,No
+R0002,Taco Fiesta,Mexican,Houston,TX,4.0,21,Noodles,Snack,$9.49,413,Yes
+R0068,Cafe Delight,Cafe,Los Angeles,CA,3.9,27,Sushi Roll,Starter,$11.99,395,No
+R0143,Cafe Delight,Cafe,Phoenix,AZ,3.7,23,Butter Chicken,Main Course,$13.99,829,No
+R0291,BBQ Nation,American,New York,NY,3.8,56,Pizza,Beverage,$12.99,1028,Yes
+R0165,Burger Haven,American,New York,NY,4.7,57,Butter Chicken,Main Course,$13.99,341,Yes
+R0037,Spice Route,Indian,Boston,MA,4.5,30,Sushi Roll,Starter,$11.99,544,Yes
+R0021,Taco Fiesta,Mexican,Los Angeles,CA,4.4,39,Salad,Beverage,$7.49,501,Yes
+R0175,Burger Haven,American,New York,NY,4.6,50,Pizza,Beverage,$12.99,950,Yes
+R0258,Mediterraneo,Mediterranean,Houston,TX,4.5,38,Coffee,Starter,$3.99,869,Yes
+R0248,Pizza Palace,Italian,Boston,MA,4.4,52,Butter Chicken,Dessert,$13.99,308,Yes
+R0275,Sushi Express,Japanese,Phoenix,AZ,4.7,20,Pasta,Starter,$10.49,421,Yes
+R0095,Healthy Bowl,Healthy,Houston,TX,4.7,58,Coffee,Dessert,$3.99,516,Yes
+R0229,Cafe Delight,Cafe,Boston,MA,4.8,22,Pasta,Snack,$10.49,1144,No
+R0108,Spice Route,Indian,Seattle,WA,4.9,33,Taco,Starter,$4.99,628,Yes
+R0243,Mediterraneo,Mediterranean,Houston,TX,3.8,38,Pasta,Starter,$10.49,653,Yes
+R0119,Pizza Palace,Italian,Houston,TX,4.6,32,Taco,Dessert,$4.99,1141,No
+R0197,Cafe Delight,Cafe,Seattle,WA,4.0,39,Pasta,Dessert,$10.49,660,Yes
+R0074,Spice Route,Indian,Los Angeles,CA,4.1,32,Noodles,Main Course,$9.49,375,Yes
+R0240,Pizza Palace,Italian,Seattle,WA,4.1,39,Pasta,Dessert,$10.49,1112,Yes
+R0083,Pizza Palace,Italian,Dallas,TX,4.0,23,Sushi Roll,Dessert,$11.99,988,Yes
+R0223,Dragon Wok,Chinese,New York,NY,3.7,57,Pizza,Dessert,$12.99,684,No
+R0217,Sushi Express,Japanese,Boston,MA,4.8,40,Burger,Dessert,$8.99,724,Yes
+R0046,Pizza Palace,Italian,Los Angeles,CA,4.1,38,Salad,Main Course,$7.49,1170,No
+R0291,Mediterraneo,Mediterranean,Seattle,WA,4.7,38,Pasta,Dessert,$10.49,761,Yes
+R0289,Burger Haven,American,Boston,MA,4.9,23,Noodles,Main Course,$9.49,1127,No
+R0123,Spice Route,Indian,New York,NY,4.0,57,Burger,Dessert,$8.99,667,Yes
+R0249,Healthy Bowl,Healthy,New York,NY,4.0,24,Pizza,Beverage,$12.99,691,No
+R0015,Pizza Palace,Italian,Houston,TX,4.3,57,Salad,Starter,$7.49,183,No
+R0110,Sushi Express,Japanese,New York,NY,4.6,59,Burger,Snack,$8.99,544,No
+R0174,BBQ Nation,American,Seattle,WA,4.8,54,Salad,Main Course,$7.49,158,Yes
+R0239,BBQ Nation,American,Seattle,WA,4.1,47,Coffee,Starter,$3.99,583,Yes
+R0030,Cafe Delight,Cafe,Houston,TX,4.8,45,Paneer Tikka,Starter,$10.99,1041,Yes
+R0190,Burger Haven,American,Dallas,TX,4.1,33,Paneer Tikka,Dessert,$10.99,1023,Yes
+R0091,Spice Route,Indian,Houston,TX,4.2,35,Burger,Main Course,$8.99,278,Yes
+R0272,Mediterraneo,Mediterranean,Houston,TX,4.6,42,Salad,Main Course,$7.49,873,No
+R0203,Healthy Bowl,Healthy,Los Angeles,CA,3.6,18,Paneer Tikka,Starter,$10.99,204,Yes
+R0004,Mediterraneo,Mediterranean,Chicago,IL,3.8,52,Sushi Roll,Main Course,$11.99,821,No
+R0095,Dragon Wok,Chinese,Chicago,IL,4.1,56,Salad,Snack,$7.49,760,Yes
+R0235,Burger Haven,American,Houston,TX,4.1,46,Burger,Main Course,$8.99,631,Yes
+R0127,Cafe Delight,Cafe,Chicago,IL,3.6,28,Pasta,Starter,$10.49,296,Yes
+R0281,Healthy Bowl,Healthy,Dallas,TX,3.9,59,Coffee,Snack,$3.99,553,Yes
+R0281,Burger Haven,American,New York,NY,5.0,20,Salad,Beverage,$7.49,977,Yes
+R0096,Pizza Palace,Italian,Boston,MA,4.2,30,Pizza,Beverage,$12.99,892,No
+R0206,Dragon Wok,Chinese,Dallas,TX,4.7,16,Salad,Main Course,$7.49,348,Yes
+R0258,Healthy Bowl,Healthy,Houston,TX,4.8,17,Pasta,Beverage,$10.49,822,Yes
+R0032,Cafe Delight,Cafe,Los Angeles,CA,4.2,60,Paneer Tikka,Beverage,$10.99,459,No
+R0141,BBQ Nation,American,Seattle,WA,4.4,36,Pizza,Beverage,$12.99,232,Yes
+R0057,Burger Haven,American,Dallas,TX,3.5,27,Burger,Starter,$8.99,490,No
+R0179,Healthy Bowl,Healthy,Phoenix,AZ,4.0,31,Taco,Main Course,$4.99,923,No
+R0027,BBQ Nation,American,Phoenix,AZ,4.6,60,Pizza,Snack,$12.99,524,No
+R0141,Healthy Bowl,Healthy,Dallas,TX,4.2,53,Noodles,Beverage,$9.49,1118,Yes
+R0256,Spice Route,Indian,Houston,TX,3.8,18,Paneer Tikka,Snack,$10.99,319,Yes
+R0015,Sushi Express,Japanese,Boston,MA,4.1,32,Paneer Tikka,Main Course,$10.99,973,No
+R0172,Taco Fiesta,Mexican,Chicago,IL,3.9,32,Salad,Beverage,$7.49,1120,No
+R0251,Spice Route,Indian,New York,NY,4.5,36,Salad,Beverage,$7.49,112,Yes
+R0234,Taco Fiesta,Mexican,Houston,TX,3.7,48,Sushi Roll,Snack,$11.99,688,Yes
+R0266,Cafe Delight,Cafe,Seattle,WA,3.7,58,Coffee,Snack,$3.99,550,Yes
+R0266,Mediterraneo,Mediterranean,Los Angeles,CA,3.7,39,Burger,Snack,$8.99,838,Yes
+R0213,Mediterraneo,Mediterranean,Chicago,IL,4.9,30,Butter Chicken,Main Course,$13.99,942,No
+R0184,BBQ Nation,American,Chicago,IL,4.4,52,Coffee,Dessert,$3.99,885,No
+R0137,Pizza Palace,Italian,Houston,TX,4.7,15,Salad,Dessert,$7.49,199,Yes
+R0232,Cafe Delight,Cafe,Houston,TX,4.9,47,Sushi Roll,Main Course,$11.99,596,No
+R0143,Cafe Delight,Cafe,Phoenix,AZ,4.3,47,Pasta,Dessert,$10.49,527,Yes
+R0008,Cafe Delight,Cafe,New York,NY,4.2,48,Coffee,Snack,$3.99,946,No
+R0194,Sushi Express,Japanese,Boston,MA,4.4,18,Coffee,Main Course,$3.99,334,Yes
+R0073,Sushi Express,Japanese,Chicago,IL,4.4,60,Salad,Snack,$7.49,372,No
+R0020,Sushi Express,Japanese,Seattle,WA,4.7,30,Noodles,Snack,$9.49,759,No
+R0082,Healthy Bowl,Healthy,New York,NY,3.5,35,Taco,Main Course,$4.99,1172,Yes
+R0016,Healthy Bowl,Healthy,Boston,MA,4.0,21,Sushi Roll,Beverage,$11.99,461,No
+R0093,Cafe Delight,Cafe,Seattle,WA,3.8,27,Paneer Tikka,Snack,$10.99,124,Yes
+R0251,BBQ Nation,American,Houston,TX,4.0,56,Noodles,Starter,$9.49,452,No
+R0060,BBQ Nation,American,Phoenix,AZ,4.1,22,Sushi Roll,Main Course,$11.99,394,No
+R0162,Dragon Wok,Chinese,Seattle,WA,3.9,55,Salad,Snack,$7.49,254,Yes
+R0198,Healthy Bowl,Healthy,Houston,TX,4.8,36,Salad,Starter,$7.49,805,Yes
+R0147,BBQ Nation,American,Dallas,TX,4.8,17,Salad,Main Course,$7.49,781,No
+R0015,Healthy Bowl,Healthy,Phoenix,AZ,4.2,35,Noodles,Main Course,$9.49,1055,Yes
+R0258,Cafe Delight,Cafe,Seattle,WA,4.2,40,Salad,Beverage,$7.49,733,No
+R0012,BBQ Nation,American,Seattle,WA,4.6,30,Noodles,Dessert,$9.49,377,No
+R0125,Sushi Express,Japanese,New York,NY,4.8,15,Sushi Roll,Snack,$11.99,150,No
+R0270,Dragon Wok,Chinese,New York,NY,4.3,56,Taco,Snack,$4.99,397,Yes
+R0087,Burger Haven,American,Chicago,IL,3.9,56,Coffee,Starter,$3.99,532,No
+R0037,Cafe Delight,Cafe,Seattle,WA,4.1,34,Burger,Dessert,$8.99,1067,Yes
+R0126,Burger Haven,American,New York,NY,3.7,44,Sushi Roll,Snack,$11.99,903,No
+R0123,Burger Haven,American,Houston,TX,4.9,34,Taco,Main Course,$4.99,793,No
+R0030,Healthy Bowl,Healthy,Seattle,WA,3.7,43,Pasta,Starter,$10.49,293,No
+R0122,Spice Route,Indian,Chicago,IL,3.6,55,Paneer Tikka,Starter,$10.99,369,Yes
+R0181,Sushi Express,Japanese,Chicago,IL,3.9,46,Taco,Main Course,$4.99,928,Yes
+R0225,Burger Haven,American,Boston,MA,4.4,16,Taco,Dessert,$4.99,486,Yes
+R0163,Cafe Delight,Cafe,Phoenix,AZ,4.7,25,Burger,Beverage,$8.99,240,Yes
+R0163,Healthy Bowl,Healthy,New York,NY,4.1,17,Pasta,Snack,$10.49,595,Yes
+R0202,Healthy Bowl,Healthy,Houston,TX,4.2,58,Coffee,Main Course,$3.99,1013,No
+R0095,Spice Route,Indian,Seattle,WA,3.7,56,Salad,Starter,$7.49,594,No
+R0197,Healthy Bowl,Healthy,Chicago,IL,4.7,31,Sushi Roll,Main Course,$11.99,596,No
+R0061,BBQ Nation,American,Boston,MA,3.8,48,Paneer Tikka,Dessert,$10.99,1150,Yes
+R0257,Healthy Bowl,Healthy,Phoenix,AZ,5.0,55,Taco,Main Course,$4.99,719,Yes
+R0192,BBQ Nation,American,Los Angeles,CA,3.9,43,Pizza,Starter,$12.99,173,No
+R0030,Dragon Wok,Chinese,Phoenix,AZ,3.5,46,Pasta,Main Course,$10.49,972,Yes
+R0121,Taco Fiesta,Mexican,Chicago,IL,4.1,31,Coffee,Starter,$3.99,813,Yes
+R0058,Dragon Wok,Chinese,Houston,TX,4.7,38,Taco,Main Course,$4.99,163,Yes
+R0068,Spice Route,Indian,New York,NY,4.3,43,Butter Chicken,Main Course,$13.99,876,Yes
+R0223,Healthy Bowl,Healthy,Los Angeles,CA,3.9,24,Sushi Roll,Beverage,$11.99,586,No
+R0195,Healthy Bowl,Healthy,New York,NY,4.7,56,Pizza,Beverage,$12.99,866,No
+R0137,Mediterraneo,Mediterranean,Boston,MA,3.9,17,Pasta,Main Course,$10.49,310,Yes
+R0229,Taco Fiesta,Mexican,New York,NY,3.6,40,Taco,Dessert,$4.99,694,Yes
+R0286,Healthy Bowl,Healthy,Phoenix,AZ,4.9,32,Butter Chicken,Main Course,$13.99,574,No
+R0099,Dragon Wok,Chinese,New York,NY,3.8,24,Butter Chicken,Snack,$13.99,291,No
+R0138,Dragon Wok,Chinese,Los Angeles,CA,4.2,57,Pasta,Starter,$10.49,993,No
+R0017,Dragon Wok,Chinese,Los Angeles,CA,3.9,36,Pasta,Main Course,$10.49,498,No
+R0234,Mediterraneo,Mediterranean,Boston,MA,3.5,43,Taco,Beverage,$4.99,1108,No
+R0009,Spice Route,Indian,Seattle,WA,4.2,23,Pizza,Dessert,$12.99,445,No
+R0055,Spice Route,Indian,Dallas,TX,4.6,21,Salad,Starter,$7.49,252,No
+R0288,Pizza Palace,Italian,Houston,TX,4.6,51,Pasta,Main Course,$10.49,772,No
+R0016,Spice Route,Indian,Houston,TX,4.9,19,Pasta,Beverage,$10.49,1023,No
+R0294,BBQ Nation,American,Chicago,IL,4.1,30,Coffee,Dessert,$3.99,811,No
+R0196,Cafe Delight,Cafe,Chicago,IL,4.5,31,Butter Chicken,Snack,$13.99,304,No
+R0294,Dragon Wok,Chinese,New York,NY,3.7,59,Paneer Tikka,Dessert,$10.99,425,Yes
+R0203,BBQ Nation,American,Boston,MA,3.7,51,Salad,Starter,$7.49,1168,Yes
+R0165,Sushi Express,Japanese,Dallas,TX,4.7,43,Pizza,Dessert,$12.99,493,Yes
+R0036,Spice Route,Indian,Chicago,IL,4.5,19,Paneer Tikka,Main Course,$10.99,181,No
+R0070,Mediterraneo,Mediterranean,Dallas,TX,3.9,49,Noodles,Beverage,$9.49,913,No
+R0204,Taco Fiesta,Mexican,Boston,MA,5.0,32,Coffee,Starter,$3.99,830,Yes
+R0081,Spice Route,Indian,New York,NY,4.1,49,Noodles,Dessert,$9.49,727,No
+R0012,Pizza Palace,Italian,New York,NY,4.9,39,Coffee,Beverage,$3.99,650,No
+R0119,BBQ Nation,American,Boston,MA,4.2,20,Burger,Main Course,$8.99,891,No
+R0247,Healthy Bowl,Healthy,Chicago,IL,4.0,23,Burger,Dessert,$8.99,919,No
+R0225,Burger Haven,American,Chicago,IL,4.1,42,Sushi Roll,Starter,$11.99,105,Yes
+R0147,Mediterraneo,Mediterranean,Boston,MA,4.1,37,Coffee,Beverage,$3.99,283,Yes
+R0051,Healthy Bowl,Healthy,Seattle,WA,4.3,15,Noodles,Snack,$9.49,169,Yes
+R0244,Mediterraneo,Mediterranean,Chicago,IL,3.5,58,Pizza,Main Course,$12.99,986,Yes
+R0268,Healthy Bowl,Healthy,Houston,TX,4.0,22,Coffee,Starter,$3.99,948,No
+R0009,Dragon Wok,Chinese,Houston,TX,4.3,32,Butter Chicken,Starter,$13.99,596,Yes
+R0122,Spice Route,Indian,New York,NY,4.1,30,Pizza,Dessert,$12.99,923,No
+R0107,BBQ Nation,American,Houston,TX,4.4,49,Coffee,Dessert,$3.99,255,Yes
+R0164,Dragon Wok,Chinese,Seattle,WA,3.9,51,Butter Chicken,Dessert,$13.99,279,No
+R0236,Dragon Wok,Chinese,Seattle,WA,4.4,59,Burger,Beverage,$8.99,556,No
+R0055,Mediterraneo,Mediterranean,Dallas,TX,4.0,20,Pasta,Main Course,$10.49,971,No
+R0245,Sushi Express,Japanese,Houston,TX,3.6,33,Coffee,Dessert,$3.99,766,No
+R0260,Cafe Delight,Cafe,New York,NY,4.4,29,Sushi Roll,Starter,$11.99,174,No
+R0249,Sushi Express,Japanese,Phoenix,AZ,4.8,60,Pasta,Beverage,$10.49,472,Yes
+R0272,BBQ Nation,American,Chicago,IL,3.5,21,Paneer Tikka,Beverage,$10.99,220,No
+R0141,Healthy Bowl,Healthy,Phoenix,AZ,3.9,48,Pizza,Snack,$12.99,1004,No
+R0044,Burger Haven,American,Chicago,IL,3.9,35,Pasta,Snack,$10.49,217,Yes
+R0195,Sushi Express,Japanese,New York,NY,4.1,32,Paneer Tikka,Starter,$10.99,567,No
+R0262,Dragon Wok,Chinese,Boston,MA,4.6,49,Noodles,Beverage,$9.49,252,Yes
+R0285,Pizza Palace,Italian,New York,NY,3.8,24,Taco,Main Course,$4.99,166,Yes
+R0219,Healthy Bowl,Healthy,Chicago,IL,4.0,22,Sushi Roll,Main Course,$11.99,576,Yes
+R0210,Spice Route,Indian,Seattle,WA,4.4,16,Salad,Beverage,$7.49,847,Yes
+R0154,Sushi Express,Japanese,Los Angeles,CA,4.0,20,Sushi Roll,Dessert,$11.99,295,No
+R0028,BBQ Nation,American,Houston,TX,4.9,32,Taco,Main Course,$4.99,531,No
+R0189,Spice Route,Indian,New York,NY,4.2,38,Coffee,Beverage,$3.99,1022,No
+R0299,Spice Route,Indian,Los Angeles,CA,4.5,50,Butter Chicken,Starter,$13.99,759,No
+R0167,Pizza Palace,Italian,Dallas,TX,4.6,21,Paneer Tikka,Beverage,$10.99,90,No
+R0044,Pizza Palace,Italian,Los Angeles,CA,4.7,46,Butter Chicken,Snack,$13.99,321,Yes
+R0016,Pizza Palace,Italian,Houston,TX,4.4,26,Burger,Starter,$8.99,123,No
+R0215,Dragon Wok,Chinese,Chicago,IL,4.4,25,Pizza,Dessert,$12.99,472,Yes
+R0020,Healthy Bowl,Healthy,New York,NY,4.7,45,Burger,Beverage,$8.99,875,No
+R0084,Cafe Delight,Cafe,New York,NY,4.4,51,Pasta,Snack,$10.49,1188,No
+R0070,Pizza Palace,Italian,Boston,MA,3.6,33,Pasta,Snack,$10.49,436,No
+R0006,Mediterraneo,Mediterranean,Seattle,WA,4.5,30,Burger,Snack,$8.99,1000,No
+R0133,Dragon Wok,Chinese,Chicago,IL,3.9,59,Burger,Dessert,$8.99,709,No
+R0202,Healthy Bowl,Healthy,Phoenix,AZ,4.6,41,Noodles,Starter,$9.49,215,Yes
+R0223,Pizza Palace,Italian,Boston,MA,3.7,15,Coffee,Beverage,$3.99,1037,Yes
+R0146,Healthy Bowl,Healthy,Boston,MA,4.7,55,Pasta,Starter,$10.49,976,No
+R0131,Sushi Express,Japanese,Chicago,IL,4.3,31,Coffee,Starter,$3.99,1100,Yes
+R0032,Taco Fiesta,Mexican,Boston,MA,4.7,44,Pizza,Starter,$12.99,1109,Yes
+R0050,Pizza Palace,Italian,Houston,TX,3.5,56,Burger,Main Course,$8.99,139,Yes
+R0288,Dragon Wok,Chinese,Phoenix,AZ,4.2,32,Pizza,Beverage,$12.99,256,No
+R0125,Dragon Wok,Chinese,Dallas,TX,4.2,54,Coffee,Snack,$3.99,639,Yes
+R0115,Sushi Express,Japanese,Los Angeles,CA,3.8,27,Pizza,Starter,$12.99,550,No
+R0260,Cafe Delight,Cafe,Houston,TX,4.2,39,Paneer Tikka,Beverage,$10.99,923,Yes
+R0272,Pizza Palace,Italian,New York,NY,4.4,25,Butter Chicken,Dessert,$13.99,456,Yes
+R0187,Burger Haven,American,Phoenix,AZ,4.4,55,Salad,Snack,$7.49,1116,No
+R0137,Sushi Express,Japanese,Los Angeles,CA,4.0,25,Pasta,Dessert,$10.49,881,Yes
+R0182,Healthy Bowl,Healthy,Chicago,IL,4.7,47,Pasta,Starter,$10.49,957,No
+R0097,Dragon Wok,Chinese,Boston,MA,3.8,35,Burger,Main Course,$8.99,781,No
+R0189,Spice Route,Indian,Phoenix,AZ,4.4,39,Salad,Snack,$7.49,1123,Yes
+R0065,Burger Haven,American,Seattle,WA,4.8,59,Noodles,Snack,$9.49,962,No
+R0108,Burger Haven,American,Chicago,IL,3.8,23,Pasta,Dessert,$10.49,994,No
+R0062,BBQ Nation,American,Dallas,TX,4.5,15,Burger,Starter,$8.99,606,No
+R0216,Pizza Palace,Italian,Dallas,TX,4.1,57,Coffee,Beverage,$3.99,827,Yes
+R0185,BBQ Nation,American,Phoenix,AZ,3.7,25,Taco,Dessert,$4.99,962,Yes
+R0269,Dragon Wok,Chinese,New York,NY,4.0,40,Coffee,Beverage,$3.99,428,No
+R0211,Dragon Wok,Chinese,Houston,TX,4.2,30,Burger,Dessert,$8.99,295,No
+R0031,Taco Fiesta,Mexican,Chicago,IL,4.5,30,Pizza,Starter,$12.99,957,No
+R0231,Mediterraneo,Mediterranean,Phoenix,AZ,5.0,56,Coffee,Main Course,$3.99,970,No
+R0034,Sushi Express,Japanese,New York,NY,4.7,19,Burger,Snack,$8.99,905,Yes
+R0036,Burger Haven,American,Chicago,IL,3.5,32,Pizza,Dessert,$12.99,570,Yes
+R0210,Pizza Palace,Italian,New York,NY,3.7,57,Sushi Roll,Main Course,$11.99,205,No
+R0036,Sushi Express,Japanese,Dallas,TX,4.6,23,Taco,Beverage,$4.99,682,No
+R0238,Pizza Palace,Italian,Dallas,TX,3.9,22,Sushi Roll,Main Course,$11.99,490,Yes
+R0017,Sushi Express,Japanese,Boston,MA,4.5,34,Butter Chicken,Snack,$13.99,294,Yes
+R0038,Taco Fiesta,Mexican,Houston,TX,4.3,17,Coffee,Snack,$3.99,979,Yes
+R0260,Healthy Bowl,Healthy,Boston,MA,4.9,19,Taco,Snack,$4.99,297,No
+R0045,Sushi Express,Japanese,Dallas,TX,3.9,38,Butter Chicken,Starter,$13.99,654,No
+R0005,Dragon Wok,Chinese,Seattle,WA,4.2,46,Sushi Roll,Dessert,$11.99,773,No
+R0204,Sushi Express,Japanese,Seattle,WA,4.4,19,Salad,Starter,$7.49,1063,Yes
+R0033,Mediterraneo,Mediterranean,New York,NY,4.0,29,Sushi Roll,Main Course,$11.99,924,Yes
+R0214,Mediterraneo,Mediterranean,Chicago,IL,5.0,26,Noodles,Dessert,$9.49,723,No
+R0064,Pizza Palace,Italian,Houston,TX,4.6,54,Sushi Roll,Dessert,$11.99,821,No
+R0050,Mediterraneo,Mediterranean,Chicago,IL,3.8,52,Sushi Roll,Main Course,$11.99,187,Yes
+R0007,Dragon Wok,Chinese,Seattle,WA,4.0,24,Butter Chicken,Snack,$13.99,89,Yes
+R0098,Burger Haven,American,Boston,MA,4.1,47,Taco,Dessert,$4.99,545,No
+R0089,Cafe Delight,Cafe,Chicago,IL,3.5,33,Pasta,Starter,$10.49,965,No
+R0298,Cafe Delight,Cafe,New York,NY,4.1,27,Paneer Tikka,Snack,$10.99,585,No
+R0182,Sushi Express,Japanese,Houston,TX,3.6,49,Noodles,Snack,$9.49,677,Yes
+R0031,Taco Fiesta,Mexican,Chicago,IL,4.6,17,Burger,Main Course,$8.99,234,No
+R0074,Spice Route,Indian,Phoenix,AZ,4.9,27,Burger,Beverage,$8.99,1113,Yes
+R0041,BBQ Nation,American,Boston,MA,4.6,60,Sushi Roll,Starter,$11.99,797,Yes
+R0183,Cafe Delight,Cafe,Chicago,IL,4.2,37,Pasta,Main Course,$10.49,447,Yes
+R0290,BBQ Nation,American,Phoenix,AZ,4.1,35,Pizza,Dessert,$12.99,1097,No
+R0041,Sushi Express,Japanese,New York,NY,4.6,55,Coffee,Dessert,$3.99,1166,Yes
+R0071,Taco Fiesta,Mexican,Phoenix,AZ,4.5,49,Taco,Starter,$4.99,112,Yes
+R0268,Pizza Palace,Italian,New York,NY,4.8,26,Taco,Main Course,$4.99,901,No
+R0073,Dragon Wok,Chinese,Boston,MA,4.2,57,Pasta,Dessert,$10.49,95,No
+R0104,Spice Route,Indian,Houston,TX,3.5,52,Pasta,Main Course,$10.49,376,Yes
+R0046,Spice Route,Indian,Phoenix,AZ,3.5,40,Paneer Tikka,Snack,$10.99,881,Yes
+R0295,Pizza Palace,Italian,Seattle,WA,3.7,34,Noodles,Snack,$9.49,113,Yes
+R0244,Burger Haven,American,Phoenix,AZ,4.7,59,Coffee,Beverage,$3.99,340,No
+R0052,Taco Fiesta,Mexican,Chicago,IL,4.6,40,Butter Chicken,Main Course,$13.99,993,Yes
+R0076,Healthy Bowl,Healthy,Dallas,TX,4.5,60,Salad,Starter,$7.49,158,Yes
+R0265,Sushi Express,Japanese,Houston,TX,4.2,19,Noodles,Main Course,$9.49,519,Yes
+R0088,Cafe Delight,Cafe,Chicago,IL,3.9,52,Burger,Snack,$8.99,656,No
+R0210,Pizza Palace,Italian,Chicago,IL,4.7,27,Butter Chicken,Beverage,$13.99,851,Yes
+R0234,Burger Haven,American,Phoenix,AZ,4.1,44,Noodles,Main Course,$9.49,490,No
+R0028,Healthy Bowl,Healthy,Los Angeles,CA,4.5,42,Taco,Snack,$4.99,925,No
+R0103,Spice Route,Indian,Boston,MA,4.6,15,Sushi Roll,Starter,$11.99,230,Yes
+R0130,Sushi Express,Japanese,Chicago,IL,4.0,17,Pasta,Starter,$10.49,114,Yes
+R0281,Pizza Palace,Italian,New York,NY,4.4,39,Butter Chicken,Dessert,$13.99,441,Yes
+R0034,Pizza Palace,Italian,Los Angeles,CA,4.5,17,Sushi Roll,Main Course,$11.99,953,No
+R0194,Mediterraneo,Mediterranean,Houston,TX,4.8,59,Sushi Roll,Snack,$11.99,850,Yes
+R0042,Spice Route,Indian,Chicago,IL,3.6,27,Salad,Beverage,$7.49,649,Yes
+R0225,Taco Fiesta,Mexican,Houston,TX,4.0,47,Burger,Snack,$8.99,954,No
+R0215,Taco Fiesta,Mexican,New York,NY,4.3,52,Burger,Snack,$8.99,982,No
+R0139,Healthy Bowl,Healthy,Seattle,WA,4.7,37,Burger,Dessert,$8.99,364,Yes
+R0217,Spice Route,Indian,Los Angeles,CA,4.9,42,Butter Chicken,Snack,$13.99,942,Yes
+R0215,Burger Haven,American,New York,NY,4.7,28,Sushi Roll,Dessert,$11.99,670,No
+R0138,Healthy Bowl,Healthy,New York,NY,3.7,55,Paneer Tikka,Beverage,$10.99,157,Yes
+R0111,Mediterraneo,Mediterranean,New York,NY,4.0,55,Butter Chicken,Main Course,$13.99,180,No
+R0181,Burger Haven,American,Dallas,TX,4.0,49,Burger,Starter,$8.99,1119,No
+R0181,Dragon Wok,Chinese,Phoenix,AZ,4.2,48,Pasta,Main Course,$10.49,1013,No
+R0149,Dragon Wok,Chinese,Los Angeles,CA,4.0,18,Coffee,Starter,$3.99,762,Yes
+R0237,Burger Haven,American,Los Angeles,CA,3.8,44,Salad,Snack,$7.49,860,Yes
+R0021,Taco Fiesta,Mexican,Dallas,TX,4.8,43,Sushi Roll,Snack,$11.99,205,No
+R0188,Pizza Palace,Italian,Chicago,IL,4.6,21,Pasta,Dessert,$10.49,224,Yes
+R0297,Pizza Palace,Italian,Phoenix,AZ,4.4,40,Sushi Roll,Dessert,$11.99,567,No
+R0222,Dragon Wok,Chinese,Dallas,TX,4.5,18,Burger,Starter,$8.99,1032,Yes
+R0263,Sushi Express,Japanese,Boston,MA,4.8,34,Pizza,Main Course,$12.99,626,Yes
+R0063,Dragon Wok,Chinese,Chicago,IL,4.8,57,Sushi Roll,Snack,$11.99,385,Yes
+R0275,Sushi Express,Japanese,Phoenix,AZ,4.0,36,Sushi Roll,Dessert,$11.99,293,Yes
+R0256,Dragon Wok,Chinese,Chicago,IL,4.4,60,Pizza,Beverage,$12.99,312,No
+R0290,Dragon Wok,Chinese,Los Angeles,CA,5.0,26,Salad,Dessert,$7.49,1057,Yes
+R0180,Pizza Palace,Italian,Dallas,TX,5.0,49,Paneer Tikka,Main Course,$10.99,869,Yes
+R0116,Cafe Delight,Cafe,Boston,MA,3.7,28,Burger,Beverage,$8.99,820,No
+R0260,BBQ Nation,American,Dallas,TX,3.9,28,Paneer Tikka,Starter,$10.99,1151,Yes
+R0225,Mediterraneo,Mediterranean,Chicago,IL,4.7,25,Sushi Roll,Snack,$11.99,415,No
+R0216,Spice Route,Indian,Phoenix,AZ,4.2,49,Coffee,Dessert,$3.99,1108,No
+R0192,Mediterraneo,Mediterranean,Houston,TX,4.3,17,Butter Chicken,Snack,$13.99,536,Yes
+R0069,Mediterraneo,Mediterranean,Houston,TX,3.5,15,Butter Chicken,Dessert,$13.99,763,Yes
+R0176,BBQ Nation,American,New York,NY,3.9,55,Burger,Snack,$8.99,1056,Yes
+R0292,Healthy Bowl,Healthy,Chicago,IL,3.6,17,Paneer Tikka,Main Course,$10.99,694,Yes
+R0145,Sushi Express,Japanese,Dallas,TX,4.4,22,Paneer Tikka,Dessert,$10.99,1169,Yes
+R0112,Sushi Express,Japanese,New York,NY,4.6,46,Sushi Roll,Dessert,$11.99,1183,No
+R0249,Taco Fiesta,Mexican,Houston,TX,4.9,16,Noodles,Snack,$9.49,1130,No
+R0181,Dragon Wok,Chinese,Dallas,TX,3.6,21,Coffee,Snack,$3.99,808,No
+R0224,Cafe Delight,Cafe,Los Angeles,CA,4.4,42,Coffee,Beverage,$3.99,939,No
+R0251,Cafe Delight,Cafe,Chicago,IL,4.0,38,Sushi Roll,Snack,$11.99,1136,Yes
+R0286,Cafe Delight,Cafe,Seattle,WA,4.1,59,Noodles,Snack,$9.49,852,Yes
+R0199,Spice Route,Indian,Houston,TX,4.2,18,Paneer Tikka,Dessert,$10.99,968,No
+R0167,Burger Haven,American,Dallas,TX,4.6,45,Sushi Roll,Main Course,$11.99,85,Yes
+R0041,Mediterraneo,Mediterranean,Phoenix,AZ,4.8,30,Pizza,Snack,$12.99,243,No
+R0206,Sushi Express,Japanese,Chicago,IL,4.4,19,Salad,Main Course,$7.49,640,Yes
+R0233,Taco Fiesta,Mexican,Seattle,WA,4.0,53,Noodles,Snack,$9.49,754,Yes
+R0210,Cafe Delight,Cafe,New York,NY,4.9,31,Burger,Main Course,$8.99,1068,No
+R0081,Mediterraneo,Mediterranean,Seattle,WA,3.7,48,Salad,Snack,$7.49,189,Yes
+R0139,Burger Haven,American,Houston,TX,4.8,45,Pasta,Dessert,$10.49,231,No
+R0142,Spice Route,Indian,Boston,MA,4.6,51,Pasta,Dessert,$10.49,103,No
+R0215,BBQ Nation,American,Chicago,IL,4.2,58,Coffee,Beverage,$3.99,204,No
+R0081,Healthy Bowl,Healthy,Dallas,TX,3.8,21,Pasta,Snack,$10.49,266,No
+R0095,Mediterraneo,Mediterranean,New York,NY,3.7,39,Burger,Snack,$8.99,1149,Yes
+R0214,Taco Fiesta,Mexican,Chicago,IL,3.7,38,Taco,Main Course,$4.99,199,No
+R0271,Taco Fiesta,Mexican,Boston,MA,4.8,46,Noodles,Beverage,$9.49,627,Yes
+R0186,Burger Haven,American,Dallas,TX,3.7,43,Pizza,Beverage,$12.99,481,No
+R0278,Sushi Express,Japanese,Los Angeles,CA,4.5,58,Salad,Starter,$7.49,876,No
+R0183,Sushi Express,Japanese,Houston,TX,4.3,27,Pasta,Main Course,$10.49,952,Yes
+R0195,BBQ Nation,American,Dallas,TX,4.1,29,Burger,Snack,$8.99,479,Yes
+R0163,Pizza Palace,Italian,Dallas,TX,5.0,46,Burger,Main Course,$8.99,798,Yes
+R0254,Burger Haven,American,Chicago,IL,3.9,47,Butter Chicken,Beverage,$13.99,587,No
+R0069,Sushi Express,Japanese,Seattle,WA,4.6,27,Sushi Roll,Dessert,$11.99,881,No
+R0100,Taco Fiesta,Mexican,Seattle,WA,4.5,40,Noodles,Starter,$9.49,395,No
+R0245,Mediterraneo,Mediterranean,Houston,TX,3.6,44,Noodles,Main Course,$9.49,223,Yes
+R0297,Pizza Palace,Italian,Boston,MA,4.5,47,Noodles,Snack,$9.49,246,No
+R0211,Mediterraneo,Mediterranean,Dallas,TX,4.7,33,Coffee,Snack,$3.99,806,Yes
+R0193,Healthy Bowl,Healthy,Houston,TX,4.0,46,Burger,Main Course,$8.99,205,No
+R0183,BBQ Nation,American,Chicago,IL,4.8,48,Noodles,Main Course,$9.49,1028,No
+R0192,Burger Haven,American,Houston,TX,3.7,34,Butter Chicken,Dessert,$13.99,620,Yes
+R0128,Dragon Wok,Chinese,Phoenix,AZ,4.8,18,Pasta,Snack,$10.49,116,No
+R0265,Spice Route,Indian,Dallas,TX,4.0,41,Salad,Dessert,$7.49,1160,Yes
+R0011,Sushi Express,Japanese,New York,NY,3.6,59,Butter Chicken,Main Course,$13.99,435,No
+R0212,Healthy Bowl,Healthy,Phoenix,AZ,3.7,48,Pasta,Main Course,$10.49,687,No
+R0240,Cafe Delight,Cafe,Phoenix,AZ,4.7,38,Taco,Dessert,$4.99,983,No
+R0067,Spice Route,Indian,Seattle,WA,3.9,24,Sushi Roll,Dessert,$11.99,775,Yes
+R0097,Cafe Delight,Cafe,Boston,MA,5.0,30,Sushi Roll,Starter,$11.99,1129,Yes
+R0229,Healthy Bowl,Healthy,Chicago,IL,3.9,41,Pizza,Main Course,$12.99,980,Yes
+R0112,Dragon Wok,Chinese,Seattle,WA,4.3,59,Butter Chicken,Dessert,$13.99,519,No
+R0197,Healthy Bowl,Healthy,New York,NY,4.2,56,Salad,Starter,$7.49,604,Yes
+R0170,Spice Route,Indian,Chicago,IL,3.7,20,Paneer Tikka,Main Course,$10.99,1018,No
+R0253,Taco Fiesta,Mexican,Los Angeles,CA,3.7,15,Sushi Roll,Starter,$11.99,162,Yes
+R0195,Sushi Express,Japanese,Houston,TX,3.6,48,Salad,Beverage,$7.49,795,No
+R0057,Spice Route,Indian,Dallas,TX,4.4,59,Pasta,Beverage,$10.49,756,Yes
+R0196,Cafe Delight,Cafe,New York,NY,4.8,28,Sushi Roll,Snack,$11.99,954,Yes
+R0232,Dragon Wok,Chinese,Phoenix,AZ,4.2,49,Coffee,Main Course,$3.99,252,No
+R0005,Taco Fiesta,Mexican,Houston,TX,4.2,37,Salad,Beverage,$7.49,84,Yes
+R0219,Pizza Palace,Italian,Boston,MA,4.4,16,Paneer Tikka,Dessert,$10.99,809,Yes
+R0171,Burger Haven,American,Boston,MA,3.7,30,Burger,Snack,$8.99,640,No
+R0284,Mediterraneo,Mediterranean,Dallas,TX,4.6,26,Salad,Starter,$7.49,458,Yes
+R0205,Sushi Express,Japanese,Seattle,WA,4.3,40,Sushi Roll,Dessert,$11.99,593,Yes
+R0121,Spice Route,Indian,Dallas,TX,3.6,52,Salad,Starter,$7.49,1000,Yes
+R0293,Dragon Wok,Chinese,Dallas,TX,4.5,34,Noodles,Starter,$9.49,815,No
+R0237,Healthy Bowl,Healthy,Phoenix,AZ,4.5,56,Salad,Dessert,$7.49,134,No
+R0134,Dragon Wok,Chinese,Seattle,WA,4.4,58,Pasta,Main Course,$10.49,462,No
+R0009,Sushi Express,Japanese,Phoenix,AZ,4.8,21,Pizza,Snack,$12.99,1069,No
+R0058,Mediterraneo,Mediterranean,Chicago,IL,4.3,19,Pizza,Beverage,$12.99,1090,No
+R0263,Mediterraneo,Mediterranean,Dallas,TX,4.9,17,Taco,Snack,$4.99,291,No
+R0186,Dragon Wok,Chinese,Los Angeles,CA,4.6,51,Pizza,Snack,$12.99,823,No
+R0075,Dragon Wok,Chinese,Los Angeles,CA,5.0,39,Pasta,Starter,$10.49,468,No
+R0111,Cafe Delight,Cafe,Los Angeles,CA,4.7,27,Pasta,Beverage,$10.49,792,No
+R0239,Mediterraneo,Mediterranean,Houston,TX,4.2,20,Paneer Tikka,Dessert,$10.99,1096,Yes
+R0234,Healthy Bowl,Healthy,Dallas,TX,4.2,30,Butter Chicken,Main Course,$13.99,773,Yes
+R0147,Pizza Palace,Italian,Boston,MA,4.6,37,Noodles,Beverage,$9.49,373,Yes
+R0035,Sushi Express,Japanese,Houston,TX,4.1,58,Taco,Snack,$4.99,1172,Yes
+R0073,Spice Route,Indian,Seattle,WA,3.9,60,Noodles,Main Course,$9.49,922,No
+R0268,Cafe Delight,Cafe,Chicago,IL,3.7,42,Salad,Main Course,$7.49,911,Yes
+R0257,Sushi Express,Japanese,Houston,TX,4.6,56,Paneer Tikka,Snack,$10.99,512,Yes
+R0280,Healthy Bowl,Healthy,Houston,TX,4.7,26,Paneer Tikka,Starter,$10.99,1145,Yes
+R0168,Taco Fiesta,Mexican,Boston,MA,4.4,15,Noodles,Snack,$9.49,709,No
+R0038,BBQ Nation,American,Chicago,IL,3.5,18,Butter Chicken,Beverage,$13.99,852,Yes
+R0090,Taco Fiesta,Mexican,Seattle,WA,3.7,15,Sushi Roll,Main Course,$11.99,248,Yes
+R0110,Cafe Delight,Cafe,Dallas,TX,4.8,24,Burger,Snack,$8.99,982,No
+R0293,Pizza Palace,Italian,Seattle,WA,4.1,56,Pasta,Starter,$10.49,600,Yes
+R0262,Cafe Delight,Cafe,Chicago,IL,3.6,55,Noodles,Dessert,$9.49,559,No
+R0111,Spice Route,Indian,Seattle,WA,4.5,37,Pasta,Starter,$10.49,289,Yes
+R0298,Taco Fiesta,Mexican,Los Angeles,CA,4.6,22,Paneer Tikka,Starter,$10.99,802,Yes
+R0172,Taco Fiesta,Mexican,Phoenix,AZ,4.8,23,Taco,Dessert,$4.99,769,No
+R0105,Sushi Express,Japanese,Chicago,IL,3.8,60,Paneer Tikka,Starter,$10.99,756,Yes
+R0134,Sushi Express,Japanese,New York,NY,5.0,45,Sushi Roll,Main Course,$11.99,883,No
+R0207,Healthy Bowl,Healthy,Houston,TX,4.8,20,Salad,Snack,$7.49,889,Yes
+R0193,Burger Haven,American,Seattle,WA,4.4,19,Coffee,Dessert,$3.99,1122,Yes
+R0169,Sushi Express,Japanese,Boston,MA,3.5,52,Salad,Beverage,$7.49,845,Yes
+R0052,Pizza Palace,Italian,Dallas,TX,3.9,24,Taco,Starter,$4.99,443,Yes
+R0144,Mediterraneo,Mediterranean,Seattle,WA,4.6,27,Paneer Tikka,Main Course,$10.99,735,No
+R0188,Healthy Bowl,Healthy,New York,NY,4.6,48,Taco,Snack,$4.99,863,Yes
+R0169,Healthy Bowl,Healthy,Dallas,TX,4.7,40,Salad,Snack,$7.49,115,Yes
+R0017,Pizza Palace,Italian,Boston,MA,4.7,49,Sushi Roll,Main Course,$11.99,927,No
+R0106,Healthy Bowl,Healthy,Dallas,TX,3.8,31,Salad,Beverage,$7.49,262,Yes
+R0248,Pizza Palace,Italian,Dallas,TX,3.9,58,Butter Chicken,Starter,$13.99,889,No
+R0040,Burger Haven,American,Seattle,WA,4.9,31,Sushi Roll,Snack,$11.99,723,No
+R0217,Sushi Express,Japanese,New York,NY,5.0,15,Noodles,Starter,$9.49,206,No
+R0033,Mediterraneo,Mediterranean,Phoenix,AZ,4.7,34,Taco,Main Course,$4.99,739,No
+R0148,Taco Fiesta,Mexican,Chicago,IL,4.9,20,Taco,Dessert,$4.99,896,No
+R0088,Dragon Wok,Chinese,Dallas,TX,4.8,20,Pizza,Beverage,$12.99,953,No
+R0069,Mediterraneo,Mediterranean,Dallas,TX,4.8,30,Pizza,Snack,$12.99,1083,No
+R0193,Cafe Delight,Cafe,Dallas,TX,4.5,59,Burger,Main Course,$8.99,756,No
+R0112,Healthy Bowl,Healthy,New York,NY,5.0,60,Pasta,Snack,$10.49,298,No
+R0094,BBQ Nation,American,Los Angeles,CA,3.6,30,Pasta,Beverage,$10.49,895,Yes
+R0076,BBQ Nation,American,New York,NY,3.9,46,Butter Chicken,Main Course,$13.99,101,Yes
+R0283,Sushi Express,Japanese,Boston,MA,4.6,59,Sushi Roll,Beverage,$11.99,1003,Yes
+R0133,Dragon Wok,Chinese,Seattle,WA,4.1,16,Burger,Starter,$8.99,447,Yes
+R0086,Burger Haven,American,Chicago,IL,4.6,60,Taco,Beverage,$4.99,239,Yes
+R0298,Sushi Express,Japanese,Chicago,IL,4.5,23,Butter Chicken,Dessert,$13.99,851,Yes
+R0254,Pizza Palace,Italian,Los Angeles,CA,4.4,57,Pizza,Beverage,$12.99,631,Yes
+R0163,BBQ Nation,American,Phoenix,AZ,3.6,59,Paneer Tikka,Dessert,$10.99,693,Yes
+R0028,Taco Fiesta,Mexican,Chicago,IL,3.8,49,Coffee,Starter,$3.99,1108,Yes
+R0060,Spice Route,Indian,New York,NY,3.9,18,Salad,Snack,$7.49,489,Yes
+R0101,BBQ Nation,American,Houston,TX,4.4,51,Burger,Starter,$8.99,395,Yes
+R0132,Dragon Wok,Chinese,Houston,TX,4.9,40,Salad,Starter,$7.49,799,Yes
+R0193,Mediterraneo,Mediterranean,Houston,TX,4.1,15,Taco,Snack,$4.99,950,No
+R0280,Dragon Wok,Chinese,Seattle,WA,4.7,40,Coffee,Beverage,$3.99,1088,Yes
+R0254,Spice Route,Indian,Los Angeles,CA,4.8,49,Butter Chicken,Dessert,$13.99,721,No
+R0174,Taco Fiesta,Mexican,Houston,TX,4.1,20,Pizza,Main Course,$12.99,540,No
+R0283,Pizza Palace,Italian,Los Angeles,CA,4.1,33,Burger,Starter,$8.99,403,Yes
+R0064,Cafe Delight,Cafe,Phoenix,AZ,5.0,28,Taco,Dessert,$4.99,285,Yes
+R0199,Healthy Bowl,Healthy,Dallas,TX,4.6,44,Salad,Starter,$7.49,1027,No
+R0014,BBQ Nation,American,Los Angeles,CA,4.3,52,Burger,Main Course,$8.99,1086,No
+R0018,Healthy Bowl,Healthy,Phoenix,AZ,4.4,33,Pizza,Starter,$12.99,359,Yes
+R0239,Dragon Wok,Chinese,Dallas,TX,3.6,38,Taco,Main Course,$4.99,300,Yes
+R0260,Healthy Bowl,Healthy,Phoenix,AZ,3.8,23,Burger,Dessert,$8.99,360,No
+R0136,Sushi Express,Japanese,Boston,MA,4.4,60,Pizza,Beverage,$12.99,392,Yes
+R0253,Dragon Wok,Chinese,Seattle,WA,4.3,52,Paneer Tikka,Dessert,$10.99,1096,No
+R0241,Sushi Express,Japanese,Chicago,IL,4.1,38,Paneer Tikka,Dessert,$10.99,838,Yes
+R0158,Sushi Express,Japanese,Phoenix,AZ,4.5,32,Noodles,Snack,$9.49,981,Yes
+R0226,BBQ Nation,American,New York,NY,4.5,60,Burger,Snack,$8.99,311,No
+R0145,Dragon Wok,Chinese,New York,NY,4.7,37,Noodles,Snack,$9.49,351,No
+R0165,BBQ Nation,American,Houston,TX,4.4,38,Noodles,Starter,$9.49,451,No
+R0130,Burger Haven,American,Boston,MA,4.8,25,Noodles,Beverage,$9.49,695,No
+R0184,Pizza Palace,Italian,Chicago,IL,3.9,43,Coffee,Beverage,$3.99,1192,No
+R0140,Pizza Palace,Italian,Chicago,IL,4.7,15,Coffee,Beverage,$3.99,505,Yes
+R0063,Sushi Express,Japanese,Chicago,IL,4.4,36,Taco,Snack,$4.99,1085,No
+R0215,Sushi Express,Japanese,Phoenix,AZ,4.6,18,Noodles,Starter,$9.49,895,No
+R0252,Cafe Delight,Cafe,Los Angeles,CA,4.7,36,Pasta,Starter,$10.49,555,Yes
+R0148,Healthy Bowl,Healthy,New York,NY,4.0,15,Paneer Tikka,Beverage,$10.99,378,Yes
+R0100,Dragon Wok,Chinese,Chicago,IL,3.8,43,Salad,Beverage,$7.49,1092,No
+R0227,Cafe Delight,Cafe,Seattle,WA,4.2,31,Pizza,Snack,$12.99,698,Yes
+R0139,Cafe Delight,Cafe,Phoenix,AZ,4.1,44,Salad,Starter,$7.49,431,No
+R0028,Healthy Bowl,Healthy,Dallas,TX,4.3,56,Sushi Roll,Dessert,$11.99,913,No
+R0285,Burger Haven,American,Boston,MA,4.7,26,Paneer Tikka,Beverage,$10.99,166,No
+R0230,Sushi Express,Japanese,Boston,MA,4.8,43,Taco,Beverage,$4.99,864,No
+R0167,Taco Fiesta,Mexican,Chicago,IL,4.7,15,Paneer Tikka,Dessert,$10.99,805,Yes
+R0111,Dragon Wok,Chinese,New York,NY,4.3,35,Pizza,Main Course,$12.99,428,Yes
+R0269,Burger Haven,American,Seattle,WA,4.4,37,Taco,Dessert,$4.99,811,Yes
+R0245,Spice Route,Indian,Houston,TX,4.3,41,Burger,Snack,$8.99,992,No
+R0173,Mediterraneo,Mediterranean,Dallas,TX,4.1,45,Burger,Main Course,$8.99,1109,No
+R0089,BBQ Nation,American,Los Angeles,CA,4.4,35,Salad,Main Course,$7.49,1002,Yes
+R0031,Dragon Wok,Chinese,Chicago,IL,4.0,29,Salad,Main Course,$7.49,324,No
+R0273,Mediterraneo,Mediterranean,Phoenix,AZ,3.8,43,Sushi Roll,Main Course,$11.99,1047,Yes
+R0189,Cafe Delight,Cafe,Seattle,WA,4.2,55,Coffee,Dessert,$3.99,371,Yes
+R0002,Sushi Express,Japanese,Seattle,WA,3.7,43,Paneer Tikka,Beverage,$10.99,160,No
+R0051,Dragon Wok,Chinese,Houston,TX,4.7,40,Butter Chicken,Beverage,$13.99,273,Yes
+R0290,Mediterraneo,Mediterranean,New York,NY,4.2,52,Coffee,Dessert,$3.99,131,Yes
+R0098,Cafe Delight,Cafe,Los Angeles,CA,4.2,39,Coffee,Beverage,$3.99,922,No
+R0060,Pizza Palace,Italian,Houston,TX,3.9,44,Taco,Snack,$4.99,1102,Yes
+R0132,Taco Fiesta,Mexican,Houston,TX,3.7,46,Salad,Main Course,$7.49,100,No
+R0108,Cafe Delight,Cafe,Seattle,WA,3.9,22,Burger,Main Course,$8.99,1063,No
+R0090,Burger Haven,American,Phoenix,AZ,4.6,17,Burger,Main Course,$8.99,928,No
+R0016,Taco Fiesta,Mexican,Phoenix,AZ,4.8,54,Burger,Starter,$8.99,591,Yes
+R0172,Taco Fiesta,Mexican,Boston,MA,4.3,54,Paneer Tikka,Dessert,$10.99,758,Yes
+R0246,Cafe Delight,Cafe,Boston,MA,4.4,15,Taco,Main Course,$4.99,126,No
+R0277,Dragon Wok,Chinese,Chicago,IL,4.4,21,Salad,Dessert,$7.49,1188,Yes
+R0270,Cafe Delight,Cafe,New York,NY,3.6,59,Taco,Dessert,$4.99,532,No
+R0079,Healthy Bowl,Healthy,New York,NY,4.6,42,Pizza,Dessert,$12.99,819,No
+R0220,Mediterraneo,Mediterranean,Los Angeles,CA,4.0,33,Sushi Roll,Main Course,$11.99,1014,No
+R0036,Cafe Delight,Cafe,Phoenix,AZ,4.5,38,Pasta,Beverage,$10.49,359,No
+R0107,BBQ Nation,American,Dallas,TX,4.0,25,Taco,Main Course,$4.99,581,No
+R0133,Cafe Delight,Cafe,Dallas,TX,4.9,25,Burger,Main Course,$8.99,1108,No
+R0169,Burger Haven,American,Los Angeles,CA,4.8,50,Pasta,Starter,$10.49,84,No
+R0210,Sushi Express,Japanese,Houston,TX,3.5,31,Pasta,Main Course,$10.49,271,No
+R0147,Mediterraneo,Mediterranean,New York,NY,3.9,29,Salad,Snack,$7.49,443,No
+R0200,Mediterraneo,Mediterranean,Dallas,TX,4.0,21,Pasta,Beverage,$10.49,331,No
+R0238,Pizza Palace,Italian,Seattle,WA,4.6,24,Salad,Dessert,$7.49,330,No
+R0111,Mediterraneo,Mediterranean,Los Angeles,CA,4.1,56,Sushi Roll,Snack,$11.99,263,Yes
+R0202,Dragon Wok,Chinese,Boston,MA,3.7,21,Burger,Dessert,$8.99,160,No
+R0160,Spice Route,Indian,New York,NY,3.9,41,Coffee,Snack,$3.99,1012,No
+R0268,Mediterraneo,Mediterranean,Boston,MA,3.6,34,Butter Chicken,Dessert,$13.99,681,No
+R0132,Cafe Delight,Cafe,Phoenix,AZ,4.3,52,Coffee,Dessert,$3.99,557,Yes
+R0100,Mediterraneo,Mediterranean,Los Angeles,CA,4.3,44,Pizza,Beverage,$12.99,865,Yes
+R0046,Spice Route,Indian,Houston,TX,4.7,38,Paneer Tikka,Beverage,$10.99,963,No
+R0279,Spice Route,Indian,New York,NY,3.8,42,Burger,Dessert,$8.99,622,Yes
+R0165,Pizza Palace,Italian,Chicago,IL,4.5,44,Burger,Main Course,$8.99,767,Yes
+R0110,Pizza Palace,Italian,Los Angeles,CA,4.4,39,Butter Chicken,Beverage,$13.99,138,No
+R0230,Healthy Bowl,Healthy,Phoenix,AZ,4.4,48,Sushi Roll,Dessert,$11.99,746,Yes
+R0138,Taco Fiesta,Mexican,Los Angeles,CA,4.5,47,Coffee,Snack,$3.99,969,Yes
+R0058,Taco Fiesta,Mexican,Houston,TX,4.4,54,Burger,Snack,$8.99,128,Yes
+R0058,Healthy Bowl,Healthy,Seattle,WA,3.9,18,Pasta,Snack,$10.49,205,No
+R0074,Taco Fiesta,Mexican,Houston,TX,4.8,48,Pasta,Beverage,$10.49,593,Yes
+R0071,Healthy Bowl,Healthy,Houston,TX,4.0,49,Salad,Beverage,$7.49,750,Yes
+R0205,Mediterraneo,Mediterranean,Los Angeles,CA,4.8,47,Noodles,Dessert,$9.49,292,No
+R0217,Dragon Wok,Chinese,Dallas,TX,4.7,26,Burger,Starter,$8.99,1043,No
+R0090,Mediterraneo,Mediterranean,Dallas,TX,3.8,20,Sushi Roll,Beverage,$11.99,214,No
+R0283,Taco Fiesta,Mexican,New York,NY,4.5,59,Coffee,Main Course,$3.99,857,Yes
+R0130,Burger Haven,American,Phoenix,AZ,3.5,18,Butter Chicken,Beverage,$13.99,367,Yes
+R0003,Burger Haven,American,Los Angeles,CA,4.0,49,Butter Chicken,Main Course,$13.99,217,Yes
+R0096,Mediterraneo,Mediterranean,Phoenix,AZ,4.6,19,Salad,Beverage,$7.49,688,Yes
+R0053,Mediterraneo,Mediterranean,Dallas,TX,4.3,21,Paneer Tikka,Main Course,$10.99,203,No
+R0071,BBQ Nation,American,Boston,MA,3.8,25,Pasta,Starter,$10.49,894,No
+R0285,Spice Route,Indian,Phoenix,AZ,3.8,38,Butter Chicken,Snack,$13.99,748,Yes
+R0248,Spice Route,Indian,Chicago,IL,3.9,47,Pizza,Beverage,$12.99,605,No
+R0141,Sushi Express,Japanese,Los Angeles,CA,3.7,54,Paneer Tikka,Beverage,$10.99,1104,No
+R0109,Burger Haven,American,New York,NY,4.0,58,Sushi Roll,Starter,$11.99,682,No
+R0224,Healthy Bowl,Healthy,Seattle,WA,4.3,20,Coffee,Snack,$3.99,998,Yes
+R0262,Cafe Delight,Cafe,Boston,MA,4.4,34,Noodles,Dessert,$9.49,935,No
+R0198,Pizza Palace,Italian,Boston,MA,4.0,29,Butter Chicken,Dessert,$13.99,740,No
+R0241,Cafe Delight,Cafe,Dallas,TX,4.8,38,Taco,Snack,$4.99,330,No
+R0205,Burger Haven,American,Los Angeles,CA,3.6,40,Noodles,Dessert,$9.49,920,No
+R0182,Mediterraneo,Mediterranean,Boston,MA,4.2,38,Noodles,Snack,$9.49,843,Yes
+R0201,Burger Haven,American,Los Angeles,CA,3.7,37,Paneer Tikka,Starter,$10.99,208,No
+R0295,Cafe Delight,Cafe,Chicago,IL,3.8,50,Burger,Starter,$8.99,587,Yes
+R0290,Sushi Express,Japanese,Dallas,TX,3.6,48,Sushi Roll,Dessert,$11.99,343,No
+R0231,Mediterraneo,Mediterranean,Seattle,WA,4.6,54,Sushi Roll,Snack,$11.99,411,No
+R0271,Taco Fiesta,Mexican,Dallas,TX,4.9,15,Butter Chicken,Starter,$13.99,717,No
+R0040,Burger Haven,American,Phoenix,AZ,4.5,18,Taco,Dessert,$4.99,1158,No
+R0056,Mediterraneo,Mediterranean,Boston,MA,5.0,60,Noodles,Dessert,$9.49,125,No
+R0202,Sushi Express,Japanese,Los Angeles,CA,3.5,31,Pasta,Main Course,$10.49,668,No
+R0051,BBQ Nation,American,Phoenix,AZ,3.8,16,Coffee,Dessert,$3.99,607,No
+R0157,Burger Haven,American,Chicago,IL,3.8,43,Taco,Snack,$4.99,172,No
+R0216,Pizza Palace,Italian,Houston,TX,4.8,55,Paneer Tikka,Main Course,$10.99,981,Yes
+R0191,Dragon Wok,Chinese,Houston,TX,4.7,35,Butter Chicken,Starter,$13.99,342,No
+R0277,Cafe Delight,Cafe,Chicago,IL,4.1,40,Pizza,Main Course,$12.99,330,No
+R0298,BBQ Nation,American,Houston,TX,3.8,24,Coffee,Snack,$3.99,531,No
+R0001,BBQ Nation,American,Houston,TX,3.7,25,Paneer Tikka,Beverage,$10.99,1155,No
+R0047,Dragon Wok,Chinese,New York,NY,4.1,25,Paneer Tikka,Dessert,$10.99,709,Yes
+R0130,Taco Fiesta,Mexican,Houston,TX,4.9,35,Pizza,Snack,$12.99,1100,Yes
+R0257,Sushi Express,Japanese,Los Angeles,CA,3.8,52,Taco,Main Course,$4.99,1104,Yes
+R0195,Burger Haven,American,New York,NY,3.8,57,Noodles,Snack,$9.49,187,Yes
+R0237,Sushi Express,Japanese,Boston,MA,4.0,58,Butter Chicken,Dessert,$13.99,373,No
+R0257,Mediterraneo,Mediterranean,Phoenix,AZ,3.7,27,Salad,Snack,$7.49,866,No
+R0033,Pizza Palace,Italian,Seattle,WA,4.4,51,Taco,Dessert,$4.99,722,No
+R0002,Pizza Palace,Italian,Houston,TX,4.9,35,Paneer Tikka,Snack,$10.99,646,Yes
+R0190,Burger Haven,American,Phoenix,AZ,3.6,47,Butter Chicken,Beverage,$13.99,1098,Yes
+R0279,BBQ Nation,American,Boston,MA,4.8,20,Sushi Roll,Snack,$11.99,612,No
+R0041,BBQ Nation,American,Dallas,TX,4.1,21,Pizza,Snack,$12.99,413,Yes
+R0258,Taco Fiesta,Mexican,Boston,MA,4.5,17,Coffee,Starter,$3.99,228,Yes
+R0239,Sushi Express,Japanese,Phoenix,AZ,4.7,50,Butter Chicken,Snack,$13.99,257,No
+R0251,Mediterraneo,Mediterranean,Los Angeles,CA,4.6,38,Taco,Snack,$4.99,733,Yes
+R0294,Spice Route,Indian,Dallas,TX,3.6,42,Burger,Beverage,$8.99,719,No
+R0042,Spice Route,Indian,Boston,MA,4.4,30,Paneer Tikka,Dessert,$10.99,245,No
+R0192,Burger Haven,American,Phoenix,AZ,4.0,55,Salad,Dessert,$7.49,250,No
+R0278,Mediterraneo,Mediterranean,Houston,TX,4.8,37,Sushi Roll,Starter,$11.99,796,No
+R0153,Dragon Wok,Chinese,Seattle,WA,4.4,35,Paneer Tikka,Starter,$10.99,460,No
+R0167,Spice Route,Indian,Boston,MA,4.0,55,Burger,Dessert,$8.99,131,No
+R0251,Spice Route,Indian,New York,NY,4.8,15,Burger,Starter,$8.99,973,No
+R0092,Dragon Wok,Chinese,Phoenix,AZ,3.7,24,Taco,Starter,$4.99,720,Yes
+R0192,Spice Route,Indian,New York,NY,4.1,37,Butter Chicken,Main Course,$13.99,965,No
+R0236,Spice Route,Indian,Houston,TX,4.1,49,Coffee,Starter,$3.99,341,No
+R0123,Healthy Bowl,Healthy,Los Angeles,CA,3.9,29,Butter Chicken,Beverage,$13.99,133,Yes
+R0193,Burger Haven,American,Dallas,TX,3.8,41,Taco,Dessert,$4.99,475,Yes
+R0197,Dragon Wok,Chinese,Houston,TX,4.0,38,Noodles,Beverage,$9.49,1189,Yes
+R0097,Spice Route,Indian,Phoenix,AZ,4.5,44,Salad,Snack,$7.49,1052,Yes
+R0240,Spice Route,Indian,Seattle,WA,4.7,49,Noodles,Beverage,$9.49,1035,Yes
+R0131,Taco Fiesta,Mexican,Los Angeles,CA,4.5,30,Paneer Tikka,Beverage,$10.99,161,No
+R0114,Cafe Delight,Cafe,Boston,MA,3.5,21,Pasta,Main Course,$10.49,919,Yes
+R0284,Burger Haven,American,Houston,TX,4.6,36,Pasta,Beverage,$10.49,448,Yes
+R0120,Mediterraneo,Mediterranean,Boston,MA,4.9,23,Pasta,Dessert,$10.49,216,Yes
+R0199,Mediterraneo,Mediterranean,Boston,MA,3.7,59,Noodles,Snack,$9.49,1140,Yes
+R0173,Healthy Bowl,Healthy,Seattle,WA,4.3,60,Pizza,Dessert,$12.99,116,Yes
+R0032,BBQ Nation,American,New York,NY,4.5,44,Burger,Starter,$8.99,1009,No
+R0239,Cafe Delight,Cafe,Dallas,TX,4.1,46,Butter Chicken,Dessert,$13.99,453,No
+R0186,Pizza Palace,Italian,Seattle,WA,4.3,55,Coffee,Dessert,$3.99,411,No
+R0237,BBQ Nation,American,Boston,MA,4.2,59,Coffee,Starter,$3.99,1113,No
+R0169,BBQ Nation,American,Phoenix,AZ,4.1,57,Salad,Snack,$7.49,654,No
+R0191,Cafe Delight,Cafe,New York,NY,3.7,20,Taco,Snack,$4.99,436,Yes
+R0029,Mediterraneo,Mediterranean,Houston,TX,4.1,23,Paneer Tikka,Snack,$10.99,124,No
+R0263,Healthy Bowl,Healthy,New York,NY,4.8,34,Coffee,Starter,$3.99,931,No
+R0273,BBQ Nation,American,Dallas,TX,4.4,19,Butter Chicken,Dessert,$13.99,953,No
+R0067,Pizza Palace,Italian,Phoenix,AZ,4.6,41,Burger,Dessert,$8.99,501,Yes
+R0156,Healthy Bowl,Healthy,Boston,MA,4.7,16,Pizza,Main Course,$12.99,558,No
+R0099,Mediterraneo,Mediterranean,New York,NY,3.6,24,Sushi Roll,Main Course,$11.99,674,Yes
+R0133,BBQ Nation,American,Dallas,TX,4.9,55,Salad,Snack,$7.49,100,No
+R0003,BBQ Nation,American,Seattle,WA,3.8,24,Pasta,Dessert,$10.49,189,No
+R0165,Burger Haven,American,Boston,MA,4.6,32,Pasta,Starter,$10.49,292,Yes
+R0280,Pizza Palace,Italian,Houston,TX,4.4,59,Noodles,Beverage,$9.49,802,No
+R0186,Burger Haven,American,Phoenix,AZ,4.3,18,Salad,Dessert,$7.49,1119,Yes
+R0094,Dragon Wok,Chinese,Los Angeles,CA,4.8,50,Burger,Beverage,$8.99,452,Yes
+R0003,Mediterraneo,Mediterranean,New York,NY,4.7,23,Burger,Snack,$8.99,382,Yes
+R0249,Burger Haven,American,Seattle,WA,4.0,38,Pizza,Beverage,$12.99,329,No
+R0275,Spice Route,Indian,Phoenix,AZ,4.0,26,Salad,Dessert,$7.49,701,No
+R0020,Cafe Delight,Cafe,Los Angeles,CA,4.9,43,Paneer Tikka,Snack,$10.99,1192,Yes
+R0247,Cafe Delight,Cafe,Chicago,IL,4.4,40,Pizza,Dessert,$12.99,156,Yes
+R0152,Healthy Bowl,Healthy,Boston,MA,4.4,50,Paneer Tikka,Snack,$10.99,527,Yes
+R0055,Burger Haven,American,Phoenix,AZ,4.4,40,Taco,Beverage,$4.99,580,Yes
+R0004,Healthy Bowl,Healthy,Houston,TX,3.8,30,Noodles,Main Course,$9.49,359,No
+R0172,Taco Fiesta,Mexican,Los Angeles,CA,4.3,42,Butter Chicken,Snack,$13.99,259,Yes
+R0127,Cafe Delight,Cafe,Dallas,TX,5.0,34,Paneer Tikka,Starter,$10.99,1191,No
+R0147,BBQ Nation,American,Seattle,WA,3.9,25,Pizza,Beverage,$12.99,589,Yes
+R0078,Cafe Delight,Cafe,Houston,TX,4.9,37,Pizza,Beverage,$12.99,1150,No
+R0225,Spice Route,Indian,Chicago,IL,4.3,34,Paneer Tikka,Starter,$10.99,969,Yes
+R0295,Pizza Palace,Italian,Houston,TX,4.5,55,Butter Chicken,Beverage,$13.99,322,Yes
+R0293,Healthy Bowl,Healthy,Dallas,TX,4.1,55,Sushi Roll,Starter,$11.99,164,No
+R0149,Dragon Wok,Chinese,Seattle,WA,4.0,24,Burger,Snack,$8.99,601,No
+R0171,Cafe Delight,Cafe,Phoenix,AZ,4.7,46,Burger,Dessert,$8.99,699,No
+R0110,Taco Fiesta,Mexican,Los Angeles,CA,4.3,28,Taco,Main Course,$4.99,1021,No
+R0186,Pizza Palace,Italian,Chicago,IL,3.9,23,Sushi Roll,Snack,$11.99,551,Yes
+R0048,Pizza Palace,Italian,Los Angeles,CA,4.2,50,Taco,Dessert,$4.99,937,No
+R0265,Burger Haven,American,Dallas,TX,3.7,44,Salad,Starter,$7.49,324,No
+R0006,Cafe Delight,Cafe,Seattle,WA,3.5,59,Coffee,Beverage,$3.99,1169,Yes
+R0005,BBQ Nation,American,Phoenix,AZ,4.8,59,Pizza,Dessert,$12.99,955,No
+R0099,Burger Haven,American,Boston,MA,4.1,59,Taco,Beverage,$4.99,1010,Yes
+R0008,Mediterraneo,Mediterranean,Dallas,TX,4.5,19,Paneer Tikka,Dessert,$10.99,91,No
+R0109,Pizza Palace,Italian,Boston,MA,4.4,51,Pizza,Starter,$12.99,1025,Yes
+R0009,BBQ Nation,American,Los Angeles,CA,4.3,36,Butter Chicken,Beverage,$13.99,825,No
+R0192,Spice Route,Indian,New York,NY,3.7,37,Pasta,Main Course,$10.49,416,Yes
+R0142,Taco Fiesta,Mexican,Dallas,TX,3.7,51,Pasta,Dessert,$10.49,1159,Yes
+R0032,Burger Haven,American,Phoenix,AZ,3.7,38,Coffee,Beverage,$3.99,760,No
+R0287,BBQ Nation,American,Chicago,IL,4.2,23,Coffee,Main Course,$3.99,515,No
+R0101,Sushi Express,Japanese,Phoenix,AZ,4.4,47,Noodles,Beverage,$9.49,570,No
+R0095,Taco Fiesta,Mexican,Seattle,WA,4.2,32,Salad,Dessert,$7.49,258,Yes
+R0075,Dragon Wok,Chinese,Seattle,WA,4.3,41,Salad,Snack,$7.49,143,Yes
+R0181,Healthy Bowl,Healthy,Boston,MA,3.7,21,Paneer Tikka,Beverage,$10.99,662,Yes
+R0281,Sushi Express,Japanese,Chicago,IL,4.5,48,Sushi Roll,Snack,$11.99,253,Yes
+R0099,Dragon Wok,Chinese,Chicago,IL,4.1,19,Salad,Snack,$7.49,886,Yes
+R0028,BBQ Nation,American,Phoenix,AZ,4.4,56,Butter Chicken,Dessert,$13.99,727,Yes
+R0198,Sushi Express,Japanese,New York,NY,3.9,58,Paneer Tikka,Dessert,$10.99,225,No
+R0196,Pizza Palace,Italian,Chicago,IL,3.8,39,Taco,Beverage,$4.99,208,No
+R0272,Dragon Wok,Chinese,Seattle,WA,4.3,23,Pizza,Main Course,$12.99,565,No
+R0218,Cafe Delight,Cafe,Boston,MA,4.0,56,Sushi Roll,Snack,$11.99,682,No
+R0213,Sushi Express,Japanese,Boston,MA,4.7,48,Butter Chicken,Snack,$13.99,1025,No
+R0105,Burger Haven,American,Seattle,WA,4.6,27,Coffee,Beverage,$3.99,792,No
+R0171,Sushi Express,Japanese,Houston,TX,4.6,58,Pizza,Dessert,$12.99,1079,Yes
+R0060,Taco Fiesta,Mexican,Boston,MA,3.5,26,Coffee,Main Course,$3.99,618,No
+R0139,Sushi Express,Japanese,Seattle,WA,4.9,22,Salad,Main Course,$7.49,187,Yes
+R0204,Spice Route,Indian,Houston,TX,4.4,29,Salad,Starter,$7.49,678,Yes
+R0080,BBQ Nation,American,Seattle,WA,3.9,56,Noodles,Dessert,$9.49,651,Yes
+R0151,Cafe Delight,Cafe,Seattle,WA,4.0,51,Sushi Roll,Dessert,$11.99,469,Yes
+R0274,Dragon Wok,Chinese,Seattle,WA,4.2,39,Salad,Main Course,$7.49,555,Yes
+R0047,Taco Fiesta,Mexican,Houston,TX,4.8,38,Pasta,Starter,$10.49,273,No
+R0085,Taco Fiesta,Mexican,Boston,MA,3.5,19,Noodles,Snack,$9.49,276,No
+R0073,Sushi Express,Japanese,Los Angeles,CA,4.9,50,Salad,Snack,$7.49,1058,No
+R0252,Spice Route,Indian,New York,NY,3.9,40,Pizza,Main Course,$12.99,1000,Yes
+R0130,Spice Route,Indian,Dallas,TX,3.9,21,Butter Chicken,Dessert,$13.99,415,No
+R0284,Cafe Delight,Cafe,Phoenix,AZ,4.5,25,Coffee,Dessert,$3.99,504,Yes
+R0019,Dragon Wok,Chinese,Phoenix,AZ,4.0,16,Salad,Snack,$7.49,462,No
+R0183,Spice Route,Indian,New York,NY,4.6,54,Coffee,Main Course,$3.99,309,Yes
+R0300,Healthy Bowl,Healthy,New York,NY,4.8,52,Coffee,Dessert,$3.99,562,Yes
+R0086,Taco Fiesta,Mexican,Chicago,IL,4.7,31,Pizza,Starter,$12.99,1115,Yes
+R0029,Pizza Palace,Italian,Chicago,IL,4.9,53,Paneer Tikka,Dessert,$10.99,583,Yes
+R0012,Taco Fiesta,Mexican,Dallas,TX,5.0,25,Coffee,Starter,$3.99,749,Yes
+R0193,Taco Fiesta,Mexican,Seattle,WA,4.2,43,Taco,Beverage,$4.99,218,No
+R0295,Burger Haven,American,Seattle,WA,4.1,46,Burger,Starter,$8.99,369,No
+R0048,Pizza Palace,Italian,Houston,TX,4.1,36,Noodles,Main Course,$9.49,111,No
+R0147,Cafe Delight,Cafe,Boston,MA,3.8,48,Burger,Snack,$8.99,142,Yes
+R0297,Spice Route,Indian,Dallas,TX,4.1,23,Burger,Main Course,$8.99,200,Yes
+R0062,Cafe Delight,Cafe,Boston,MA,4.8,42,Salad,Main Course,$7.49,1086,Yes
+R0075,Sushi Express,Japanese,Seattle,WA,4.7,36,Sushi Roll,Main Course,$11.99,174,No
+R0060,Pizza Palace,Italian,Boston,MA,3.8,42,Paneer Tikka,Starter,$10.99,802,No
+R0240,Healthy Bowl,Healthy,Phoenix,AZ,3.8,28,Paneer Tikka,Beverage,$10.99,326,Yes
+R0228,Mediterraneo,Mediterranean,New York,NY,4.4,15,Sushi Roll,Beverage,$11.99,355,Yes
+R0210,Mediterraneo,Mediterranean,Dallas,TX,4.5,30,Paneer Tikka,Main Course,$10.99,304,No
+R0040,Cafe Delight,Cafe,Seattle,WA,4.1,24,Pasta,Snack,$10.49,621,No
+R0064,Cafe Delight,Cafe,Houston,TX,4.3,17,Burger,Main Course,$8.99,635,No
+R0055,Taco Fiesta,Mexican,Seattle,WA,3.8,60,Pizza,Dessert,$12.99,958,No
+R0298,Sushi Express,Japanese,Dallas,TX,4.3,15,Taco,Beverage,$4.99,770,Yes
+R0100,BBQ Nation,American,Boston,MA,4.0,23,Salad,Beverage,$7.49,882,Yes
+R0142,Dragon Wok,Chinese,Phoenix,AZ,4.0,52,Butter Chicken,Dessert,$13.99,1031,Yes
+R0164,Mediterraneo,Mediterranean,Phoenix,AZ,4.3,17,Taco,Main Course,$4.99,348,No
+R0213,BBQ Nation,American,Phoenix,AZ,3.8,30,Paneer Tikka,Snack,$10.99,1112,Yes
+R0014,Healthy Bowl,Healthy,Dallas,TX,4.8,56,Butter Chicken,Starter,$13.99,1079,Yes
+R0062,BBQ Nation,American,Houston,TX,4.4,16,Pasta,Main Course,$10.49,765,Yes
+R0216,Dragon Wok,Chinese,New York,NY,3.9,30,Taco,Starter,$4.99,679,No
+R0026,Pizza Palace,Italian,Los Angeles,CA,3.9,19,Salad,Main Course,$7.49,1058,Yes
+R0036,Spice Route,Indian,Phoenix,AZ,4.9,36,Salad,Main Course,$7.49,1096,Yes
+R0165,Dragon Wok,Chinese,Los Angeles,CA,3.7,30,Coffee,Snack,$3.99,363,No
+R0224,Pizza Palace,Italian,New York,NY,4.7,24,Burger,Main Course,$8.99,1078,No
+R0272,Taco Fiesta,Mexican,Phoenix,AZ,3.5,39,Salad,Main Course,$7.49,913,No
+R0298,Dragon Wok,Chinese,New York,NY,4.0,49,Paneer Tikka,Dessert,$10.99,1098,No
+R0101,Taco Fiesta,Mexican,Boston,MA,3.6,41,Sushi Roll,Starter,$11.99,276,Yes
+R0157,Cafe Delight,Cafe,Phoenix,AZ,5.0,40,Butter Chicken,Snack,$13.99,764,No
+R0260,Healthy Bowl,Healthy,Los Angeles,CA,4.1,40,Coffee,Dessert,$3.99,817,No
+R0119,Mediterraneo,Mediterranean,Seattle,WA,4.3,38,Pasta,Starter,$10.49,332,Yes
+R0208,Dragon Wok,Chinese,Phoenix,AZ,3.7,50,Sushi Roll,Snack,$11.99,1020,Yes
+R0155,Cafe Delight,Cafe,Los Angeles,CA,3.7,22,Coffee,Snack,$3.99,995,Yes
+R0168,Pizza Palace,Italian,Dallas,TX,4.9,59,Pasta,Starter,$10.49,109,Yes
+R0211,Burger Haven,American,New York,NY,3.7,54,Salad,Beverage,$7.49,838,No
+R0024,Healthy Bowl,Healthy,Boston,MA,3.9,58,Sushi Roll,Main Course,$11.99,910,No
+R0264,BBQ Nation,American,Los Angeles,CA,3.7,48,Paneer Tikka,Dessert,$10.99,139,Yes
+R0064,Taco Fiesta,Mexican,Los Angeles,CA,4.4,40,Paneer Tikka,Beverage,$10.99,903,No
+R0240,Burger Haven,American,Phoenix,AZ,3.8,31,Paneer Tikka,Main Course,$10.99,155,Yes
+R0110,Healthy Bowl,Healthy,New York,NY,4.1,20,Coffee,Main Course,$3.99,544,No
+R0274,Dragon Wok,Chinese,Los Angeles,CA,4.2,57,Taco,Snack,$4.99,389,Yes
+R0009,Sushi Express,Japanese,Boston,MA,4.7,52,Pasta,Snack,$10.49,283,No
+R0045,Pizza Palace,Italian,New York,NY,4.5,37,Butter Chicken,Starter,$13.99,1068,Yes
+R0086,Cafe Delight,Cafe,Phoenix,AZ,4.4,50,Salad,Main Course,$7.49,332,Yes
+R0161,Spice Route,Indian,New York,NY,4.9,28,Pasta,Beverage,$10.49,325,Yes
+R0264,Mediterraneo,Mediterranean,Houston,TX,4.4,50,Burger,Dessert,$8.99,880,Yes
+R0149,Healthy Bowl,Healthy,Boston,MA,4.5,37,Paneer Tikka,Snack,$10.99,958,No
+R0274,Burger Haven,American,Houston,TX,4.9,28,Taco,Dessert,$4.99,668,No
+R0133,Taco Fiesta,Mexican,Seattle,WA,4.2,21,Sushi Roll,Snack,$11.99,526,No
+R0030,Pizza Palace,Italian,Dallas,TX,4.9,39,Burger,Beverage,$8.99,486,Yes
+R0258,Mediterraneo,Mediterranean,New York,NY,3.9,55,Burger,Main Course,$8.99,461,No
+R0247,Healthy Bowl,Healthy,Houston,TX,5.0,53,Coffee,Starter,$3.99,734,Yes
+R0286,Cafe Delight,Cafe,Boston,MA,4.8,46,Salad,Starter,$7.49,692,Yes
+R0002,Spice Route,Indian,Houston,TX,3.9,60,Pizza,Dessert,$12.99,909,Yes
+R0086,Taco Fiesta,Mexican,Phoenix,AZ,3.8,41,Sushi Roll,Main Course,$11.99,317,Yes
+R0094,Pizza Palace,Italian,Boston,MA,3.9,39,Sushi Roll,Main Course,$11.99,1137,Yes
+R0286,Taco Fiesta,Mexican,Houston,TX,4.4,40,Pizza,Dessert,$12.99,1109,Yes
+R0230,Mediterraneo,Mediterranean,Dallas,TX,4.5,21,Pizza,Beverage,$12.99,297,No
+R0198,Healthy Bowl,Healthy,Chicago,IL,3.8,22,Noodles,Main Course,$9.49,110,Yes
+R0099,Sushi Express,Japanese,Dallas,TX,4.3,24,Noodles,Dessert,$9.49,1080,Yes
+R0139,Sushi Express,Japanese,Dallas,TX,4.8,20,Butter Chicken,Dessert,$13.99,383,Yes
+R0140,Spice Route,Indian,Boston,MA,3.6,17,Sushi Roll,Main Course,$11.99,141,No
+R0086,Spice Route,Indian,Phoenix,AZ,3.9,52,Taco,Snack,$4.99,964,No
+R0283,Pizza Palace,Italian,Los Angeles,CA,4.6,48,Sushi Roll,Beverage,$11.99,264,Yes
+R0102,Burger Haven,American,Los Angeles,CA,4.6,22,Pasta,Main Course,$10.49,883,No
+R0214,Burger Haven,American,Chicago,IL,4.9,20,Taco,Beverage,$4.99,1043,No
+R0263,Dragon Wok,Chinese,Houston,TX,3.7,42,Salad,Main Course,$7.49,990,Yes
+R0059,BBQ Nation,American,Phoenix,AZ,3.7,24,Noodles,Snack,$9.49,711,No
+R0238,Dragon Wok,Chinese,Dallas,TX,4.4,38,Taco,Beverage,$4.99,209,Yes
+R0269,Sushi Express,Japanese,Chicago,IL,4.3,43,Noodles,Main Course,$9.49,86,Yes
+R0103,Healthy Bowl,Healthy,New York,NY,3.9,52,Pizza,Snack,$12.99,586,Yes
+R0076,Dragon Wok,Chinese,Dallas,TX,4.3,32,Paneer Tikka,Dessert,$10.99,450,Yes
+R0261,Sushi Express,Japanese,Los Angeles,CA,4.8,34,Paneer Tikka,Dessert,$10.99,190,No
+R0123,Cafe Delight,Cafe,Phoenix,AZ,4.5,55,Pasta,Main Course,$10.49,832,Yes
+R0093,Spice Route,Indian,Los Angeles,CA,3.7,60,Butter Chicken,Beverage,$13.99,341,Yes
+R0120,Mediterraneo,Mediterranean,Chicago,IL,4.7,57,Taco,Dessert,$4.99,833,No
+R0023,Healthy Bowl,Healthy,Los Angeles,CA,4.3,50,Noodles,Dessert,$9.49,1194,No
+R0057,Pizza Palace,Italian,Seattle,WA,3.9,17,Salad,Dessert,$7.49,468,Yes
+R0276,Cafe Delight,Cafe,New York,NY,3.5,44,Pizza,Dessert,$12.99,253,No
+R0215,Cafe Delight,Cafe,Dallas,TX,4.0,28,Salad,Main Course,$7.49,874,Yes
+R0156,Sushi Express,Japanese,Dallas,TX,5.0,56,Sushi Roll,Snack,$11.99,1154,Yes
+R0057,Spice Route,Indian,Boston,MA,4.9,51,Sushi Roll,Main Course,$11.99,701,Yes
+R0079,Dragon Wok,Chinese,Seattle,WA,4.4,47,Pizza,Dessert,$12.99,189,Yes
+R0175,Pizza Palace,Italian,Phoenix,AZ,3.7,30,Pizza,Starter,$12.99,205,No
+R0160,BBQ Nation,American,Houston,TX,4.7,22,Sushi Roll,Snack,$11.99,1159,No
+R0045,Pizza Palace,Italian,Houston,TX,4.8,33,Coffee,Beverage,$3.99,668,Yes
+R0074,Spice Route,Indian,Boston,MA,4.4,45,Butter Chicken,Main Course,$13.99,487,No
+R0238,Dragon Wok,Chinese,Los Angeles,CA,3.9,31,Burger,Snack,$8.99,996,Yes
+R0203,Pizza Palace,Italian,Houston,TX,4.7,53,Noodles,Main Course,$9.49,527,Yes
+R0024,Healthy Bowl,Healthy,Dallas,TX,4.4,52,Paneer Tikka,Beverage,$10.99,267,No
+R0183,Sushi Express,Japanese,Houston,TX,3.6,48,Noodles,Dessert,$9.49,593,Yes
+R0202,Dragon Wok,Chinese,Phoenix,AZ,3.9,20,Sushi Roll,Starter,$11.99,156,No
+R0148,Spice Route,Indian,Chicago,IL,4.9,54,Pizza,Starter,$12.99,736,No
+R0041,Spice Route,Indian,Houston,TX,4.2,33,Taco,Main Course,$4.99,1187,Yes
+R0039,Burger Haven,American,Houston,TX,4.3,53,Pasta,Beverage,$10.49,721,No
+R0092,Healthy Bowl,Healthy,Dallas,TX,3.9,29,Coffee,Beverage,$3.99,353,No
+R0233,Dragon Wok,Chinese,Phoenix,AZ,3.5,36,Salad,Dessert,$7.49,651,Yes
+R0121,Mediterraneo,Mediterranean,Dallas,TX,4.1,49,Burger,Snack,$8.99,996,No
+R0070,Mediterraneo,Mediterranean,New York,NY,4.9,19,Coffee,Beverage,$3.99,835,No
+R0115,Pizza Palace,Italian,Boston,MA,3.7,18,Sushi Roll,Starter,$11.99,834,Yes
+R0003,Spice Route,Indian,New York,NY,4.9,36,Burger,Main Course,$8.99,709,No
+R0007,BBQ Nation,American,Boston,MA,4.1,18,Paneer Tikka,Snack,$10.99,247,No
+R0006,Mediterraneo,Mediterranean,Seattle,WA,3.5,21,Sushi Roll,Beverage,$11.99,212,No
+R0043,Healthy Bowl,Healthy,Boston,MA,3.8,15,Coffee,Beverage,$3.99,217,Yes
+R0190,Sushi Express,Japanese,Dallas,TX,4.8,17,Paneer Tikka,Beverage,$10.99,338,No
+R0082,Mediterraneo,Mediterranean,Boston,MA,4.2,19,Butter Chicken,Beverage,$13.99,596,Yes
+R0065,Healthy Bowl,Healthy,Chicago,IL,4.4,36,Butter Chicken,Starter,$13.99,782,Yes
+R0233,Cafe Delight,Cafe,Seattle,WA,3.9,22,Butter Chicken,Beverage,$13.99,763,Yes
+R0159,Burger Haven,American,Chicago,IL,4.8,60,Pasta,Snack,$10.49,172,No
+R0021,Cafe Delight,Cafe,Houston,TX,4.3,57,Sushi Roll,Beverage,$11.99,850,Yes
+R0264,Taco Fiesta,Mexican,Seattle,WA,5.0,44,Paneer Tikka,Snack,$10.99,135,Yes
+R0242,Cafe Delight,Cafe,Houston,TX,4.9,15,Salad,Snack,$7.49,655,No
+R0256,BBQ Nation,American,Houston,TX,4.8,31,Pizza,Dessert,$12.99,284,Yes
+R0215,Taco Fiesta,Mexican,Phoenix,AZ,3.8,43,Pizza,Main Course,$12.99,491,Yes
+R0225,Sushi Express,Japanese,Chicago,IL,4.7,52,Burger,Main Course,$8.99,800,No
+R0237,Burger Haven,American,Phoenix,AZ,4.4,35,Noodles,Starter,$9.49,906,Yes
+R0276,Dragon Wok,Chinese,Boston,MA,4.2,53,Pizza,Dessert,$12.99,250,Yes
+R0022,Healthy Bowl,Healthy,Dallas,TX,3.6,38,Burger,Beverage,$8.99,767,No
+R0197,Burger Haven,American,Boston,MA,4.2,38,Noodles,Dessert,$9.49,317,No
+R0071,Dragon Wok,Chinese,Chicago,IL,4.4,51,Burger,Beverage,$8.99,325,Yes
+R0141,Spice Route,Indian,Houston,TX,3.9,52,Pasta,Dessert,$10.49,866,No
+R0107,Cafe Delight,Cafe,Los Angeles,CA,4.5,28,Coffee,Snack,$3.99,918,Yes
+R0109,Cafe Delight,Cafe,Boston,MA,3.7,22,Butter Chicken,Snack,$13.99,656,Yes
+R0258,Dragon Wok,Chinese,Houston,TX,3.6,58,Burger,Beverage,$8.99,1115,Yes
+R0055,Sushi Express,Japanese,Seattle,WA,4.5,44,Sushi Roll,Main Course,$11.99,482,No
+R0261,Pizza Palace,Italian,Los Angeles,CA,3.5,55,Paneer Tikka,Snack,$10.99,315,No
+R0027,Healthy Bowl,Healthy,Dallas,TX,4.2,53,Taco,Main Course,$4.99,1055,No
+R0262,Healthy Bowl,Healthy,Dallas,TX,4.7,39,Coffee,Beverage,$3.99,659,No
+R0266,Burger Haven,American,Phoenix,AZ,3.9,25,Salad,Snack,$7.49,299,Yes
+R0187,Cafe Delight,Cafe,Phoenix,AZ,4.3,37,Sushi Roll,Beverage,$11.99,252,No
+R0086,Burger Haven,American,Seattle,WA,3.9,40,Butter Chicken,Main Course,$13.99,674,Yes
+R0224,Dragon Wok,Chinese,Seattle,WA,4.2,32,Paneer Tikka,Dessert,$10.99,975,Yes
+R0268,Mediterraneo,Mediterranean,Houston,TX,3.7,21,Noodles,Main Course,$9.49,587,No
+R0078,BBQ Nation,American,Chicago,IL,4.1,28,Pasta,Dessert,$10.49,573,No
+R0106,Sushi Express,Japanese,Los Angeles,CA,4.6,16,Burger,Starter,$8.99,507,Yes
+R0107,Healthy Bowl,Healthy,New York,NY,3.6,58,Pizza,Dessert,$12.99,626,No
+R0020,Spice Route,Indian,Phoenix,AZ,3.8,40,Butter Chicken,Main Course,$13.99,419,Yes
+R0052,Mediterraneo,Mediterranean,Los Angeles,CA,3.6,47,Pasta,Dessert,$10.49,816,No
+R0198,Taco Fiesta,Mexican,New York,NY,4.3,51,Pasta,Beverage,$10.49,934,Yes
+R0015,Cafe Delight,Cafe,Houston,TX,4.5,15,Noodles,Main Course,$9.49,353,No
+R0046,Burger Haven,American,Houston,TX,4.7,43,Pasta,Dessert,$10.49,677,Yes
+R0282,Sushi Express,Japanese,Boston,MA,3.6,16,Salad,Beverage,$7.49,369,Yes
+R0020,Taco Fiesta,Mexican,Boston,MA,4.0,57,Butter Chicken,Beverage,$13.99,696,No
+R0222,Healthy Bowl,Healthy,Chicago,IL,3.8,50,Taco,Beverage,$4.99,205,No
+R0034,Taco Fiesta,Mexican,Seattle,WA,3.5,36,Pizza,Beverage,$12.99,952,No
+R0116,Taco Fiesta,Mexican,Los Angeles,CA,4.6,34,Pizza,Main Course,$12.99,648,No
+R0034,Sushi Express,Japanese,Dallas,TX,4.4,19,Burger,Main Course,$8.99,101,No
+R0004,Cafe Delight,Cafe,Dallas,TX,3.9,29,Burger,Starter,$8.99,557,Yes
+R0196,Taco Fiesta,Mexican,Chicago,IL,4.3,52,Paneer Tikka,Starter,$10.99,120,No
+R0110,Dragon Wok,Chinese,New York,NY,4.2,57,Sushi Roll,Beverage,$11.99,1034,Yes
+R0289,Burger Haven,American,Los Angeles,CA,4.5,39,Paneer Tikka,Starter,$10.99,868,Yes
+R0183,Spice Route,Indian,Houston,TX,4.8,21,Coffee,Beverage,$3.99,917,Yes
+R0240,Pizza Palace,Italian,Houston,TX,3.6,38,Sushi Roll,Snack,$11.99,320,No
+R0183,BBQ Nation,American,Boston,MA,4.2,15,Burger,Snack,$8.99,689,No
+R0148,Mediterraneo,Mediterranean,Dallas,TX,3.6,38,Salad,Main Course,$7.49,1122,Yes
+R0227,Burger Haven,American,Los Angeles,CA,4.1,33,Noodles,Beverage,$9.49,325,Yes
+R0245,Taco Fiesta,Mexican,Phoenix,AZ,3.7,57,Pizza,Snack,$12.99,533,No
+R0107,Mediterraneo,Mediterranean,Houston,TX,4.1,40,Pasta,Snack,$10.49,643,Yes
+R0153,BBQ Nation,American,Seattle,WA,3.8,56,Butter Chicken,Main Course,$13.99,90,Yes
+R0130,Sushi Express,Japanese,New York,NY,3.5,28,Butter Chicken,Snack,$13.99,920,Yes
+R0088,BBQ Nation,American,Houston,TX,4.8,44,Sushi Roll,Main Course,$11.99,982,No
+R0135,Spice Route,Indian,Los Angeles,CA,3.7,47,Butter Chicken,Starter,$13.99,358,Yes
+R0007,Sushi Express,Japanese,Phoenix,AZ,3.6,44,Pasta,Main Course,$10.49,1133,Yes
+R0007,Sushi Express,Japanese,Dallas,TX,4.0,15,Coffee,Starter,$3.99,170,No
+R0061,BBQ Nation,American,Boston,MA,4.7,36,Sushi Roll,Main Course,$11.99,320,Yes
+R0261,Sushi Express,Japanese,Phoenix,AZ,4.2,27,Sushi Roll,Beverage,$11.99,865,No
+R0244,Cafe Delight,Cafe,Seattle,WA,3.9,36,Salad,Snack,$7.49,724,Yes
+R0210,Cafe Delight,Cafe,Houston,TX,4.0,17,Salad,Dessert,$7.49,734,Yes
+R0222,Burger Haven,American,Phoenix,AZ,4.9,18,Noodles,Main Course,$9.49,318,Yes
+R0172,Mediterraneo,Mediterranean,New York,NY,3.9,21,Butter Chicken,Starter,$13.99,737,Yes
+R0149,Burger Haven,American,Boston,MA,4.3,31,Taco,Dessert,$4.99,498,No
+R0019,Spice Route,Indian,Seattle,WA,3.9,60,Salad,Dessert,$7.49,1067,Yes
+R0011,Sushi Express,Japanese,Boston,MA,3.6,27,Noodles,Beverage,$9.49,394,No
+R0006,Mediterraneo,Mediterranean,New York,NY,3.6,59,Burger,Starter,$8.99,733,No
+R0047,Taco Fiesta,Mexican,Phoenix,AZ,3.9,17,Pasta,Beverage,$10.49,645,Yes
+R0203,Dragon Wok,Chinese,Los Angeles,CA,4.6,32,Pasta,Beverage,$10.49,332,No
+R0259,Spice Route,Indian,Seattle,WA,4.7,25,Pasta,Snack,$10.49,642,No
+R0171,Healthy Bowl,Healthy,Houston,TX,4.0,60,Salad,Snack,$7.49,211,No
+R0130,Healthy Bowl,Healthy,Boston,MA,4.5,44,Sushi Roll,Starter,$11.99,406,No
+R0093,Mediterraneo,Mediterranean,Houston,TX,5.0,51,Burger,Starter,$8.99,212,Yes
+R0139,Cafe Delight,Cafe,Seattle,WA,4.9,32,Pizza,Snack,$12.99,936,No
+R0145,Dragon Wok,Chinese,Phoenix,AZ,4.6,24,Coffee,Snack,$3.99,1055,No
+R0216,Mediterraneo,Mediterranean,Dallas,TX,3.8,53,Paneer Tikka,Dessert,$10.99,162,No
+R0260,Mediterraneo,Mediterranean,Chicago,IL,4.2,21,Coffee,Beverage,$3.99,979,Yes
+R0078,Taco Fiesta,Mexican,Boston,MA,3.7,31,Noodles,Snack,$9.49,700,No
+R0230,BBQ Nation,American,Chicago,IL,4.8,45,Sushi Roll,Dessert,$11.99,1128,No
+R0249,Burger Haven,American,Chicago,IL,3.5,36,Noodles,Snack,$9.49,102,Yes
+R0188,Mediterraneo,Mediterranean,New York,NY,4.1,56,Pizza,Beverage,$12.99,750,No
+R0080,Dragon Wok,Chinese,Chicago,IL,4.7,23,Taco,Snack,$4.99,147,Yes
+R0140,Mediterraneo,Mediterranean,Los Angeles,CA,3.6,30,Paneer Tikka,Snack,$10.99,647,No
+R0101,Pizza Palace,Italian,Boston,MA,3.9,17,Pasta,Dessert,$10.49,740,Yes
+R0229,Pizza Palace,Italian,Los Angeles,CA,3.9,16,Salad,Starter,$7.49,526,Yes
+R0056,Burger Haven,American,Boston,MA,3.8,33,Burger,Main Course,$8.99,348,No
+R0187,Spice Route,Indian,New York,NY,4.7,53,Salad,Beverage,$7.49,545,No
+R0020,Sushi Express,Japanese,Dallas,TX,3.9,37,Salad,Snack,$7.49,997,No
+R0098,Mediterraneo,Mediterranean,Dallas,TX,3.7,43,Salad,Starter,$7.49,1124,Yes
+R0089,Cafe Delight,Cafe,New York,NY,4.6,38,Coffee,Starter,$3.99,568,Yes
+R0164,BBQ Nation,American,Houston,TX,4.4,16,Pasta,Beverage,$10.49,190,No
+R0100,Cafe Delight,Cafe,Phoenix,AZ,3.5,18,Salad,Snack,$7.49,642,Yes
+R0241,Cafe Delight,Cafe,Houston,TX,3.7,52,Paneer Tikka,Dessert,$10.99,320,No
+R0101,Sushi Express,Japanese,Phoenix,AZ,4.9,56,Coffee,Starter,$3.99,827,No
+R0078,Sushi Express,Japanese,Boston,MA,3.5,19,Pizza,Main Course,$12.99,1139,No
+R0116,BBQ Nation,American,Houston,TX,4.2,37,Pizza,Main Course,$12.99,547,No
+R0068,Spice Route,Indian,Boston,MA,4.5,51,Pasta,Main Course,$10.49,805,No
+R0042,Sushi Express,Japanese,Seattle,WA,5.0,27,Paneer Tikka,Snack,$10.99,943,No
+R0065,Mediterraneo,Mediterranean,Boston,MA,4.2,33,Pasta,Starter,$10.49,81,Yes
+R0236,Mediterraneo,Mediterranean,Los Angeles,CA,3.7,27,Pasta,Starter,$10.49,821,No
+R0038,Taco Fiesta,Mexican,New York,NY,4.9,55,Coffee,Main Course,$3.99,964,Yes
+R0291,Spice Route,Indian,Phoenix,AZ,4.8,38,Pizza,Main Course,$12.99,117,Yes
+R0054,Pizza Palace,Italian,Chicago,IL,4.4,51,Coffee,Dessert,$3.99,1080,No
+R0049,Cafe Delight,Cafe,Los Angeles,CA,4.8,39,Burger,Starter,$8.99,750,Yes
+R0115,Dragon Wok,Chinese,New York,NY,5.0,51,Paneer Tikka,Starter,$10.99,262,No
+R0017,Cafe Delight,Cafe,Seattle,WA,4.9,51,Pizza,Main Course,$12.99,1000,No
+R0205,Taco Fiesta,Mexican,New York,NY,4.1,50,Butter Chicken,Beverage,$13.99,87,No
+R0092,Taco Fiesta,Mexican,Los Angeles,CA,4.4,24,Coffee,Beverage,$3.99,285,Yes
+R0268,BBQ Nation,American,Los Angeles,CA,4.7,59,Noodles,Snack,$9.49,797,Yes
+R0167,Healthy Bowl,Healthy,Seattle,WA,4.8,53,Salad,Dessert,$7.49,1088,No
+R0031,Mediterraneo,Mediterranean,New York,NY,4.8,45,Taco,Starter,$4.99,1005,No
+R0297,Taco Fiesta,Mexican,Los Angeles,CA,4.7,42,Pizza,Starter,$12.99,756,Yes
+R0085,Pizza Palace,Italian,New York,NY,4.4,29,Paneer Tikka,Snack,$10.99,206,Yes
+R0011,Taco Fiesta,Mexican,Los Angeles,CA,4.8,15,Coffee,Beverage,$3.99,114,Yes
+R0060,Cafe Delight,Cafe,Seattle,WA,4.5,60,Pasta,Beverage,$10.49,863,No
+R0019,Mediterraneo,Mediterranean,Houston,TX,3.6,24,Taco,Dessert,$4.99,839,Yes
+R0021,Pizza Palace,Italian,New York,NY,5.0,15,Sushi Roll,Starter,$11.99,174,Yes
+R0154,Cafe Delight,Cafe,Houston,TX,4.9,32,Butter Chicken,Main Course,$13.99,1187,Yes
+R0277,Healthy Bowl,Healthy,Chicago,IL,3.7,35,Butter Chicken,Main Course,$13.99,809,Yes
+R0088,Cafe Delight,Cafe,Phoenix,AZ,4.7,31,Burger,Beverage,$8.99,116,Yes
+R0143,Dragon Wok,Chinese,Phoenix,AZ,4.0,40,Taco,Snack,$4.99,1096,Yes
+R0031,Taco Fiesta,Mexican,Chicago,IL,3.7,58,Pasta,Dessert,$10.49,384,Yes
+R0196,Pizza Palace,Italian,New York,NY,4.7,21,Butter Chicken,Snack,$13.99,313,Yes
+R0017,Cafe Delight,Cafe,Seattle,WA,4.7,58,Butter Chicken,Snack,$13.99,188,Yes
+R0060,BBQ Nation,American,New York,NY,4.4,30,Coffee,Snack,$3.99,1065,Yes
+R0127,Healthy Bowl,Healthy,Dallas,TX,4.4,39,Paneer Tikka,Snack,$10.99,1114,Yes
+R0124,Mediterraneo,Mediterranean,Los Angeles,CA,4.9,16,Noodles,Snack,$9.49,207,No
+R0230,Sushi Express,Japanese,Boston,MA,4.0,22,Salad,Snack,$7.49,159,No
+R0149,Dragon Wok,Chinese,Los Angeles,CA,3.5,49,Sushi Roll,Snack,$11.99,1062,No
+R0254,Spice Route,Indian,Los Angeles,CA,4.3,16,Paneer Tikka,Beverage,$10.99,990,Yes
+R0036,Spice Route,Indian,Phoenix,AZ,3.9,31,Sushi Roll,Starter,$11.99,710,No
+R0219,Healthy Bowl,Healthy,Seattle,WA,5.0,46,Pizza,Beverage,$12.99,755,No
+R0171,Spice Route,Indian,Chicago,IL,4.7,31,Pasta,Snack,$10.49,1126,Yes
+R0111,Burger Haven,American,Houston,TX,4.9,17,Pasta,Snack,$10.49,742,No
+R0119,Spice Route,Indian,Chicago,IL,4.0,53,Salad,Dessert,$7.49,868,No
+R0036,BBQ Nation,American,Phoenix,AZ,4.2,39,Paneer Tikka,Main Course,$10.99,798,Yes
+R0129,BBQ Nation,American,Phoenix,AZ,4.8,53,Noodles,Main Course,$9.49,119,Yes
+R0140,BBQ Nation,American,Los Angeles,CA,4.0,32,Taco,Starter,$4.99,199,Yes
+R0294,Cafe Delight,Cafe,Los Angeles,CA,4.5,34,Coffee,Main Course,$3.99,344,No
+R0084,Burger Haven,American,Chicago,IL,4.2,37,Sushi Roll,Starter,$11.99,1030,No
+R0110,Pizza Palace,Italian,Boston,MA,4.5,33,Salad,Snack,$7.49,574,Yes
+R0062,Dragon Wok,Chinese,Houston,TX,4.4,18,Salad,Dessert,$7.49,419,Yes
+R0160,Dragon Wok,Chinese,Phoenix,AZ,4.4,60,Burger,Main Course,$8.99,743,Yes
+R0206,Dragon Wok,Chinese,Phoenix,AZ,4.3,55,Sushi Roll,Snack,$11.99,745,Yes
+R0114,BBQ Nation,American,Seattle,WA,3.6,45,Butter Chicken,Starter,$13.99,83,No
+R0199,Cafe Delight,Cafe,Dallas,TX,3.8,49,Salad,Starter,$7.49,361,No
+R0256,Burger Haven,American,Dallas,TX,5.0,50,Paneer Tikka,Beverage,$10.99,892,Yes
+R0095,Cafe Delight,Cafe,Phoenix,AZ,4.6,44,Burger,Main Course,$8.99,493,No
+R0097,Cafe Delight,Cafe,Dallas,TX,4.0,29,Noodles,Dessert,$9.49,134,No
+R0270,Taco Fiesta,Mexican,Dallas,TX,4.6,25,Pizza,Snack,$12.99,866,Yes
+R0065,Taco Fiesta,Mexican,Dallas,TX,4.9,31,Pizza,Snack,$12.99,729,No
+R0112,Taco Fiesta,Mexican,Dallas,TX,4.2,20,Sushi Roll,Dessert,$11.99,131,No
+R0300,Spice Route,Indian,Phoenix,AZ,4.2,36,Sushi Roll,Starter,$11.99,108,Yes
+R0294,Healthy Bowl,Healthy,New York,NY,4.4,55,Noodles,Starter,$9.49,881,No
+R0176,Pizza Palace,Italian,New York,NY,3.9,17,Pasta,Main Course,$10.49,523,No
+R0262,Pizza Palace,Italian,Seattle,WA,4.4,53,Taco,Starter,$4.99,92,No
+R0273,Sushi Express,Japanese,Phoenix,AZ,4.2,41,Taco,Main Course,$4.99,917,Yes
+R0214,Sushi Express,Japanese,Seattle,WA,3.7,18,Coffee,Starter,$3.99,176,No
+R0193,Sushi Express,Japanese,Dallas,TX,3.7,27,Sushi Roll,Dessert,$11.99,667,Yes
+R0030,Pizza Palace,Italian,New York,NY,4.4,20,Noodles,Starter,$9.49,191,Yes
+R0287,Pizza Palace,Italian,New York,NY,4.8,56,Burger,Main Course,$8.99,1071,No
+R0051,Spice Route,Indian,Phoenix,AZ,4.8,49,Paneer Tikka,Starter,$10.99,242,No
+R0076,Mediterraneo,Mediterranean,Los Angeles,CA,3.7,55,Sushi Roll,Main Course,$11.99,162,Yes
+R0089,Mediterraneo,Mediterranean,Phoenix,AZ,4.7,38,Sushi Roll,Starter,$11.99,812,No
+R0258,Cafe Delight,Cafe,Los Angeles,CA,4.7,24,Salad,Dessert,$7.49,133,No
+R0181,Cafe Delight,Cafe,Phoenix,AZ,3.6,15,Coffee,Beverage,$3.99,975,Yes
+R0152,Mediterraneo,Mediterranean,New York,NY,4.0,60,Burger,Starter,$8.99,636,Yes
+R0009,Spice Route,Indian,Chicago,IL,4.9,19,Pasta,Main Course,$10.49,646,No
+R0220,Healthy Bowl,Healthy,Houston,TX,4.0,17,Salad,Starter,$7.49,654,Yes
+R0297,BBQ Nation,American,New York,NY,3.8,38,Paneer Tikka,Dessert,$10.99,765,Yes
+R0142,Mediterraneo,Mediterranean,Los Angeles,CA,4.8,49,Butter Chicken,Starter,$13.99,544,Yes
+R0289,Mediterraneo,Mediterranean,Dallas,TX,3.7,50,Salad,Snack,$7.49,741,No
+R0167,Pizza Palace,Italian,New York,NY,4.1,25,Sushi Roll,Snack,$11.99,1084,Yes
+R0225,Cafe Delight,Cafe,New York,NY,4.4,45,Taco,Snack,$4.99,375,Yes
+R0159,Taco Fiesta,Mexican,Houston,TX,3.8,39,Sushi Roll,Beverage,$11.99,350,No
+R0172,Spice Route,Indian,Boston,MA,4.1,15,Salad,Beverage,$7.49,531,Yes
+R0223,Spice Route,Indian,Phoenix,AZ,3.9,41,Butter Chicken,Snack,$13.99,218,Yes
+R0126,Healthy Bowl,Healthy,Houston,TX,4.5,38,Pasta,Main Course,$10.49,1118,No
+R0176,BBQ Nation,American,Los Angeles,CA,4.0,28,Sushi Roll,Beverage,$11.99,444,No
+R0092,Spice Route,Indian,Dallas,TX,4.8,55,Pasta,Beverage,$10.49,592,No
+R0021,Sushi Express,Japanese,Phoenix,AZ,3.5,39,Salad,Beverage,$7.49,535,Yes
+R0014,Cafe Delight,Cafe,Houston,TX,4.2,58,Sushi Roll,Beverage,$11.99,764,No
+R0125,Taco Fiesta,Mexican,New York,NY,3.7,35,Paneer Tikka,Beverage,$10.99,424,Yes
+R0051,Healthy Bowl,Healthy,Boston,MA,4.5,55,Pasta,Main Course,$10.49,147,Yes
+R0232,BBQ Nation,American,Houston,TX,4.0,54,Taco,Beverage,$4.99,586,No
+R0055,Pizza Palace,Italian,New York,NY,3.9,33,Pasta,Starter,$10.49,631,Yes
+R0283,Mediterraneo,Mediterranean,Los Angeles,CA,4.6,40,Coffee,Snack,$3.99,1086,Yes
+R0159,Taco Fiesta,Mexican,New York,NY,4.6,44,Sushi Roll,Main Course,$11.99,424,Yes
+R0247,Cafe Delight,Cafe,Boston,MA,4.6,18,Butter Chicken,Dessert,$13.99,754,No
+R0055,Pizza Palace,Italian,Houston,TX,4.4,20,Butter Chicken,Main Course,$13.99,896,No
+R0229,Mediterraneo,Mediterranean,Phoenix,AZ,3.6,36,Sushi Roll,Snack,$11.99,93,Yes
+R0120,Cafe Delight,Cafe,Chicago,IL,4.9,51,Pasta,Starter,$10.49,557,Yes
+R0142,Sushi Express,Japanese,Dallas,TX,3.7,33,Sushi Roll,Dessert,$11.99,1184,Yes
+R0053,BBQ Nation,American,Seattle,WA,4.1,30,Noodles,Main Course,$9.49,490,Yes
+R0063,Dragon Wok,Chinese,New York,NY,4.1,29,Coffee,Dessert,$3.99,376,No
+R0027,Healthy Bowl,Healthy,Phoenix,AZ,3.8,52,Pasta,Main Course,$10.49,986,No
+R0246,Pizza Palace,Italian,Dallas,TX,3.8,38,Butter Chicken,Main Course,$13.99,996,Yes
+R0202,BBQ Nation,American,Seattle,WA,4.3,55,Butter Chicken,Starter,$13.99,256,No
+R0033,Dragon Wok,Chinese,New York,NY,3.6,55,Sushi Roll,Starter,$11.99,940,No
+R0177,Cafe Delight,Cafe,Houston,TX,4.3,60,Pasta,Starter,$10.49,783,No
+R0041,Taco Fiesta,Mexican,Los Angeles,CA,3.7,53,Butter Chicken,Starter,$13.99,828,No
+R0013,Sushi Express,Japanese,Dallas,TX,3.8,34,Salad,Dessert,$7.49,780,No
+R0049,BBQ Nation,American,Phoenix,AZ,4.2,48,Sushi Roll,Main Course,$11.99,450,Yes
+R0145,Healthy Bowl,Healthy,New York,NY,4.2,52,Noodles,Starter,$9.49,370,Yes
+R0222,Cafe Delight,Cafe,Los Angeles,CA,4.5,39,Pizza,Main Course,$12.99,742,Yes
+R0036,Sushi Express,Japanese,Houston,TX,3.6,56,Pasta,Main Course,$10.49,889,Yes
+R0214,Sushi Express,Japanese,Seattle,WA,4.1,47,Coffee,Dessert,$3.99,399,Yes
+R0171,Healthy Bowl,Healthy,Phoenix,AZ,3.9,56,Coffee,Dessert,$3.99,563,Yes
+R0122,Burger Haven,American,Boston,MA,4.4,55,Sushi Roll,Main Course,$11.99,339,Yes
+R0258,Pizza Palace,Italian,Seattle,WA,3.9,28,Taco,Main Course,$4.99,1054,Yes
+R0218,Spice Route,Indian,Seattle,WA,4.1,52,Butter Chicken,Starter,$13.99,834,No
+R0221,Cafe Delight,Cafe,Boston,MA,4.2,23,Noodles,Beverage,$9.49,713,No
+R0025,Cafe Delight,Cafe,Chicago,IL,4.2,26,Burger,Main Course,$8.99,343,No
+R0057,Dragon Wok,Chinese,Houston,TX,4.7,29,Pizza,Beverage,$12.99,892,Yes
+R0257,Taco Fiesta,Mexican,New York,NY,4.6,33,Burger,Main Course,$8.99,205,No
+R0144,Burger Haven,American,Dallas,TX,3.9,58,Pasta,Beverage,$10.49,549,No
+R0185,BBQ Nation,American,Boston,MA,3.6,47,Pasta,Snack,$10.49,1104,No
+R0186,Burger Haven,American,Houston,TX,4.4,27,Paneer Tikka,Beverage,$10.99,899,No
+R0028,Spice Route,Indian,Los Angeles,CA,3.6,55,Taco,Starter,$4.99,1176,No
+R0062,Healthy Bowl,Healthy,Boston,MA,4.3,15,Pizza,Starter,$12.99,809,Yes
+R0237,Sushi Express,Japanese,New York,NY,5.0,60,Coffee,Snack,$3.99,148,No
+R0220,Taco Fiesta,Mexican,Phoenix,AZ,4.1,54,Pasta,Beverage,$10.49,757,Yes
+R0235,Spice Route,Indian,Phoenix,AZ,4.4,58,Taco,Dessert,$4.99,1192,No
+R0108,Burger Haven,American,Chicago,IL,3.7,18,Pasta,Main Course,$10.49,399,No
+R0263,Healthy Bowl,Healthy,Chicago,IL,4.5,44,Noodles,Beverage,$9.49,659,Yes
+R0254,Taco Fiesta,Mexican,New York,NY,4.9,20,Pizza,Starter,$12.99,367,Yes
+R0072,Mediterraneo,Mediterranean,Chicago,IL,4.8,47,Coffee,Main Course,$3.99,312,No
+R0282,Healthy Bowl,Healthy,Chicago,IL,4.0,27,Noodles,Dessert,$9.49,672,Yes
+R0050,Spice Route,Indian,Los Angeles,CA,4.3,57,Pizza,Snack,$12.99,470,No
+R0281,Mediterraneo,Mediterranean,Chicago,IL,3.6,42,Paneer Tikka,Starter,$10.99,319,No
+R0060,Burger Haven,American,Seattle,WA,4.0,45,Sushi Roll,Snack,$11.99,480,No
+R0299,Cafe Delight,Cafe,Dallas,TX,4.6,33,Pizza,Starter,$12.99,251,Yes
+R0257,Dragon Wok,Chinese,Boston,MA,4.6,29,Sushi Roll,Main Course,$11.99,207,Yes
+R0178,Mediterraneo,Mediterranean,Seattle,WA,4.7,48,Taco,Dessert,$4.99,355,No
+R0071,Spice Route,Indian,Boston,MA,4.7,31,Taco,Starter,$4.99,1143,Yes
+R0065,Cafe Delight,Cafe,Dallas,TX,3.8,44,Sushi Roll,Dessert,$11.99,682,No
+R0113,Healthy Bowl,Healthy,Los Angeles,CA,3.8,59,Taco,Starter,$4.99,825,No
+R0287,Mediterraneo,Mediterranean,Boston,MA,4.2,54,Coffee,Snack,$3.99,871,No
+R0248,Cafe Delight,Cafe,New York,NY,3.9,23,Sushi Roll,Dessert,$11.99,882,No
+R0061,Spice Route,Indian,Boston,MA,3.5,35,Pasta,Main Course,$10.49,237,No
+R0209,Mediterraneo,Mediterranean,Phoenix,AZ,4.5,45,Burger,Snack,$8.99,798,No
+R0284,Pizza Palace,Italian,Chicago,IL,4.4,26,Taco,Snack,$4.99,346,No
+R0096,Sushi Express,Japanese,Houston,TX,4.7,55,Sushi Roll,Starter,$11.99,290,No
+R0129,Mediterraneo,Mediterranean,Dallas,TX,4.7,23,Pasta,Snack,$10.49,970,No
+R0223,BBQ Nation,American,Phoenix,AZ,3.7,15,Taco,Starter,$4.99,1015,No
+R0098,Pizza Palace,Italian,Los Angeles,CA,4.7,38,Coffee,Beverage,$3.99,143,Yes
+R0033,Spice Route,Indian,Chicago,IL,4.5,43,Pizza,Beverage,$12.99,823,No
+R0217,Healthy Bowl,Healthy,Houston,TX,4.0,51,Pasta,Dessert,$10.49,291,No
+R0286,Burger Haven,American,Houston,TX,3.8,58,Noodles,Snack,$9.49,466,No
+R0113,Taco Fiesta,Mexican,Chicago,IL,3.5,30,Pizza,Main Course,$12.99,689,Yes
+R0008,Healthy Bowl,Healthy,Houston,TX,3.9,57,Salad,Dessert,$7.49,1077,No
+R0294,Burger Haven,American,Boston,MA,4.9,51,Taco,Main Course,$4.99,1054,No
+R0126,Cafe Delight,Cafe,Chicago,IL,4.7,39,Coffee,Beverage,$3.99,930,Yes
+R0197,Dragon Wok,Chinese,Los Angeles,CA,4.1,53,Sushi Roll,Dessert,$11.99,716,Yes
+R0165,Dragon Wok,Chinese,Boston,MA,4.5,36,Paneer Tikka,Snack,$10.99,750,Yes
+R0245,Dragon Wok,Chinese,New York,NY,3.9,32,Sushi Roll,Starter,$11.99,1037,No
+R0223,Healthy Bowl,Healthy,Chicago,IL,4.0,55,Salad,Beverage,$7.49,964,Yes
+R0270,Dragon Wok,Chinese,Houston,TX,4.2,60,Salad,Starter,$7.49,259,No
+R0276,Pizza Palace,Italian,Houston,TX,4.1,58,Pizza,Main Course,$12.99,474,No
+R0193,BBQ Nation,American,New York,NY,3.8,22,Pizza,Starter,$12.99,929,Yes
+R0090,Mediterraneo,Mediterranean,Houston,TX,4.6,51,Burger,Snack,$8.99,640,No
+R0013,BBQ Nation,American,Phoenix,AZ,4.7,22,Butter Chicken,Beverage,$13.99,481,No
+R0231,Burger Haven,American,Dallas,TX,4.4,57,Pasta,Beverage,$10.49,1080,No
+R0004,Healthy Bowl,Healthy,Phoenix,AZ,4.7,46,Taco,Snack,$4.99,766,Yes
+R0097,Pizza Palace,Italian,Los Angeles,CA,4.6,25,Taco,Beverage,$4.99,233,Yes
+R0187,Mediterraneo,Mediterranean,Phoenix,AZ,4.8,46,Taco,Starter,$4.99,645,No
+R0300,Spice Route,Indian,Dallas,TX,3.9,24,Pizza,Dessert,$12.99,581,Yes
+R0251,Sushi Express,Japanese,Boston,MA,3.5,39,Coffee,Starter,$3.99,391,No
+R0109,Burger Haven,American,Phoenix,AZ,5.0,49,Burger,Starter,$8.99,144,Yes
+R0188,Dragon Wok,Chinese,Phoenix,AZ,4.0,38,Pasta,Beverage,$10.49,1119,Yes
+R0155,Healthy Bowl,Healthy,Dallas,TX,4.5,39,Salad,Main Course,$7.49,514,Yes
+R0206,Healthy Bowl,Healthy,Los Angeles,CA,3.8,37,Sushi Roll,Main Course,$11.99,1189,No
+R0018,Dragon Wok,Chinese,Dallas,TX,3.6,60,Coffee,Dessert,$3.99,193,Yes
+R0020,Dragon Wok,Chinese,Dallas,TX,3.8,41,Butter Chicken,Dessert,$13.99,365,Yes
+R0080,Sushi Express,Japanese,New York,NY,4.1,40,Sushi Roll,Dessert,$11.99,1145,No
+R0243,Dragon Wok,Chinese,Chicago,IL,4.1,48,Butter Chicken,Snack,$13.99,995,Yes
+R0275,Healthy Bowl,Healthy,Phoenix,AZ,4.3,58,Noodles,Starter,$9.49,1072,No
+R0098,Healthy Bowl,Healthy,Houston,TX,3.5,22,Sushi Roll,Snack,$11.99,706,Yes
+R0293,Dragon Wok,Chinese,Phoenix,AZ,3.6,19,Paneer Tikka,Starter,$10.99,437,Yes
+R0234,Spice Route,Indian,Dallas,TX,4.0,60,Coffee,Starter,$3.99,510,No
+R0268,Dragon Wok,Chinese,New York,NY,4.6,57,Butter Chicken,Snack,$13.99,590,Yes
+R0082,Taco Fiesta,Mexican,Chicago,IL,4.8,47,Noodles,Dessert,$9.49,436,No
+R0061,Taco Fiesta,Mexican,Los Angeles,CA,4.1,42,Salad,Snack,$7.49,145,Yes
+R0002,Healthy Bowl,Healthy,Chicago,IL,4.7,28,Butter Chicken,Beverage,$13.99,519,No
+R0048,Sushi Express,Japanese,Los Angeles,CA,3.7,16,Pasta,Starter,$10.49,1178,No
+R0111,Sushi Express,Japanese,Dallas,TX,4.4,39,Pizza,Dessert,$12.99,936,Yes
+R0176,BBQ Nation,American,New York,NY,3.8,58,Pasta,Dessert,$10.49,204,Yes
+R0247,Sushi Express,Japanese,Chicago,IL,4.2,36,Taco,Dessert,$4.99,884,No
+R0154,Spice Route,Indian,Phoenix,AZ,5.0,37,Paneer Tikka,Starter,$10.99,1193,No
+R0264,Cafe Delight,Cafe,Boston,MA,3.9,30,Pizza,Snack,$12.99,788,No
+R0179,Burger Haven,American,Seattle,WA,3.8,29,Sushi Roll,Main Course,$11.99,208,No
+R0141,Burger Haven,American,Dallas,TX,3.7,25,Salad,Starter,$7.49,694,No
+R0219,Taco Fiesta,Mexican,Seattle,WA,3.8,47,Taco,Snack,$4.99,197,Yes
+R0095,BBQ Nation,American,New York,NY,3.9,52,Coffee,Starter,$3.99,745,Yes
+R0221,Pizza Palace,Italian,Phoenix,AZ,4.9,53,Pizza,Snack,$12.99,492,No
+R0078,Cafe Delight,Cafe,Seattle,WA,4.1,26,Taco,Main Course,$4.99,943,Yes
+R0074,BBQ Nation,American,Boston,MA,5.0,28,Sushi Roll,Beverage,$11.99,832,Yes
+R0019,Burger Haven,American,Phoenix,AZ,3.9,22,Pizza,Main Course,$12.99,1099,Yes
+R0094,Pizza Palace,Italian,Houston,TX,4.0,43,Paneer Tikka,Main Course,$10.99,92,No
+R0043,Pizza Palace,Italian,Houston,TX,4.7,22,Coffee,Snack,$3.99,604,Yes
+R0161,Dragon Wok,Chinese,Dallas,TX,4.5,59,Pasta,Main Course,$10.49,1116,No
+R0277,Mediterraneo,Mediterranean,Los Angeles,CA,3.8,27,Coffee,Beverage,$3.99,864,Yes
+R0151,Dragon Wok,Chinese,New York,NY,4.4,46,Noodles,Snack,$9.49,741,No
+R0109,Sushi Express,Japanese,Chicago,IL,5.0,59,Pizza,Dessert,$12.99,436,No
+R0107,BBQ Nation,American,New York,NY,4.2,29,Sushi Roll,Snack,$11.99,526,Yes
+R0142,Mediterraneo,Mediterranean,Los Angeles,CA,4.7,32,Salad,Beverage,$7.49,673,Yes
+R0143,Healthy Bowl,Healthy,Boston,MA,3.6,53,Pizza,Starter,$12.99,1110,No
+R0199,Mediterraneo,Mediterranean,Boston,MA,4.4,53,Sushi Roll,Snack,$11.99,730,Yes
+R0025,Burger Haven,American,New York,NY,4.5,55,Noodles,Main Course,$9.49,315,No
+R0101,Spice Route,Indian,Seattle,WA,4.2,47,Coffee,Beverage,$3.99,810,No
+R0186,Taco Fiesta,Mexican,Seattle,WA,3.6,16,Coffee,Snack,$3.99,329,Yes
+R0182,Sushi Express,Japanese,Dallas,TX,4.0,55,Salad,Beverage,$7.49,873,Yes
+R0241,Sushi Express,Japanese,New York,NY,3.9,36,Salad,Beverage,$7.49,818,No
+R0278,Healthy Bowl,Healthy,Phoenix,AZ,3.8,36,Taco,Starter,$4.99,750,No
+R0024,Sushi Express,Japanese,Dallas,TX,4.7,50,Pizza,Main Course,$12.99,732,No
+R0223,Mediterraneo,Mediterranean,New York,NY,4.7,55,Sushi Roll,Main Course,$11.99,441,Yes
+R0066,BBQ Nation,American,Seattle,WA,3.5,38,Paneer Tikka,Dessert,$10.99,344,Yes
+R0171,Healthy Bowl,Healthy,Phoenix,AZ,4.2,37,Pizza,Dessert,$12.99,546,No
+R0125,Taco Fiesta,Mexican,Chicago,IL,4.9,31,Pizza,Beverage,$12.99,1150,Yes
+R0078,Dragon Wok,Chinese,Chicago,IL,4.6,55,Burger,Beverage,$8.99,737,No
+R0269,Burger Haven,American,Phoenix,AZ,4.8,24,Taco,Snack,$4.99,937,No
+R0252,Pizza Palace,Italian,Chicago,IL,3.9,49,Pasta,Main Course,$10.49,755,Yes
+R0034,Sushi Express,Japanese,Los Angeles,CA,3.5,47,Noodles,Beverage,$9.49,321,No
+R0029,Spice Route,Indian,Dallas,TX,3.5,58,Noodles,Dessert,$9.49,700,Yes
+R0188,Pizza Palace,Italian,Dallas,TX,4.6,37,Noodles,Main Course,$9.49,693,No
+R0069,Sushi Express,Japanese,Houston,TX,4.4,39,Sushi Roll,Beverage,$11.99,838,Yes
+R0227,Healthy Bowl,Healthy,Boston,MA,3.6,26,Taco,Beverage,$4.99,410,No
+R0008,Dragon Wok,Chinese,Boston,MA,3.6,56,Taco,Starter,$4.99,192,No
+R0280,Dragon Wok,Chinese,Seattle,WA,3.5,37,Butter Chicken,Starter,$13.99,159,No
+R0221,Taco Fiesta,Mexican,Chicago,IL,3.7,29,Taco,Snack,$4.99,121,Yes
+R0101,Taco Fiesta,Mexican,Los Angeles,CA,3.7,50,Noodles,Beverage,$9.49,716,No
+R0268,Healthy Bowl,Healthy,Chicago,IL,4.4,21,Butter Chicken,Beverage,$13.99,649,Yes
+R0141,Pizza Palace,Italian,Houston,TX,4.8,46,Taco,Starter,$4.99,667,No
+R0195,Cafe Delight,Cafe,New York,NY,3.9,42,Butter Chicken,Beverage,$13.99,423,Yes
+R0065,Spice Route,Indian,Dallas,TX,3.9,55,Noodles,Dessert,$9.49,1052,No
+R0094,Sushi Express,Japanese,Boston,MA,4.2,49,Paneer Tikka,Dessert,$10.99,726,No
+R0278,Dragon Wok,Chinese,Boston,MA,4.8,56,Noodles,Main Course,$9.49,1183,No
+R0137,Burger Haven,American,Dallas,TX,4.6,48,Pasta,Snack,$10.49,344,Yes
+R0045,Sushi Express,Japanese,Seattle,WA,3.5,55,Pasta,Beverage,$10.49,927,No
+R0288,Taco Fiesta,Mexican,Seattle,WA,3.8,34,Pizza,Starter,$12.99,955,Yes
+R0105,Healthy Bowl,Healthy,Chicago,IL,4.6,30,Taco,Beverage,$4.99,309,Yes
+R0113,Burger Haven,American,Chicago,IL,4.6,47,Paneer Tikka,Beverage,$10.99,124,Yes
+R0242,Mediterraneo,Mediterranean,New York,NY,4.9,38,Sushi Roll,Snack,$11.99,830,Yes
+R0230,Dragon Wok,Chinese,Boston,MA,4.6,27,Coffee,Main Course,$3.99,735,No
+R0148,BBQ Nation,American,New York,NY,4.5,25,Butter Chicken,Dessert,$13.99,514,Yes
+R0287,BBQ Nation,American,Los Angeles,CA,4.7,28,Taco,Main Course,$4.99,389,No
+R0097,Burger Haven,American,Houston,TX,3.6,54,Burger,Starter,$8.99,1005,No
+R0134,Burger Haven,American,New York,NY,4.6,49,Pizza,Beverage,$12.99,142,No
+R0038,Dragon Wok,Chinese,New York,NY,4.5,55,Coffee,Main Course,$3.99,420,Yes
+R0055,Taco Fiesta,Mexican,Dallas,TX,4.3,39,Burger,Starter,$8.99,552,Yes
+R0243,Spice Route,Indian,Boston,MA,4.0,40,Noodles,Dessert,$9.49,318,Yes
+R0039,Taco Fiesta,Mexican,Phoenix,AZ,3.7,54,Pizza,Starter,$12.99,532,Yes
+R0047,BBQ Nation,American,Phoenix,AZ,4.4,25,Coffee,Main Course,$3.99,171,Yes
+R0165,Taco Fiesta,Mexican,New York,NY,4.9,43,Burger,Main Course,$8.99,617,Yes
+R0012,Cafe Delight,Cafe,Seattle,WA,3.9,53,Burger,Dessert,$8.99,276,Yes
+R0105,Spice Route,Indian,Seattle,WA,4.5,52,Noodles,Snack,$9.49,82,No
+R0242,Healthy Bowl,Healthy,Houston,TX,4.7,33,Pasta,Dessert,$10.49,1105,Yes
+R0140,Healthy Bowl,Healthy,Dallas,TX,5.0,59,Salad,Main Course,$7.49,893,No
+R0286,Sushi Express,Japanese,Dallas,TX,4.0,35,Taco,Dessert,$4.99,284,Yes
+R0294,Mediterraneo,Mediterranean,Dallas,TX,4.9,40,Noodles,Starter,$9.49,1188,Yes
+R0297,Dragon Wok,Chinese,Seattle,WA,4.3,52,Pizza,Dessert,$12.99,570,No
+R0169,Sushi Express,Japanese,Houston,TX,4.5,50,Burger,Main Course,$8.99,800,No
+R0137,Mediterraneo,Mediterranean,Dallas,TX,3.9,33,Sushi Roll,Snack,$11.99,920,No
+R0251,Taco Fiesta,Mexican,Los Angeles,CA,3.5,53,Taco,Main Course,$4.99,228,Yes
+R0229,Taco Fiesta,Mexican,New York,NY,3.7,52,Salad,Beverage,$7.49,452,Yes
+R0043,Pizza Palace,Italian,New York,NY,4.3,38,Sushi Roll,Starter,$11.99,901,No
+R0100,Healthy Bowl,Healthy,Seattle,WA,5.0,36,Pasta,Starter,$10.49,501,No
+R0014,Pizza Palace,Italian,Houston,TX,4.1,59,Salad,Starter,$7.49,372,Yes
+R0075,Mediterraneo,Mediterranean,Phoenix,AZ,3.5,45,Salad,Beverage,$7.49,968,Yes
+R0175,Burger Haven,American,Seattle,WA,4.0,40,Noodles,Dessert,$9.49,501,No
+R0034,Mediterraneo,Mediterranean,Boston,MA,3.5,28,Burger,Beverage,$8.99,950,No
+R0292,Cafe Delight,Cafe,New York,NY,4.3,39,Noodles,Beverage,$9.49,625,No
+R0267,Pizza Palace,Italian,Boston,MA,3.7,15,Butter Chicken,Snack,$13.99,334,Yes
+R0141,Cafe Delight,Cafe,Seattle,WA,4.4,59,Salad,Dessert,$7.49,408,No
+R0291,Pizza Palace,Italian,Seattle,WA,4.3,52,Paneer Tikka,Starter,$10.99,614,Yes
+R0229,Sushi Express,Japanese,Boston,MA,3.9,59,Salad,Dessert,$7.49,422,No
+R0098,Cafe Delight,Cafe,Houston,TX,4.9,57,Salad,Beverage,$7.49,1169,Yes
+R0186,Mediterraneo,Mediterranean,Boston,MA,4.5,24,Coffee,Beverage,$3.99,253,Yes
+R0213,Dragon Wok,Chinese,Chicago,IL,4.3,18,Butter Chicken,Dessert,$13.99,787,Yes
+R0253,BBQ Nation,American,Dallas,TX,3.8,33,Paneer Tikka,Main Course,$10.99,1150,No
+R0143,Cafe Delight,Cafe,Boston,MA,4.2,54,Salad,Dessert,$7.49,1191,No
+R0171,Spice Route,Indian,New York,NY,3.9,15,Coffee,Snack,$3.99,1005,Yes
+R0214,Healthy Bowl,Healthy,Houston,TX,3.6,29,Sushi Roll,Dessert,$11.99,352,Yes
+R0067,Mediterraneo,Mediterranean,Phoenix,AZ,4.8,30,Noodles,Main Course,$9.49,658,Yes
+R0132,Mediterraneo,Mediterranean,Los Angeles,CA,4.0,40,Pasta,Main Course,$10.49,1012,No
+R0201,Spice Route,Indian,Dallas,TX,4.5,51,Sushi Roll,Main Course,$11.99,267,No
+R0196,Mediterraneo,Mediterranean,Houston,TX,4.7,60,Paneer Tikka,Beverage,$10.99,816,Yes
+R0093,Sushi Express,Japanese,Seattle,WA,4.4,47,Taco,Beverage,$4.99,977,No
+R0127,Healthy Bowl,Healthy,New York,NY,4.0,53,Butter Chicken,Snack,$13.99,1068,Yes
+R0046,Pizza Palace,Italian,Los Angeles,CA,4.4,56,Pizza,Snack,$12.99,226,Yes
+R0286,Pizza Palace,Italian,Houston,TX,4.2,56,Burger,Dessert,$8.99,533,No
+R0127,Cafe Delight,Cafe,Dallas,TX,3.9,40,Coffee,Beverage,$3.99,617,No
+R0144,Pizza Palace,Italian,Boston,MA,4.6,42,Burger,Beverage,$8.99,333,Yes
+R0264,Burger Haven,American,Boston,MA,3.7,15,Sushi Roll,Starter,$11.99,111,Yes
+R0268,Spice Route,Indian,Seattle,WA,4.5,30,Sushi Roll,Dessert,$11.99,606,Yes
+R0123,Cafe Delight,Cafe,Seattle,WA,4.4,59,Butter Chicken,Starter,$13.99,1124,Yes
+R0009,BBQ Nation,American,Los Angeles,CA,4.8,58,Burger,Beverage,$8.99,487,No
+R0245,Spice Route,Indian,Houston,TX,3.6,18,Coffee,Starter,$3.99,1173,No
+R0057,Spice Route,Indian,Chicago,IL,4.2,34,Noodles,Starter,$9.49,1084,Yes
+R0177,Spice Route,Indian,Los Angeles,CA,4.4,49,Burger,Dessert,$8.99,670,No
+R0237,Mediterraneo,Mediterranean,Los Angeles,CA,4.7,18,Pasta,Snack,$10.49,756,Yes
+R0032,Burger Haven,American,Houston,TX,3.8,54,Coffee,Dessert,$3.99,1112,Yes
+R0184,Healthy Bowl,Healthy,Dallas,TX,4.2,37,Pizza,Snack,$12.99,374,No
+R0083,Spice Route,Indian,Phoenix,AZ,4.6,16,Pizza,Starter,$12.99,428,No
+R0207,Healthy Bowl,Healthy,Seattle,WA,3.7,25,Sushi Roll,Snack,$11.99,955,Yes
+R0161,Spice Route,Indian,Seattle,WA,4.4,36,Sushi Roll,Beverage,$11.99,1164,No
+R0117,Cafe Delight,Cafe,New York,NY,4.1,57,Pizza,Snack,$12.99,274,Yes
+R0100,Cafe Delight,Cafe,Boston,MA,4.9,41,Pasta,Starter,$10.49,763,No
+R0297,BBQ Nation,American,Seattle,WA,4.2,37,Taco,Beverage,$4.99,558,No
+R0208,Pizza Palace,Italian,Chicago,IL,3.6,17,Burger,Snack,$8.99,1120,No
+R0219,Spice Route,Indian,Phoenix,AZ,3.9,58,Burger,Beverage,$8.99,509,Yes
+R0268,Cafe Delight,Cafe,Seattle,WA,4.2,32,Salad,Dessert,$7.49,345,No
+R0078,Dragon Wok,Chinese,Boston,MA,4.4,39,Taco,Starter,$4.99,390,No
+R0215,Cafe Delight,Cafe,Houston,TX,4.2,25,Paneer Tikka,Beverage,$10.99,683,No
+R0190,Spice Route,Indian,Los Angeles,CA,4.5,17,Paneer Tikka,Dessert,$10.99,578,Yes
+R0279,Cafe Delight,Cafe,Phoenix,AZ,4.5,23,Pizza,Main Course,$12.99,128,Yes
+R0268,Cafe Delight,Cafe,Seattle,WA,4.7,16,Sushi Roll,Main Course,$11.99,679,No
+R0239,Mediterraneo,Mediterranean,New York,NY,4.3,53,Noodles,Starter,$9.49,619,Yes
+R0181,Dragon Wok,Chinese,Boston,MA,3.7,22,Pasta,Main Course,$10.49,222,Yes
+R0053,Cafe Delight,Cafe,Seattle,WA,4.7,38,Noodles,Starter,$9.49,722,No
+R0287,Mediterraneo,Mediterranean,Chicago,IL,4.6,29,Coffee,Snack,$3.99,552,Yes
+R0207,Spice Route,Indian,Phoenix,AZ,4.5,38,Salad,Dessert,$7.49,1175,Yes
+R0039,Healthy Bowl,Healthy,Los Angeles,CA,4.2,60,Coffee,Main Course,$3.99,686,No
+R0028,BBQ Nation,American,Los Angeles,CA,4.0,16,Coffee,Beverage,$3.99,502,No
+R0180,Cafe Delight,Cafe,New York,NY,4.8,40,Salad,Main Course,$7.49,550,No
+R0080,Cafe Delight,Cafe,Chicago,IL,3.9,57,Pizza,Dessert,$12.99,1188,Yes
+R0256,BBQ Nation,American,Los Angeles,CA,4.8,16,Sushi Roll,Snack,$11.99,661,No
+R0276,Mediterraneo,Mediterranean,Chicago,IL,4.4,18,Burger,Beverage,$8.99,524,No
+R0049,Sushi Express,Japanese,Chicago,IL,4.3,18,Coffee,Beverage,$3.99,882,No
+R0082,Taco Fiesta,Mexican,Phoenix,AZ,4.7,49,Burger,Beverage,$8.99,769,No
+R0289,Cafe Delight,Cafe,Houston,TX,5.0,54,Salad,Snack,$7.49,695,No
+R0046,Sushi Express,Japanese,Phoenix,AZ,3.6,47,Pizza,Starter,$12.99,341,Yes
+R0043,Mediterraneo,Mediterranean,Seattle,WA,3.9,59,Salad,Dessert,$7.49,108,No
+R0164,Spice Route,Indian,Houston,TX,5.0,34,Noodles,Beverage,$9.49,798,Yes
+R0141,Sushi Express,Japanese,Los Angeles,CA,4.8,22,Burger,Dessert,$8.99,748,Yes
+R0272,Burger Haven,American,Phoenix,AZ,4.0,48,Butter Chicken,Main Course,$13.99,1003,Yes
+R0256,Healthy Bowl,Healthy,Seattle,WA,3.9,32,Paneer Tikka,Dessert,$10.99,208,No
+R0270,Burger Haven,American,Houston,TX,4.3,26,Paneer Tikka,Dessert,$10.99,1041,Yes
+R0006,Pizza Palace,Italian,Phoenix,AZ,5.0,51,Pizza,Starter,$12.99,600,Yes
+R0152,Sushi Express,Japanese,New York,NY,4.7,33,Coffee,Snack,$3.99,222,No
+R0173,Healthy Bowl,Healthy,Houston,TX,3.5,54,Pasta,Starter,$10.49,127,Yes
+R0255,Sushi Express,Japanese,Los Angeles,CA,4.0,30,Noodles,Main Course,$9.49,418,Yes
+R0043,Dragon Wok,Chinese,Dallas,TX,4.2,34,Sushi Roll,Main Course,$11.99,1179,Yes
+R0138,Healthy Bowl,Healthy,Boston,MA,3.9,46,Burger,Starter,$8.99,933,No
+R0177,Dragon Wok,Chinese,Seattle,WA,4.7,31,Taco,Starter,$4.99,1198,Yes
+R0247,Dragon Wok,Chinese,Boston,MA,3.7,45,Pasta,Starter,$10.49,202,No
+R0132,Dragon Wok,Chinese,Dallas,TX,4.8,56,Burger,Snack,$8.99,368,Yes
+R0255,Spice Route,Indian,Phoenix,AZ,3.7,28,Burger,Starter,$8.99,996,No
+R0033,Mediterraneo,Mediterranean,Dallas,TX,4.1,21,Salad,Main Course,$7.49,786,Yes
+R0221,Healthy Bowl,Healthy,New York,NY,4.0,56,Noodles,Starter,$9.49,514,No
+R0050,Taco Fiesta,Mexican,Boston,MA,4.0,33,Coffee,Snack,$3.99,1116,Yes
+R0125,Pizza Palace,Italian,Boston,MA,4.6,30,Noodles,Beverage,$9.49,872,No
+R0104,Mediterraneo,Mediterranean,Houston,TX,4.2,48,Salad,Starter,$7.49,724,No
+R0195,Burger Haven,American,Chicago,IL,4.1,37,Pizza,Snack,$12.99,272,No
+R0288,Pizza Palace,Italian,Los Angeles,CA,3.8,16,Coffee,Starter,$3.99,603,No
+R0026,Dragon Wok,Chinese,Dallas,TX,4.2,44,Taco,Snack,$4.99,750,Yes
+R0148,Cafe Delight,Cafe,Chicago,IL,4.3,52,Salad,Beverage,$7.49,241,Yes
+R0024,Sushi Express,Japanese,Boston,MA,3.9,49,Pizza,Beverage,$12.99,1061,Yes
+R0152,BBQ Nation,American,Chicago,IL,3.8,36,Salad,Main Course,$7.49,825,Yes
+R0002,Burger Haven,American,Seattle,WA,3.5,35,Pizza,Main Course,$12.99,229,No
+R0206,Cafe Delight,Cafe,Chicago,IL,4.4,54,Butter Chicken,Beverage,$13.99,149,No
+R0049,BBQ Nation,American,New York,NY,3.5,15,Coffee,Main Course,$3.99,453,No
+R0251,Pizza Palace,Italian,Los Angeles,CA,4.1,25,Salad,Dessert,$7.49,596,Yes
+R0009,Cafe Delight,Cafe,Chicago,IL,4.9,28,Paneer Tikka,Beverage,$10.99,296,No
+R0046,Spice Route,Indian,Seattle,WA,3.6,59,Butter Chicken,Main Course,$13.99,838,Yes
+R0283,Mediterraneo,Mediterranean,Boston,MA,3.7,34,Burger,Dessert,$8.99,753,No
+R0154,BBQ Nation,American,New York,NY,4.1,21,Coffee,Beverage,$3.99,1092,No
+R0230,BBQ Nation,American,Phoenix,AZ,3.7,60,Pasta,Starter,$10.49,790,Yes
+R0062,Mediterraneo,Mediterranean,Boston,MA,4.8,49,Pizza,Dessert,$12.99,816,No
+R0272,Taco Fiesta,Mexican,Seattle,WA,3.9,54,Pizza,Dessert,$12.99,979,No
+R0217,Cafe Delight,Cafe,Chicago,IL,4.7,41,Pizza,Main Course,$12.99,357,Yes
+R0174,Healthy Bowl,Healthy,Boston,MA,4.5,52,Paneer Tikka,Main Course,$10.99,560,Yes
+R0022,Healthy Bowl,Healthy,Chicago,IL,3.6,46,Pasta,Snack,$10.49,317,No
+R0156,Spice Route,Indian,Boston,MA,4.9,35,Taco,Main Course,$4.99,346,Yes
+R0012,Burger Haven,American,Phoenix,AZ,5.0,37,Sushi Roll,Beverage,$11.99,632,Yes
+R0040,Pizza Palace,Italian,Seattle,WA,4.9,21,Taco,Beverage,$4.99,811,Yes
+R0153,Burger Haven,American,Houston,TX,4.8,51,Pizza,Main Course,$12.99,514,Yes
+R0210,Sushi Express,Japanese,Boston,MA,4.1,42,Taco,Main Course,$4.99,197,No
+R0020,Spice Route,Indian,Phoenix,AZ,3.8,31,Sushi Roll,Snack,$11.99,264,No
+R0111,Spice Route,Indian,Seattle,WA,4.9,19,Butter Chicken,Starter,$13.99,826,Yes
+R0087,Cafe Delight,Cafe,Seattle,WA,4.2,46,Taco,Beverage,$4.99,548,No
+R0249,Dragon Wok,Chinese,Houston,TX,4.5,49,Butter Chicken,Beverage,$13.99,560,No
+R0220,Spice Route,Indian,Houston,TX,4.6,52,Taco,Beverage,$4.99,129,No
+R0242,Cafe Delight,Cafe,Seattle,WA,4.8,54,Sushi Roll,Main Course,$11.99,430,Yes
+R0226,Burger Haven,American,Dallas,TX,4.0,31,Burger,Starter,$8.99,274,No
+R0089,Dragon Wok,Chinese,Boston,MA,3.6,58,Taco,Main Course,$4.99,292,Yes
+R0130,Dragon Wok,Chinese,Seattle,WA,4.3,43,Pasta,Beverage,$10.49,453,No
+R0019,BBQ Nation,American,Chicago,IL,4.0,25,Noodles,Dessert,$9.49,661,Yes
+R0146,Cafe Delight,Cafe,Dallas,TX,4.5,37,Butter Chicken,Dessert,$13.99,744,Yes
+R0007,Sushi Express,Japanese,Phoenix,AZ,4.8,60,Burger,Main Course,$8.99,673,Yes
+R0257,Dragon Wok,Chinese,New York,NY,4.8,42,Pasta,Dessert,$10.49,1130,No
+R0063,Spice Route,Indian,Houston,TX,4.7,53,Burger,Beverage,$8.99,533,No
+R0103,Spice Route,Indian,Los Angeles,CA,4.2,60,Paneer Tikka,Beverage,$10.99,806,Yes
+R0260,Burger Haven,American,Seattle,WA,4.9,60,Butter Chicken,Starter,$13.99,533,No
+R0140,Dragon Wok,Chinese,Dallas,TX,4.9,24,Coffee,Beverage,$3.99,1154,No
+R0192,Burger Haven,American,New York,NY,4.6,57,Pizza,Starter,$12.99,378,Yes
+R0167,Dragon Wok,Chinese,Phoenix,AZ,3.8,19,Burger,Starter,$8.99,479,Yes
+R0132,BBQ Nation,American,Boston,MA,4.5,42,Noodles,Main Course,$9.49,784,Yes
+R0013,Burger Haven,American,Chicago,IL,3.5,44,Coffee,Dessert,$3.99,888,No
+R0219,Dragon Wok,Chinese,Houston,TX,4.8,32,Taco,Beverage,$4.99,584,Yes
+R0086,Burger Haven,American,Chicago,IL,4.4,16,Salad,Beverage,$7.49,946,Yes
+R0093,Pizza Palace,Italian,Houston,TX,4.6,48,Pasta,Snack,$10.49,791,No
+R0205,Taco Fiesta,Mexican,New York,NY,3.8,40,Butter Chicken,Beverage,$13.99,1157,Yes
+R0300,Dragon Wok,Chinese,Seattle,WA,3.5,46,Noodles,Main Course,$9.49,887,No
+R0192,Mediterraneo,Mediterranean,Houston,TX,3.9,33,Salad,Snack,$7.49,504,Yes
+R0099,Healthy Bowl,Healthy,Seattle,WA,4.6,52,Coffee,Beverage,$3.99,929,No
+R0286,Burger Haven,American,New York,NY,4.0,17,Pizza,Main Course,$12.99,147,Yes
+R0232,Sushi Express,Japanese,Phoenix,AZ,4.8,40,Sushi Roll,Dessert,$11.99,674,Yes
+R0092,Mediterraneo,Mediterranean,Los Angeles,CA,5.0,21,Burger,Beverage,$8.99,290,Yes
+R0069,Burger Haven,American,Phoenix,AZ,4.8,32,Salad,Main Course,$7.49,292,No
+R0289,Taco Fiesta,Mexican,Boston,MA,4.0,55,Sushi Roll,Snack,$11.99,541,No
+R0121,Pizza Palace,Italian,Los Angeles,CA,3.7,52,Paneer Tikka,Main Course,$10.99,317,Yes
+R0157,Sushi Express,Japanese,Seattle,WA,3.6,15,Pizza,Snack,$12.99,836,No
+R0276,Cafe Delight,Cafe,Phoenix,AZ,3.8,55,Salad,Beverage,$7.49,666,No
+R0060,Cafe Delight,Cafe,Boston,MA,3.7,29,Burger,Snack,$8.99,905,Yes
+R0034,Spice Route,Indian,Chicago,IL,4.1,55,Taco,Starter,$4.99,824,No
+R0034,Dragon Wok,Chinese,New York,NY,4.9,44,Burger,Main Course,$8.99,837,Yes
+R0273,Sushi Express,Japanese,Los Angeles,CA,4.3,53,Noodles,Starter,$9.49,1083,Yes
+R0084,Healthy Bowl,Healthy,New York,NY,4.9,15,Pizza,Snack,$12.99,436,Yes
+R0147,Taco Fiesta,Mexican,New York,NY,4.3,59,Burger,Main Course,$8.99,1011,No
+R0113,Cafe Delight,Cafe,Houston,TX,4.4,55,Taco,Starter,$4.99,661,Yes
+R0026,Burger Haven,American,Dallas,TX,3.8,38,Taco,Main Course,$4.99,814,No
+R0168,Spice Route,Indian,Seattle,WA,4.0,37,Pizza,Beverage,$12.99,796,No
+R0144,Spice Route,Indian,Los Angeles,CA,4.8,47,Pizza,Snack,$12.99,586,Yes
+R0196,BBQ Nation,American,Phoenix,AZ,4.8,37,Pizza,Main Course,$12.99,731,Yes
+R0283,Pizza Palace,Italian,Seattle,WA,4.0,40,Sushi Roll,Beverage,$11.99,770,No
+R0298,Taco Fiesta,Mexican,Los Angeles,CA,4.7,29,Burger,Starter,$8.99,318,No
+R0191,Healthy Bowl,Healthy,Phoenix,AZ,4.3,40,Burger,Main Course,$8.99,150,No
+R0213,Taco Fiesta,Mexican,Houston,TX,3.9,53,Pasta,Starter,$10.49,196,Yes
+R0110,BBQ Nation,American,Houston,TX,4.8,19,Sushi Roll,Beverage,$11.99,386,Yes
+R0053,Cafe Delight,Cafe,Houston,TX,4.9,59,Salad,Beverage,$7.49,855,Yes
+R0160,Dragon Wok,Chinese,Los Angeles,CA,3.8,53,Pizza,Snack,$12.99,337,No
+R0045,Mediterraneo,Mediterranean,Seattle,WA,4.6,37,Pizza,Dessert,$12.99,141,No
+R0134,Spice Route,Indian,Phoenix,AZ,4.5,39,Coffee,Dessert,$3.99,229,No
+R0103,Dragon Wok,Chinese,Houston,TX,4.3,36,Burger,Beverage,$8.99,241,Yes
+R0283,Pizza Palace,Italian,Phoenix,AZ,4.5,46,Pizza,Snack,$12.99,93,No
+R0062,Cafe Delight,Cafe,Boston,MA,4.6,20,Salad,Beverage,$7.49,901,Yes
+R0279,BBQ Nation,American,Boston,MA,4.3,57,Coffee,Starter,$3.99,1190,No
+R0171,Cafe Delight,Cafe,Boston,MA,4.5,52,Coffee,Snack,$3.99,779,Yes
+R0169,BBQ Nation,American,Phoenix,AZ,3.8,33,Paneer Tikka,Main Course,$10.99,326,No
+R0230,Sushi Express,Japanese,Boston,MA,4.7,19,Salad,Beverage,$7.49,575,Yes
+R0238,Pizza Palace,Italian,Chicago,IL,4.0,60,Paneer Tikka,Beverage,$10.99,487,No
+R0263,Cafe Delight,Cafe,Los Angeles,CA,4.8,33,Pasta,Main Course,$10.49,974,No
+R0273,Dragon Wok,Chinese,Dallas,TX,4.0,16,Coffee,Main Course,$3.99,975,Yes
+R0002,Cafe Delight,Cafe,New York,NY,4.0,15,Noodles,Dessert,$9.49,531,Yes
+R0209,Sushi Express,Japanese,Chicago,IL,4.9,31,Sushi Roll,Dessert,$11.99,263,Yes
+R0086,Cafe Delight,Cafe,Chicago,IL,3.5,32,Salad,Snack,$7.49,448,No
+R0032,Taco Fiesta,Mexican,Houston,TX,3.6,57,Paneer Tikka,Main Course,$10.99,527,Yes
+R0259,Pizza Palace,Italian,Los Angeles,CA,4.4,59,Pizza,Main Course,$12.99,736,No
+R0077,Dragon Wok,Chinese,Dallas,TX,3.9,23,Noodles,Main Course,$9.49,951,No
+R0111,Cafe Delight,Cafe,Boston,MA,4.4,38,Butter Chicken,Dessert,$13.99,579,No
+R0145,Cafe Delight,Cafe,New York,NY,4.3,16,Burger,Beverage,$8.99,638,No
+R0011,Healthy Bowl,Healthy,Chicago,IL,4.5,53,Burger,Starter,$8.99,135,No
+R0145,BBQ Nation,American,Phoenix,AZ,4.8,41,Pizza,Main Course,$12.99,608,No
+R0201,Spice Route,Indian,Phoenix,AZ,4.1,40,Burger,Snack,$8.99,1139,Yes
+R0158,Healthy Bowl,Healthy,Boston,MA,4.4,17,Butter Chicken,Starter,$13.99,332,No
+R0266,Healthy Bowl,Healthy,Boston,MA,4.3,55,Pizza,Starter,$12.99,1005,Yes
+R0206,Healthy Bowl,Healthy,Los Angeles,CA,3.5,48,Salad,Dessert,$7.49,787,Yes
+R0253,Cafe Delight,Cafe,Los Angeles,CA,4.0,29,Butter Chicken,Main Course,$13.99,539,No
